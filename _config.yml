@@ -8,13 +8,13 @@ highlighter: true
 
 markdown: kramdown
 
-# topbar:
-#   -
-#     url : '/usage/index.html'
-#     title : 'Start Blogging'
-#   -
-#     url : '/developers/index.html'
-#     title : 'Developers'
+topbar:
+  -
+    url : '/about/'
+    title : 'About the Free Law Founders'
+  -
+    url : '/resources/'
+    title : 'Resources'
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.

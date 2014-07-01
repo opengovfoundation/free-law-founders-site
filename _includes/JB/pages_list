@@ -23,18 +23,15 @@ Usage:
 {% if site.JB.pages_list.provider == "custom" %}
   {% include custom/pages_list %}
 {% else %}
-  {% assign pages_list = site.pages | sort: 'menu_order' %}
-  {% for order in (1..site.pages.size) %}
-  !{{order}}
-    {% for node in pages_list  %}
-      {% if node.menu_order == order %}
-        {% if page.url == node.url %}
-        <li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a></li>
-        {% else %}
-        <li><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
+  {% if pages_list == nil or pages_list.size < 1 %}
+    {% assign pages_list = site.pages %}
+  {% endif %}
+  {% for node in pages_list  %}
+    {% if page.url == node.url %}
+    <li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a></li>
+    {% else %}
+    <li><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
+    {% endif %}
   {% endfor %}
 {% endif %}
 {% assign pages_list = nil %}
