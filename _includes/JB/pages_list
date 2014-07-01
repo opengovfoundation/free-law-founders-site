@@ -23,8 +23,8 @@ Usage:
 {% if site.JB.pages_list.provider == "custom" %}
   {% include custom/pages_list %}
 {% else %}
-  {% assign pages_list = site.pages %}
-  {% for node in pages_list | sort: 'menu_order'  %}
+  {% assign pages_list = site.pages | sort: 'menu_order' %}
+  {% for node in pages_list  %}
     {% if node.top_menu == true %}
       {% if page.url == node.url %}
       <li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a></li>
