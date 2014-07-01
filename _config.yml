@@ -3,8 +3,10 @@
 permalink: /:categories/:title.html
 
 exclude: [".rbenv-version", "README.md", "Rakefile", "CNAME"]
-auto: true
-pygments: true
+
+highlighter: true
+
+markdown: kramdown
 
 # topbar:
 #   -
