@@ -2,10 +2,14 @@
 
 ## Editing
 
-Simply click on the `index.md` file for the page you want to edit,
+Simply click on the `.md` file for the page you want to edit,
 and then click the "Edit" button on the tabbed navigation for that
 file.  We're using [GitHub Markdown](https://help.github.com/articles/github-flavored-markdown)
 to render the site.
+
+To add a link to the main menu, simply add it to the `topbar` list in
+[_config.yml](./_config.yml)
+
 
 
 ## Credits
