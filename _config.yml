@@ -16,7 +16,7 @@ topbar:
     url : '/resources/'
     title : 'Resources'
   - 
-    url : '/who/'
+    url : '/who-we-are/'
     title : 'Who We Are'
 
 # Themes are encouraged to use these universal variables
