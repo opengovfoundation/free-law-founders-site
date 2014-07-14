@@ -29,12 +29,10 @@ Any citizen living in a Free Law community should be able to:
 5. Expect that all those involved in lawmaking are committed to injecting innovation, iteration and improvement into their work.
 
 ### The Challenge 
-
-The Free Law Founder Challenge
  
 You can join the Free Law Founders Challenge: To create a one-stop shop website for legislatures to be more open, transparent, and tech-savvy before the year is out.
  
-At their keynote speech “Hack The Law” at the MIT Media Lab Legal Hackathon online conference in June 2014, New York City Council Member Ben Kallos and San Francisco Supervisor Mark Farrell called on a nation of civic hackers to create a free and open source democracy platform for legislatures by next year.
+At their keynote speech [“Hack The Law”](http://dazzagreenwood.com/blog/openlegalcode-hack-the-law-its-your-law/) at the [MIT Media Lab Legal Hackathon online conference](http://legalhackathon.org/) on June 2014, [New York City Council Member Ben Kallos](http://council.nyc.gov/d5/html/members/home.shtml) and [San Francisco Supervisor Mark Farrell](http://www.sfbos.org/index.aspx?page=11323) called on a nation of civic hackers to create a free and open source democracy platform for legislatures by next year.
  
 The site will have five free and open source tools for:
  
