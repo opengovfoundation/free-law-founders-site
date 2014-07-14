@@ -38,11 +38,11 @@ At their keynote speech “Hack The Law” at the MIT Media Lab Legal Hackathon 
  
 The site will have five free and open source tools for:
  
-·        Drafting legislation
-·        Commenting on legislation
-·        Making it available over open API
-·        Opening up the law online
-·        Authenticating the law
+·        Drafting legislation  
+·        Commenting on legislation  
+·        Making it available over open API  
+·        Opening up the law online  
+·        Authenticating the law  
  
 Government is due for an upgrade, and this challenge helps get us there. Legislatures can become the most transparent, efficient and connected versions of themselves, but only if we apply our collective ingenuity to the task.
  
