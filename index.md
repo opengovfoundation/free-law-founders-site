@@ -6,8 +6,6 @@ header : Free Law Founders
 
 # Free Law Founders
 
-The Free Law Founders is a coalition of leaders from New York, San Francisco, Boston, Chicago, and Washington, DC working to open government processes and information to scrutiny, collaboration, and innovation. 
-
 ###Announcing the Free Law Founders 
 
 For Immediate Release: July 3, 2014
