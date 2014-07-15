@@ -37,7 +37,8 @@ Susana Mendoza was elected as the youngest member of the 92nd General Assembly i
 
 ### Washington, DC
 
-#### General Counsel for the District of Columbia, David Zvenyach
+#### General Counsel for the District of Columbia, David Zvenyach  
+
 
 #### [Seamus Kraft, Co-Founder and Executive Director, The OpenGov Foundation](http://www.opengovfoundation.org/about-us/)
 
