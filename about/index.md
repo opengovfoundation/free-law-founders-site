@@ -4,8 +4,6 @@ title: "About The Free Law Founders"
 ---
 {% include JB/setup %}
 
-## About
-
 The Free Law Founders is a coalition of leaders from New York, San Francisco, Boston, Chicago, and Washington, DC working to open government processes and information to scrutiny, collaboration, and innovation. 
 
 ### Declaration of Independence of Law
