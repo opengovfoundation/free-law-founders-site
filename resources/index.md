@@ -4,8 +4,6 @@ title: "Resources"
 ---
 {% include JB/setup %}
 
-## Resources
-
 ### Press
 
 * Government Executive: "The Ultimate in Open Government: Unlocking the Law": http://www.govexec.com/state-local/2014/07/ultimate-open-government-unlocking-laws/87997/
