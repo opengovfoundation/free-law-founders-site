@@ -10,7 +10,7 @@ header : Free Law Founders
 
 For Immediate Release: July 3, 2014
  
-Media Contact:
+Media Contact:  
 -	Jess Montejano, Legislative Aide, San Francisco District 2 Supervisor Mark Farrell, 415-554-7752, Jess.Montejano@sfgov.org  
 -	Sarah Anders, Communications Director, New York City Council Member Ben Kallos, 617-279-3964, Sanders@BenKallos.com  
 -	Seamus Kraft, Executive Director, OpenGovFoundation, 760-659-0631, seamus@opengovfoundation.org
