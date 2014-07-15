@@ -6,14 +6,15 @@ title: "Who We Are"
 
 ### New York 
 
-#### Council Member Ben Kallos: 
+#### [Council Member Ben Kallos](http://council.nyc.gov/d5/html/members/home.shtml)
+ 
 At the beginning of his career in public service, Ben Kallos put Albany voting records online so New Yorkers could hold politicians accountable. Since then, he has run a government reform organization that helped defeat a corrupt politician and has served as Policy Director for former Public Advocate Mark Green. Council Member Kallos serves as Chair of the Committee on Governmental Operations of the City Council, where he has fought to bring reform and transparency to government agencies. Praised by the New York Times for his "fresh ideas," Council Member Kallos has advocated for improving our schools, senior services and transportation.
 
 Council Member Kallos graduated from Bronx Science, SUNY Albany and SUNY Buffalo Law School. He has a background in law, working as a union-side labor attorney, as well as technology and government, and has served as a member of Community Board 8 and Statewide Committee Chair for the New York Democratic Lawyers Council.  He and his wife reside on the East Side, where he has lived his entire life.
 
 ### San Francisco 
 
-#### Supervisor Mark Farrell 
+#### [Supervisor Mark Farrell](http://www.sfbos.org/index.aspx?page=11323) 
 Supervisor Mark Farrell represents District 2, which includes the Presidio, Marina, Cow Hollow, Pacific Heights, Presidio Heights, Anza Vista, Laurel Heights, Jordan Park, the Lake Street corridor, Sea Cliff and parts of Russian Hill. 
 
 Supervisor Farrell currently serves as: Chair of the Budget and Finance Committee, as a Member of the City and School District Committee, as a Member of the Transportation Authority, as a Member of the Transportation Authority’s Finance Committee, as a Member of the State Legislation Committee, as a Member of the Health Service System Board, on the Department of Emergency Management Disaster Council, on the San Francisco America's Cup Organizing Committee, and on the 2016-17 Super Bowl Bid Committee. 
@@ -26,7 +27,7 @@ Supervisor Farrell currently resides in the Jordan Park neighborhood with his wi
 
 ### Chicago 
 
-#### City Clerk Susana Mendoza 
+#### [City Clerk Susana Mendoza](http://www.susanamendoza.com/Bio) 
 
 Susana Mendoza was sworn in as City Clerk of Chicago on May 16, 2011 and is the first woman ever elected to the Office of the City Clerk. Before City Clerk, she proudly served six terms as a Democratic member of the Illinois House of Representatives from 2001 to 2011, representing the 1st District of Illinois - which includes the Chicago communities of Brighton Park, Little Village, Gage Park, and Back of the Yards. As an Illinois State Representative, she has been publicly recognized for her leadership and legislation on social services, education, law enforcement and job creation. 
 
@@ -38,9 +39,9 @@ Susana Mendoza was elected as the youngest member of the 92nd General Assembly i
 
 #### General Counsel for the District of Columbia, David Zvenyach
 
-#### Seamus Kraft, Co-Founder and Executive Director, The OpenGov Foundation
+#### [Seamus Kraft, Co-Founder and Executive Director, The OpenGov Foundation](http://www.opengovfoundation.org/about-us/)
 
-Seamus Kraft is the Executive Director of The OpenGov Foundation (www.OpenGovFoundation.org), a fiercely non-partisan, non-profit transforming the process and policy of our democracy for the Internet Age.  He steers two pathbreaking software projects reinventing local, state and federal government: Madison - the leading digital policy-making platform in the United States - and AmericaDecoded.org - the first-ever free, modern online law library built for everyday Americans.  
+Seamus Kraft is the Executive Director of [The OpenGov Foundation](www.OpenGovFoundation.org), a fiercely non-partisan, non-profit transforming the process and policy of our democracy for the Internet Age.  He steers two pathbreaking software projects reinventing local, state and federal government: Madison - the leading digital policy-making platform in the United States - and AmericaDecoded.org - the first-ever free, modern online law library built for everyday Americans.  
 
 Combining his passions for technology, education and public service, Seamus co-founded OpenGov with U.S. Rep. Darrell Issa to help citizens be heard by their elected officials and government workers fulfil their responsibilities with the most user-friendly tools possible.  From 2009 to 2012, he served as Director of Digital Strategy and Press Secretary for the House Oversight and Government Reform Committee, where he was named one of the “20 Most Innovative People in Democracy” by TechCrunch.  
 
@@ -49,6 +50,13 @@ Combining his passions for technology, education and public service, Seamus co-f
 #### Curt Savoie, Acting CIO for City of Boston
 
 Curt Savoie is the Principal Data Scientist in the Department of Innovation & Technology for the City of Boston.
+
+### MIT Media Lab
+
+#### [Dazza Greenwood](http://civics.com/bio/)
+
+Daniel “Dazza” Greenwood leads the CIVICS.com consultancy, focusing at the intersection of business, law and technology for the new innovation economy.  As a lecturer at the MIT Media Lab, Dazza instructs and conducts research projects on big data, identity federation and trust frameworks. Dazza also serves as the Vice Chair of the Identity Ecosystem Steering Group’s Plenary, which is developing a framework for federated identity and privacy at the international level.  Dazza has consulted to fortune 100 companies, including the insurance industry and financial services sector, architecting the creation of trust frameworks.  Federally, Dazza hastestified several times on eCommerce before the US House and US Senate and has consulted to NASA as an Online Identity expert, GSA as a multilateral rules drafting expert, Homeland Security as a multistate Federal governance expert and many other agencies and departments. Dazza is a member of the Steward’s Council of the Identity Commons and heads it’s Forum on Law of Identity and Personal Data.  Dazza also co-founded the eCitizen Foundation, which focused on creating citizen-centered online identity and personal data sharing projects and solutions.
+
 
 
 
