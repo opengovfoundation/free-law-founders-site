@@ -11,10 +11,10 @@ header : Free Law Founders
 For Immediate Release: July 3, 2014
  
 Media Contact:
--	Jess Montejano, Legislative Aide, San Francisco District 2 Supervisor Mark Farrell, 415-554-7752, Jess.Montejano@sfgov.org
--	Sarah Anders, Communications Director, New York City Council Member Ben Kallos, 617-279-3964, Sanders@BenKallos.com
+-	Jess Montejano, Legislative Aide, San Francisco District 2 Supervisor Mark Farrell, 415-554-7752, Jess.Montejano@sfgov.org  
+-	Sarah Anders, Communications Director, New York City Council Member Ben Kallos, 617-279-3964, Sanders@BenKallos.com  
 -	Seamus Kraft, Executive Director, OpenGovFoundation, 760-659-0631, seamus@opengovfoundation.org
-
+  
 Open Government Leaders Across the U.S. Announce Formation of the “Free Law Founders”
 San Francisco, New York City, Chicago, Boston, and Washington D.C. come together to form open government coalition dedicated to bringing legislative information free to the people 
 
