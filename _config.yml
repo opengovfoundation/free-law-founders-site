@@ -9,11 +9,11 @@ highlighter: true
 markdown: kramdown
 
 topbar:
-   -
+  -
     url : '/about/'
     title : 'About'
 
-   -
+  -
     url : '/resources/'
     title : 'Resources'
   
