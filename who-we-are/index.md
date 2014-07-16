@@ -4,7 +4,7 @@ title: "Who We Are"
 ---
 {% include JB/setup %}
 
-The Free Law Founders is a nation-wide effort of people seeking to improve how we access, produce, and maintain the most important public information in America--our laws, legislation, and legal codes.  From San Francisco to New York City, we're coming together to tackle (this challenge)[link to challenge page] with technology: creating the modern tools and democratic data standards our city and state governments need to serve citizens efficiently, effectively, and accountably.  Here are some of the Free Law Founders who have accepted (this challenge)[link to challenge page].  [Click here](http://eepurl.com/Yu7fr) to join us.
+The Free Law Founders is a nation-wide effort of people seeking to improve how we access, produce, and maintain the most important public information in America--our laws, legislation, and legal codes.  From San Francisco to New York City, we're coming together to tackle (this challenge)[link to challenge page] with technology: creating the modern tools and democratic data standards our city and state governments need to serve citizens efficiently, effectively, and accountably.  Here are some of the Free Law Founders who have accepted (this challenge)[http://opengovfoundation.github.io/free-law-founders-site//the-challenge/]. [Click here](http://eepurl.com/Yu7fr) to join us.
 
 
 ### New York City, New York
@@ -13,7 +13,7 @@ The Free Law Founders is a nation-wide effort of people seeking to improve how w
  
 At the beginning of his career in public service, Ben Kallos put Albany voting records online so New Yorkers could hold politicians accountable. Since then, he has run a government reform organization that helped defeat a corrupt politician and has served as Policy Director for former Public Advocate Mark Green. Council Member Kallos serves as Chair of the Committee on Governmental Operations of the City Council, where he has fought to bring reform and transparency to government agencies. Praised by the New York Times for his "fresh ideas," Council Member Kallos has advocated for improving our schools, senior services and transportation.
 
-Council Member Kallos graduated from Bronx Science, SUNY Albany and SUNY Buffalo Law School. He has a background in law, working as a union-side labor attorney, as well as technology and government, and has served as a member of Community Board 8 and Statewide Committee Chair for the New York Democratic Lawyers Council.  He and his wife reside on the East Side, where he has lived his entire life.
+Council Member Kallos graduated from Bronx Science, SUNY Albany and SUNY Buffalo Law School. He has a background in law, working as a union-side labor attorney, as well as technology and government, and has served as a member of Community Board 8 and Statewide Committee Chair for the New York Democratic Lawyers Council. He and his wife reside on the East Side, where he has lived his entire life.
 
 ### San Francisco, California 
 
