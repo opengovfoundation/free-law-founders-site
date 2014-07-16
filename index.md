@@ -10,4 +10,4 @@ header : The Free Law Founders
 
 A massive effort is needed to upgrade our legislatures and legal data.  No one city or state or private company can succeed alone.  But everyone is paying the price for the inefficient, opaque and costly ways we make laws today.  That's why we're coming together to contribute our time, our talents and our energy to the Free Law Founders, bringing the results back to legislatures where we live and work.  
 
-We believe every citizen and every government worker deserves the benefits of digital-first democracy.  And we believe that everyone has a role to play in the Free Law Founders reinvention of government of the people, by the people and for the people.  Won't you (join us)[link to mailchimp form]?
+We believe every citizen and every government worker deserves the benefits of digital-first democracy.  And we believe that everyone has a role to play in the Free Law Founders reinvention of government of the people, by the people and for the people.  Won't you [join us](http://eepurl.com/Yu7fr)?
