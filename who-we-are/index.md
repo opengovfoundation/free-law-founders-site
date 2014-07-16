@@ -66,11 +66,6 @@ Bill has been a web developer for seventeen years. In that time has worked for a
 
 Dazza Greenwood, a lecturer and research scientist at the MIT Media Lab, conducts research projects on big data, identity federation and trust frameworks with 2013/2014 academic year research focus on defining and developing "Computational Legal Science" as a sub-discipline of computational social science.  Dazza leads the CIVICS.com consultancy, providing solutions at the intersection of business, law and technology for the innovation economy.  Dazza also serves as the Vice Chair of the Plenary for the Identity Ecosystem Steering Group (IDESG of NSTIC), which is developing a framework for federated identity and privacy at the international level.  Dazza has consulted to fortune 100 companies, including the insurance industry and financial services sector, architecting the creation of trust frameworks.  Federally, Dazza has testified several times on eCommerce before the US House and US Senate and has consulted to NASA as an Online Identity expert, GSA as a multilateral rules drafting expert, Homeland Security as a multistate Federal governance expert and many other agencies and departments. Dazza is a member of the Steward’s Council of the Identity Commons and heads it’s Forum on Law of Identity and Personal Data.  Dazza also co-founded the eCitizen Foundation, which focused on creating citizen-centered online identity and personal data sharing projects and solutions. 
 
-### The Sunlight Foundation
-
-#### [Thom Neale](http://sunlightfoundation.com/team/tneale/) 
-
-Thom Neale is a web developer on the Open States Project, an effort to scrape and standardize legislative information from all fifty states. He holds a Bachelor of Arts degree in Political Science from Point Loma Nazarene University and graduated from the University of California, Hastings College of Law. Before joining Sunlight Labs, he worked as a legislative analyst at the New York State Assembly and as a legal editor for the New York State Court of Appeals. When not programming, Thom enjoys playing Rock Band and taking his son, Jacob, to the playground
 
 ### Participatory Politics Foundation
 
