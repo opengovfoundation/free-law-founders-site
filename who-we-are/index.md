@@ -46,6 +46,7 @@ Seamus Kraft is the Executive Director of [The OpenGov Foundation](www.OpenGovFo
 
 Combining his passions for technology, education and public service, Seamus co-founded OpenGov with U.S. Rep. Darrell Issa to help citizens be heard by their elected officials and government workers fulfil their responsibilities with the most user-friendly tools possible.  From 2009 to 2012, he served as Director of Digital Strategy and Press Secretary for the House Oversight and Government Reform Committee, where he was named one of the “20 Most Innovative People in Democracy” by TechCrunch.  
 
+
 ### Boston
 
 #### Curt Savoie, Acting CIO for City of Boston
@@ -58,6 +59,15 @@ Curt Savoie is the Principal Data Scientist in the Department of Innovation & Te
 
 Daniel “Dazza” Greenwood leads the CIVICS.com consultancy, focusing at the intersection of business, law and technology for the new innovation economy.  As a lecturer at the MIT Media Lab, Dazza instructs and conducts research projects on big data, identity federation and trust frameworks. Dazza also serves as the Vice Chair of the Identity Ecosystem Steering Group’s Plenary, which is developing a framework for federated identity and privacy at the international level.  Dazza has consulted to fortune 100 companies, including the insurance industry and financial services sector, architecting the creation of trust frameworks.  Federally, Dazza hastestified several times on eCommerce before the US House and US Senate and has consulted to NASA as an Online Identity expert, GSA as a multilateral rules drafting expert, Homeland Security as a multistate Federal governance expert and many other agencies and departments. Dazza is a member of the Steward’s Council of the Identity Commons and heads it’s Forum on Law of Identity and Personal Data.  Dazza also co-founded the eCitizen Foundation, which focused on creating citizen-centered online identity and personal data sharing projects and solutions.
 
+### The Sunlight Foundation
+
+#### [Thom Neale](http://sunlightfoundation.com/team/tneale/) 
+
+Thom Neale is a web developer on the Open States Project, an effort to scrape and standardize legislative information from all fifty states. He holds a Bachelor of Arts degree in Political Science from Point Loma Nazarene University and graduated from the University of California, Hastings College of Law. Before joining Sunlight Labs, he worked as a legislative analyst at the New York State Assembly and as a legal editor for the New York State Court of Appeals. When not programming, Thom enjoys playing Rock Band and taking his son, Jacob, to the playground
+
+### [David Moore, Executive Director, Participatory Politics Foundation](http://www.participatorypolitics.org/about/our-staff/)
+
+David is the Executive Director of PPF and has served as Program Manager of OpenCongress since its public launch in Feburary 2007. He graduated from Brown University with degrees in English and Philosophy. Previously, he worked as the first Outreach Coordinator for the Participatory Culture Foundation and helped to launch the open-source Miro video player. David spends a decent amount of time following the Milwaukee Brewers. He lives in Brooklyn, NY.
 
 
 
