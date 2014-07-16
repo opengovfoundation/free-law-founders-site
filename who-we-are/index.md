@@ -4,7 +4,10 @@ title: "Who We Are"
 ---
 {% include JB/setup %}
 
-### New York 
+The Free Law Founders is a nation-wide effort of people seeking to improve how we access, produce, and maintain the most important public information in America--our laws, legislation, and legal codes.  From San Francisco to New York City, we're coming together to tackle (this challenge)[link to challenge page] with technology: creating the modern tools and democratic data standards our city and state governments need to serve citizens efficiently, effectively, and accountably.  Here are some of the Free Law Founders who have accepted (this challenge)[link to challenge page].  [Click here](http://eepurl.com/Yu7fr) to join us.
+
+
+### New York City, New York
 
 #### [Council Member Ben Kallos](http://council.nyc.gov/d5/html/members/home.shtml)
  
@@ -12,7 +15,7 @@ At the beginning of his career in public service, Ben Kallos put Albany voting r
 
 Council Member Kallos graduated from Bronx Science, SUNY Albany and SUNY Buffalo Law School. He has a background in law, working as a union-side labor attorney, as well as technology and government, and has served as a member of Community Board 8 and Statewide Committee Chair for the New York Democratic Lawyers Council.  He and his wife reside on the East Side, where he has lived his entire life.
 
-### San Francisco 
+### San Francisco, California 
 
 #### [Supervisor Mark Farrell](http://www.sfbos.org/index.aspx?page=11323) 
 Supervisor Mark Farrell represents District 2, which includes the Presidio, Marina, Cow Hollow, Pacific Heights, Presidio Heights, Anza Vista, Laurel Heights, Jordan Park, the Lake Street corridor, Sea Cliff and parts of Russian Hill. 
@@ -25,7 +28,7 @@ Prior to being elected to the Board of Supervisors, Supervisor Farrell practiced
 
 Supervisor Farrell currently resides in the Jordan Park neighborhood with his wife and three children.
 
-### Chicago 
+### Chicago, Illinois  
 
 #### [City Clerk Susana Mendoza](http://www.susanamendoza.com/Bio) 
 
@@ -52,7 +55,7 @@ Combining his passions for technology, education and public service, Seamus co-f
 
 Bill has been a web developer for seventeen years. In that time has worked for a variety of start-ups, client service firms and government agencies, including as the technical lead for several award-winning teams.  As an “oldschool” web geek, he likes to work with the whole stack, from servers to css and everything in between.  Before joining OpenGov, he was a major contributor to The State Decoded open source software project that puts the law online the right way.As a native of Charlottesville, VA, Bill can often be found hiking, enjoying the local restaurant scene, or philosophizing about the intricacies of tea. 
 
-### Boston
+### Boston, Massachusetts
 
 #### Curt Savoie, Principal Data Scientist, Department of Innovation & Technology 
 
