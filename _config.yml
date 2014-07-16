@@ -12,9 +12,7 @@ topbar:
   -
     url : '/about/'
     title : 'About'
-  -
-    url : '/resources/'
-    title : 'Resources'
+
   - 
     url : '/who-we-are/'
     title : 'Who We Are'
@@ -22,6 +20,10 @@ topbar:
   -
     url: '/the-challenge/'
     title : 'The Free Law Challenge' 
+    
+   -
+    url : '/resources/'
+    title : 'Resources'
     
     
 # Themes are encouraged to use these universal variables
