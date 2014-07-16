@@ -20,7 +20,7 @@ topbar:
     title : 'Who We Are'
 
   -
-    url: '/the challenge/'
+    url: '/the-challenge/'
     title : 'The Challenge' 
     
     
