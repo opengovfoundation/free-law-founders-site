@@ -48,6 +48,9 @@ Seamus Kraft is the Executive Director of [The OpenGov Foundation](www.OpenGovFo
 
 Combining his passions for technology, education and public service, Seamus co-founded OpenGov with U.S. Rep. Darrell Issa to help citizens be heard by their elected officials and government workers fulfil their responsibilities with the most user-friendly tools possible.  From 2009 to 2012, he served as Director of Digital Strategy and Press Secretary for the House Oversight and Government Reform Committee, where he was named one of the “20 Most Innovative People in Democracy” by TechCrunch.  
 
+#### [Bill Hunt, Senior Developer](http://www.opengovfoundation.org/about-us/)
+
+Bill has been a web developer for seventeen years. In that time has worked for a variety of start-ups, client service firms and government agencies, including as the technical lead for several award-winning teams.  As an “oldschool” web geek, he likes to work with the whole stack, from servers to css and everything in between.  Before joining OpenGov, he was a major contributor to The State Decoded open source software project that puts the law online the right way.As a native of Charlottesville, VA, Bill can often be found hiking, enjoying the local restaurant scene, or philosophizing about the intricacies of tea. 
 
 ### Boston
 
