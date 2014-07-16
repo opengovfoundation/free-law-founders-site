@@ -6,7 +6,7 @@ header : Free Law Founders
 
 # Free Law Founders
 
-###Announcing the Free Law Founders 
+### Announcing the Free Law Founders 
 
 For Immediate Release: July 16, 2014
  
@@ -15,9 +15,9 @@ Jess Montejano, Legislative Aide, San Francisco District 2 Supervisor Mark Farre
 Sarah Anders, Communications Director, New York City Council Member Ben Kallos, 617-279-3964, Sanders@BenKallos.com  
 Seamus Kraft, Executive Director, The OpenGov Foundation, 760-659-0631, seamus@opengovfoundation.org  
 
-Nationwide Coalition of City Officials and Civic Technologists Announcing the “Free Law Founders” 
+### Nationwide Coalition of City Officials and Civic Technologists Announcing the “Free Law Founders” 
 
-*Officials from NYC, DC, San Fran, Chicago & Boston join leaders in civic tech to develop tools that improve every citizen’s ability to access America’s laws, legislation and the legislative process itself on the Internet*
+#### *Officials from NYC, DC, San Fran, Chicago & Boston join leaders in civic tech to develop tools that improve every citizen’s ability to access America’s laws, legislation and the legislative process itself on the Internet*
 
 (NEW YORK, SAN FRANCISCO, BOSTON, CHICAGO, WASHINGTON D.C.) -  U.S. open government leaders today announced the formation of The Free Law Founders (FLF), a nation-wide partnership of local elected officials, non-profit software developers, educators, and city attorneys dedicated to upgrading how citizens can access America’s laws, legislation and the lawmaking process itself on the Internet.  Spearheaded by New York City Council Member Ben Kallos, San Francisco Supervisor Mark Farrell and Seamus Kraft of The OpenGov Foundation, the Free Law Founders have accepted the challenge of creating the modern tools, data standards and processes our state and local governments need to meet the growing challenges of democracy in the Internet Age.  Open to anyone willing to help accomplish these goals across the country, Chicago City Clerk Susana Mendoza, Washington, D.C. Council Chief Counsel David Zvenyach, Boston’s Department of Innovation and Technology, and more have already signed up to contribute.
 
