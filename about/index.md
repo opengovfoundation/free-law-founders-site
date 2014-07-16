@@ -27,7 +27,8 @@ Any citizen living in a Free Law community should be able to:
 5. Expect that all those involved in lawmaking are committed to injecting innovation, iteration and improvement into their work.
 
 ### The Current State of Affairs
-Some reasons behind the formation of the Free Law Founders
+
+Some reasons behind the formation of the Free Law Founders:
 
 #### Chicago, Illinois: The Process of Legislation and Codification 
 
