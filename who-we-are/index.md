@@ -35,6 +35,11 @@ Susana Mendoza graduated from Bolingbrook High School where she earned All-State
 
 Susana Mendoza was elected as the youngest member of the 92nd General Assembly in 2001. She has proven to be an aggressive leader with her efforts to improve education, public health, public safety and living conditions for the people of Illinois and the community she serves. Rep. Susana Mendoza was also a leading sponsor of HR 1650 which created the panel to impeach former Governor Blagojevich and she served as an active alternate member of the impeachment committee. 
 
+### Washington, DC
+
+#### David Zvenyach, General Counsel, DC Council
+
+
 ### The OpenGov Foundation
 
 #### [Seamus Kraft, Co-Founder and Executive Director](http://www.opengovfoundation.org/about-us/)
@@ -46,10 +51,6 @@ Combining his passions for technology, education and public service, Seamus co-f
 #### [Bill Hunt, Senior Developer](http://www.opengovfoundation.org/about-us/)
 
 Bill has been a web developer for seventeen years. In that time has worked for a variety of start-ups, client service firms and government agencies, including as the technical lead for several award-winning teams.  As an “oldschool” web geek, he likes to work with the whole stack, from servers to css and everything in between.  Before joining OpenGov, he was a major contributor to The State Decoded open source software project that puts the law online the right way.As a native of Charlottesville, VA, Bill can often be found hiking, enjoying the local restaurant scene, or philosophizing about the intricacies of tea. 
-
-### Washington, DC
-
-#### General Counsel for the District of Columbia, David Zvenyach    
 
 ### Boston
 
