@@ -12,7 +12,7 @@ The Free Law Founders is a coalition of leaders from New York, San Francisco, Bo
 
 We believe that our system of government is no longer free for the governed to access in the method of our times. And we, the Free Law Founders, have come together to tackle this growing challenge to democracy in America the American way: with innovation, with collaboration, and with a firm belief that in our country, better is always possible.
 
-###The Principles of Open Law & Open Legislation
+### The Principles of Open Law & Open Legislation
 
 Any citizen living in a Free Law community should be able to: 
 
@@ -26,21 +26,38 @@ Any citizen living in a Free Law community should be able to:
 
 5. Expect that all those involved in lawmaking are committed to injecting innovation, iteration and improvement into their work.
 
-### The Challenge 
- 
-You can join the Free Law Founders Challenge: To create a one-stop shop website for legislatures to be more open, transparent, and tech-savvy before the year is out.
- 
-At their keynote speech [“Hack The Law”](http://dazzagreenwood.com/blog/openlegalcode-hack-the-law-its-your-law/) at the [MIT Media Lab Legal Hackathon online conference](http://legalhackathon.org/) on June 2014, [New York City Council Member Ben Kallos](http://council.nyc.gov/d5/html/members/home.shtml) and [San Francisco Supervisor Mark Farrell](http://www.sfbos.org/index.aspx?page=11323) called on a nation of civic hackers to create a free and open source democracy platform for legislatures by next year.
- 
-The site will have five free and open source tools for:
- 
-·        Drafting legislation  
-·        Commenting on legislation  
-·        Making it available over open API  
-·        Opening up the law online  
-·        Authenticating the law  
- 
-Government is due for an upgrade, and this challenge helps get us there. Legislatures can become the most transparent, efficient and connected versions of themselves, but only if we apply our collective ingenuity to the task.
- 
-Do you agree with the Free Law Founders Challenge? [Sign up today.](http://eepurl.com/Yu7fr)
- 
+### The Current State of Affairs--Some reasons behind the formation of the Free Law Founders
+
+#### Chicago, Illinois: The Process of Legislation and Codification 
+
+
+* There are approximately 11 Council meetings per year.
+* Each Council meeting, over 11,000 pages are introduced and referred to a committee. Document types include ordinances, orders, appointments, resolutions, and the supporting documentation for each. We PDF, redact, and post all non-private information on the Legislative Information System within 48 hours of introduction. Next, the Clerk’s Office distributes the original (unredacted) to the appropriate committees for consideration, modification, and recommendation.
+* In the following weeks, committees return over 10,000 pages to the Clerk with a recommendation for full council action. We PDF and post any document modified during the committee process on the Legislative Information System.
+* About 10,000 pages pass per Council.
+* After each meeting, but prior to the next meeting, the Clerk’s Office synthesizes this information into a Journal of Proceedings that is approximately 2,000-3,000 pages.
+* The Journal of Proceedings is then used as the raw material for the codification process.
+
+--City Clerk Susana Mendoza 
+
+
+#### Boston, Massachussetts: Navigating the Data 
+
+With so much open data being released often there is a question of what it means. For example, with permitting or health code violations how do we know what the letter of the law really is? How can we comply with something that is buried somewhere in a maze of government websites? A part of the picture is missing and that's where the legislation and other municipal code can help clear up the "what" and to answer questions on the "why".
+
+--Curt Savoie, Principal Data Scientist, Department of Innovation & Technology
+
+
+#### New York City: Finding and Submitting Legislative Information  
+
+* Legistar is not easily searchable. Keywords searches have varying rates of success and often you can't find a bill unless you type its exact number, including the phantom zero.
+* Bills must still be submitted in paper form (4 copies of each). Given that digital versions of signatures are acceptable to sign onto and submit a bill, it would save time and trees to be able to submit electronic copies.
+* Not all of the video for committee hearings are posted to legistar. Some are, some aren't.
+
+--Council Member Ben Kallos
+
+#### Participatory Politics Foundation: The Demand for Better Government Data 
+
+Our previous non-profit project, OpenCongress.org, received up to 27 million web visits to official information about bills in Congress. The popularity of OpenCongress demonstrated there is a massive public demand for authoritative information about legislation, to track and share it with peers. When legislative data is made fully open to the public, developers and government watchdogs can make user-friendly, powerful web tools that connect communities to what’s happening in local government. One example is the open-source ChicagoCouncilmatic, which enables users to subscribe to email alerts and RSS feeds for legislative actions and provides more-accessible bill summaries for wider understanding. 
+
+--Executive Director David Moore 
