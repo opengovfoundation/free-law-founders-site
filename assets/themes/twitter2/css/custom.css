@@ -6,28 +6,28 @@ html, body {
   padding: 20px 30px 20px 30px;
 }
 
-/* HEADERS ======================================================== */ 
-h1 {margin:20px 0 20px 0}
-h2 {margin:10px 0 10px 0}
-h3 {margin:0px 0 10px 0}
-.content.page h1, .content.post h1, 
-  .content.splash h1, .content.landing h1 { 
+/* HEADERS ======================================================== */
+h1,h2,h3,h4,h5,h6 { margin-bottom: 10px }
+
+
+.content.page h1, .content.post h1,
+  .content.splash h1, .content.landing h1 {
   padding:10px 20px;
   background:#046D8B;
   color:#FFF;
   border-radius:5px;
 }
-.content.page h2, .content.post h2{ 
+.content.page h2, .content.post h2{
   margin:20px 0;
   padding:7px 20px;
   background:#FBF3DC;
   border-radius:5px;
 }
 .content.page h3, .content.post h3{
-  margin-left:-10px; 
+  margin-left:-10px;
 }
 
-/* SIDEBAR ======================================================== */ 
+/* SIDEBAR ======================================================== */
 .sidebar {
   max-width: 200px;
   background:#FFF;
@@ -65,7 +65,7 @@ h3 {margin:0px 0 10px 0}
   color:#555;
   margin-left:-5px;
 }
-#sidebar ul.nest li a{ 
+#sidebar ul.nest li a{
   background:#F8F8EC;
   border:0;
 }
@@ -123,8 +123,8 @@ h3 {margin:0px 0 10px 0}
   color:#ECE5CE;
 }
 #navbar li.active a {
- background:#046D8B; 
-}  
+ background:#046D8B;
+}
 
 /* SPLASH PAGES ================================================= */
 .page_icon div {
@@ -160,7 +160,7 @@ h3 {margin:0px 0 10px 0}
 #navigation {
   padding:0;
   background-color:#333;
-  margin-bottom:10px;
+  margin-bottom:20px;
 }
 #navigation ul {
   width:90%;
@@ -169,7 +169,7 @@ h3 {margin:0px 0 10px 0}
   padding:10px 0;
 }
 
-#navigation ul li { 
+#navigation ul li {
   list-style:none;
   display:inline;
   margin-right:10px;
