@@ -11,7 +11,7 @@ markdown: kramdown
 topbar:
   -
     url : '/about/'
-    title : 'About the Free Law Founders'
+    title : 'About'
   -
     url : '/resources/'
     title : 'Resources'
@@ -21,7 +21,7 @@ topbar:
 
   -
     url: '/the-challenge/'
-    title : 'The Challenge' 
+    title : 'The Free Law Challenge' 
     
     
 # Themes are encouraged to use these universal variables
