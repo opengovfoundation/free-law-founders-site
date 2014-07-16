@@ -23,7 +23,7 @@ A physical or electronic signature of a person authorized to act on behalf of th
 *	A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
 *	A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-The notice should be sent to The OpenGov Foundation via email (sayhello@opengovfoundation.org).
+The notice should be sent to The OpenGov Foundation via [email](mailto:sayhello@opengovfoundation.org).
 
 We may display a copy of your DMCA notice in place of the removed content.
 
