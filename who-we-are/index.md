@@ -54,9 +54,8 @@ Bill has been a web developer for seventeen years. In that time has worked for a
 
 ### Boston
 
-#### Curt Savoie, Acting CIO for City of Boston
+#### Curt Savoie, Principal Data Scientist, Department of Innovation & Technology 
 
-Curt Savoie is the Principal Data Scientist in the Department of Innovation & Technology for the City of Boston.
 
 ### MIT Media Lab
 
