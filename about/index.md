@@ -4,7 +4,7 @@ title: "About The Free Law Founders"
 ---
 {% include JB/setup %}
 
-The Free Law Founders is a coalition of leaders from New York, San Francisco, Boston, Chicago, and Washington, DC working to open government processes and information to scrutiny, collaboration, and innovation. 
+The Free Law Founders (FLF) is a nation-wide partnership of local elected officials, non-profit software developers, educators, and city attorneys dedicated to upgrading how citizens can access America’s laws, legislation, and the lawmaking process itself on the Internet. The Free Law Founders have accepted the challenge of creating the modern tools, data standards and processes our state and local governments need to meet the growing challenges of democracy in the Internet Age. The FLF is open to anyone willing to help accomplish these goals across the country. [Sign up today!](http://bit.ly/1mM1ZVe) 
 
 ### Declaration of Independence of Law
 
