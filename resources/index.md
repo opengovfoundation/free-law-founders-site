@@ -12,7 +12,7 @@ title: "Resources"
 
 ### Information on Open Government
 
-* [The OpenGov Foundation on “Setting the Standards for Open Government Data”:](http://www.opengovfoundation.org/setting-the-standards-for-open-government-data/)
+* [The OpenGov Foundation's Bill Hunt on “Setting the Standards for Open Government Data”](http://www.opengovfoundation.org/setting-the-standards-for-open-government-data/)
 
 * [An in-depth look at the process of creating Internet-ready laws in Chicago](http://www.opengovfoundation.org/the-virtuous-pipeline-producing-chicagos-internet-ready-laws/)
 
