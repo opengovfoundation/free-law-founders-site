@@ -42,5 +42,5 @@ The site will have five free and open source tools for:
  
 Government is due for an upgrade, and this challenge helps get us there. Legislatures can become the most transparent, efficient and connected versions of themselves, but only if we apply our collective ingenuity to the task.
  
-Do you agree with the Free Law Founders Challenge? Sign up today.
+Do you agree with the Free Law Founders Challenge? [Sign up today.](http://eepurl.com/Yu7fr)
  
