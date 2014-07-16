@@ -21,7 +21,7 @@ topbar:
 
   -
     url: '/the challenge/'
-    title : "The Challenge" 
+    title : 'The Challenge' 
     
     
 # Themes are encouraged to use these universal variables
