@@ -5,7 +5,7 @@ title: "Terms of Use"
 {% include JB/setup %}
 
 
-### Free Law Founders Terms & Conditions of Use
+## Free Law Founders Terms & Conditions of Use
 
 We have taken every effort to design Free Law Founders websites and software to be useful, informative, helpful, honest and fun.  Hopefully we've accomplished that - and would ask that you let us know if you'd like to see improvements or changes that would make it even easier for you to find and use the information you need and want.
 
