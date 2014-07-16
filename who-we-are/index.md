@@ -40,7 +40,9 @@ Susana Mendoza was elected as the youngest member of the 92nd General Assembly i
 #### General Counsel for the District of Columbia, David Zvenyach  
 
 
-#### [Seamus Kraft, Co-Founder and Executive Director, The OpenGov Foundation](http://www.opengovfoundation.org/about-us/)
+### The OpenGov Foundation
+
+#### [Seamus Kraft, Co-Founder and Executive Director](http://www.opengovfoundation.org/about-us/)
 
 Seamus Kraft is the Executive Director of [The OpenGov Foundation](www.OpenGovFoundation.org), a fiercely non-partisan, non-profit transforming the process and policy of our democracy for the Internet Age.  He steers two pathbreaking software projects reinventing local, state and federal government: Madison - the leading digital policy-making platform in the United States - and AmericaDecoded.org - the first-ever free, modern online law library built for everyday Americans.  
 
@@ -65,7 +67,9 @@ Daniel “Dazza” Greenwood leads the CIVICS.com consultancy, focusing at the i
 
 Thom Neale is a web developer on the Open States Project, an effort to scrape and standardize legislative information from all fifty states. He holds a Bachelor of Arts degree in Political Science from Point Loma Nazarene University and graduated from the University of California, Hastings College of Law. Before joining Sunlight Labs, he worked as a legislative analyst at the New York State Assembly and as a legal editor for the New York State Court of Appeals. When not programming, Thom enjoys playing Rock Band and taking his son, Jacob, to the playground
 
-### [David Moore, Executive Director, Participatory Politics Foundation](http://www.participatorypolitics.org/about/our-staff/)
+### Participatory Politics Foundation
+
+#### [David Moore, Executive Director](http://www.participatorypolitics.org/about/our-staff/)
 
 David is the Executive Director of PPF and has served as Program Manager of OpenCongress since its public launch in Feburary 2007. He graduated from Brown University with degrees in English and Philosophy. Previously, he worked as the first Outreach Coordinator for the Participatory Culture Foundation and helped to launch the open-source Miro video player. David spends a decent amount of time following the Milwaukee Brewers. He lives in Brooklyn, NY.
 
