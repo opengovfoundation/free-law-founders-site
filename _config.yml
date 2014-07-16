@@ -9,7 +9,7 @@ highlighter: true
 markdown: kramdown
 
 topbar:
-  -
+   -
     url : '/about/'
     title : 'About'
 
