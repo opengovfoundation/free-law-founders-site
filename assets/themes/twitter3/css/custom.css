@@ -34,7 +34,7 @@ h1,h2,h3,h4,h5,h6,
 
 .navbar {
   height: 85px;
-  background: #66c url(/assets/images/skyline.png);
+  background: #66c url(../../../images/skyline.png);
   background-size: 41% 42px;
   background-repeat: repeat-x;
   background-position: -10px bottom;
