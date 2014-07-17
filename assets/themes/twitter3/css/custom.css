@@ -47,6 +47,11 @@ color: #fff;
   background-color: rgba(255,255,255, 0.3);
 }
 
+.navbar .brand {
+  font-weight: bold;
+  font-size: 1.4em;
+}
+
 /* SIDEBAR ======================================================== */
 .sidebar {
   max-width: 200px;
