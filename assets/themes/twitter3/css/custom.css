@@ -12,7 +12,7 @@ html, body {
 /* HEADERS ======================================================== */
 h1,h2,h3,h4,h5,h6,
 .navbar {
-  font-family: 'Dosis', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
   font-weight: 400;
   margin-bottom: 10px;
 }
@@ -35,10 +35,6 @@ h1,h2,h3,h4,h5,h6,
   background: -ms-linear-gradient(top,  #1850cc 0%,#1e64ff 100%); /* IE10+ */
   background: linear-gradient(to bottom,  #1850cc 0%,#1e64ff 100%); /* W3C */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1850cc', endColorstr='#1e64ff',GradientType=0 ); /* IE6-9 */
-}
-
-.navbar-nav {
-  margin-top: 3px;
 }
 
 .navbar a {
