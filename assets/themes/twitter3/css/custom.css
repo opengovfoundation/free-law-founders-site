@@ -11,20 +11,12 @@ h1,h2,h3,h4,h5,h6 { margin-bottom: 10px }
 
 
 .content.page h1, .content.post h1,
-  .content.splash h1, .content.landing h1 {
-  padding:10px 20px;
-  background:#046D8B;
-  color:#FFF;
-  border-radius:5px;
+.content.splash h1, .content.landing h1 {
+  border-bottom: 2px solid #000;
+  margin-bottom: 40px;
 }
 .content.page h2, .content.post h2{
-  margin:20px 0;
-  padding:7px 20px;
-  background:#FBF3DC;
-  border-radius:5px;
-}
-.content.page h3, .content.post h3{
-  margin-left:-10px;
+  border-bottom: 1px solid #000
 }
 
 .navbar {
