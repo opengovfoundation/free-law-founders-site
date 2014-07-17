@@ -6,7 +6,7 @@ header : The Free Law Founders
 
 # The Free Law Founders
 
-#### *Citizens, technologists and public officials working together to transform state & local lawmaking for the 21st Century*
+#### Citizens, technologists and public officials working together to transform state & local lawmaking for the 21st Century
 
 The Free Law Founders is a nation-wide, collaborative effort open to all people who want to improve how laws and legislation are produced and presented to citizens of American states and cities.  Our goal is to modernize how democracy works in the United States from the ground up.  To get there, we're creating open source tools and open data formats government workers need to get their jobs done efficiently, effectively and accountably.  And we're building digital democracy platforms so citizens can finally access legislative information online in user-friendly, interactive formats that make sense.  And we're making all of our work available on the Internet for any community to reuse at no cost.
 

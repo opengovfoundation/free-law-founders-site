@@ -1,13 +1,20 @@
 /* Override some defaults */
 html, body {
   background-color: #FFF;
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 300;
 }
 .container > .content {
   padding: 20px 30px 20px 30px;
 }
 
 /* HEADERS ======================================================== */
-h1,h2,h3,h4,h5,h6 { margin-bottom: 10px }
+h1,h2,h3,h4,h5,h6,
+.navbar {
+  font-family: 'Dosis', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
 
 
 .content.page h1, .content.post h1,
@@ -20,6 +27,7 @@ h1,h2,h3,h4,h5,h6 { margin-bottom: 10px }
 }
 
 .navbar {
+  font-size: 1.2em;
   background: #1850cc; /* Old browsers */
   background: -moz-linear-gradient(top,  #1850cc 0%, #1e64ff 100%); /* FF3.6+ */
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1850cc), color-stop(100%,#1e64ff)); /* Chrome,Safari4+ */
@@ -30,8 +38,12 @@ h1,h2,h3,h4,h5,h6 { margin-bottom: 10px }
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1850cc', endColorstr='#1e64ff',GradientType=0 ); /* IE6-9 */
 }
 
+.navbar-nav {
+  margin-top: 3px;
+}
+
 .navbar a {
-color: #fff;
+  color: #fff;
 }
 
 .nav>li>a:hover,
@@ -40,8 +52,7 @@ color: #fff;
 }
 
 .navbar-brand {
-  font-weight: bold;
-  font-size: 1.4em;
+  font-size: 1.5em;
 }
 
 /* SIDEBAR ======================================================== */
