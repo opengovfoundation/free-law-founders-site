@@ -17,28 +17,36 @@ html, body {
 /* HEADERS ======================================================== */
 h1,h2,h3,h4,h5,h6,
 .navbar {
+  color: #473723;
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
   font-weight: 400;
   margin-bottom: 10px;
   line-height: 1.5em;
 }
 
+.navbar a {
+  color: inherit;
+}
 
 #main h1 {
   /* border-bottom: 2px solid #000; */
   margin-bottom: 40px;
 }
-.content.page h2, .content.post h2{
-  border-bottom: 1px solid #000
-}
 
 .navbar {
   /* height: 85px; */
-  /* background: #66c url(../../../images/skyline.png); 
+  /* background: #66c url(../../../images/skyline.png);
   background-size: 41% 42px;
   background-repeat: repeat-x;
-  background-position: -10px bottom; */  
-  background:#f5f5f5;
+  background-position: -10px bottom; */
+  background:#E9DFCB;
+}
+
+.navbar:after {
+  height: 2px;
+  background-color: #473723;
+  content: " ";
+  width: 100%;
 }
 
 .navbar-collapse{
@@ -47,18 +55,24 @@ h1,h2,h3,h4,h5,h6,
   font-size:.9em;
 }
 
-.navbar-nav > li > a{
-  padding:0;
+.navbar-nav {
+  margin-left: -25px;
 }
 
-  .navbar-nav > li > a:after{
-    content: "/";
-    margin:0 5px;
-  }
 
-  .navbar-nav > li:last-child > a:after{
-    content:"";
-  }
+.navbar-nav > li > a{
+  padding: 7px 10px;
+  display: inline-block;
+}
+
+.navbar-nav > li:after{
+  content: "/";
+  margin:0 5px;
+}
+
+.navbar-nav > li:last-child:after{
+  content:"";
+}
 
 .navbar a {
   /* color: #fff; */
@@ -66,7 +80,8 @@ h1,h2,h3,h4,h5,h6,
 
 .nav>li>a:hover,
 .nav>li>a:focus {
-  background-color: rgba(255,255,255, 0.3);
+  background-color: rgba(255,255,255, 0.5);
+  text-decoration: underline;
 }
 
 .navbar-brand {
@@ -172,6 +187,15 @@ h1,h2,h3,h4,h5,h6,
  background:#046D8B;
 }
 
+.banner-container {
+  height: 200px;
+  width: 100%;
+  overflow: hidden;
+  background-image: url(../../../images/cities/nyc1.jpg);
+  background-position: 0 -28px;
+  background-size: cover;
+}
+
 /* SPLASH PAGES ================================================= */
 .page_icon div {
   height:100px;
@@ -267,7 +291,8 @@ body {
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 76px;
-  background-color: #f5f5f5;
+  background-color: #E9E3D6;
+  color: #767066;
   padding-top: 10px;
 }
 
@@ -279,7 +304,7 @@ body {
 
 .footer nav li {
   display: inline-block;
-  border-right: 1px solid #666;
+  border-right: 1px solid #767066;
 }
 
 .footer nav li:last-child {

@@ -16,6 +16,11 @@ To add a link to the main menu, simply add it to the `topbar` list in
 
 This site was with Jekyll Bootstrap http://jekyllbootstrap.com
 
+Featuring photos by:
+
+* [Daniel Schwen](http://commons.wikimedia.org/wiki/User:Dschwen) (New York City skyline)
+* [Ronile](http://pixabay.com/en/users/Ronile/) (New York City skyline)
+
 ## License
 
 [Creative Commons BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/)
