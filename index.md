@@ -2,6 +2,20 @@
 layout: landing
 title : Home
 header : The Free Law Founders
+
+sidebar : |
+  ### Current Members:
+
+  * Boston, MA
+  * Chicago, IL
+  * MIT Media Lab, Human Dynamics Group
+  * New York, NY
+  * The OpenGov Foundation
+  * Participatory Politics Foundation
+  * San Francisco, CA
+  * Washington, DC
+
+
 ---
 
 # The Free Law Founders

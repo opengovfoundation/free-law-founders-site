@@ -43,7 +43,14 @@
     </div>
 
     <div id="main" class="container">
-      {{ content }}
+      <div class="col-md-6">
+        {{ content }}
+      </div>
+      {% if page.sidebar %}
+        <div class="col-md-5 col-md-offset-1 sidebar">
+          {{ page.sidebar | markdownify }}
+        </div>
+      {% endif %}
     </div> <!-- /container -->
 
     <footer class="footer">

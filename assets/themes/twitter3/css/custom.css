@@ -42,6 +42,7 @@ h1,h2,h3,h4,h5,h6,
   background:#E9DFCB;
 }
 
+/* Bottom border : to avoid jagged corners */
 .navbar:after {
   height: 2px;
   background-color: #473723;
@@ -90,51 +91,16 @@ h1,h2,h3,h4,h5,h6,
 
 /* SIDEBAR ======================================================== */
 .sidebar {
-  max-width: 200px;
-  background:#FFF;
-  overflow:auto;
-  z-index:0;
-}
-.sidebar h4 {
-  padding:5px;
-  font-size:14px;
-  color:#555;
-  margin-bottom:5px;
+  margin-top: 110px;
+  background:#E9DFCB;
+  border: 2px solid #473723;
+  border-radius: 3px;
 }
 
-.sidebar ul {
-  list-style: none;
-  margin:0 0 0 15px;
-}
-.sidebar ul li {
-  margin-bottom:5px;
-}
-.sidebar ul li a{
-  display:block;
-  padding:0 8px;
-  background:#E8F3F8;
-  line-height:21px;
-  border-radius:2px;
-}
-
-#sidebar ul.nest {
-  margin-top:5px;
-  background:#FFF;
-}
-#sidebar ul.nest li strong {
-  display:block;
-  color:#555;
-  margin-left:-5px;
-}
-#sidebar ul.nest li a{
-  background:#F8F8EC;
-  border:0;
-}
-#sidebar ul li a.active {
-  display:block;
-  background:#046D8B;
-  color:#FFF;
-  border:0;
+.sidebar h1, .sidebar h2,
+.sidebar h3, .sidebar h4,
+.sidebar h5, .sidebar h6 {
+  margin-top: 10px;
 }
 
 /* TAGS ======================================================== */
@@ -314,4 +280,38 @@ body {
 .footer nav a {
   padding: 5px;
   margin: 0px 10px;
+}
+
+/* Mailchimp form
+-------------------------------------------------- */
+/* The body declaration overrides the default styles
+   without resorting to !important. */
+
+
+body #mc_embed_signup {
+  font-size: 0.9em;
+}
+
+body #mc_embed_signup .mc-field-group input {
+  padding: 4px 0;
+}
+
+body #mc_embed_signup #mce-success-response {
+  font-size: 1.5em;
+  line-height: 1.5em;
+  font-weight: normal;
+  color: #fff;
+  background-color: #529214;
+  padding: 20px;
+  width: 100%;
+}
+
+body #mc_embed_signup .mc-field-group .asterisk {
+  position: relative;
+  top: 4px;
+  right: 0;
+}
+
+#mc_embed_signup .mc-field-group.input-group li label {
+  margin-left: 5px;
 }
