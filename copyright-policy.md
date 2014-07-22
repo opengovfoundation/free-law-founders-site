@@ -1,12 +1,13 @@
 ---
 layout: page
 title: "Copyright Policy"
+permalink: "copyright-policy/"
 ---
 {% include JB/setup %}
 
 
 ##The Free Law Founders’ & The OpenGov Foundation’s Copyright Policy - Creative Commons
-   
+
 Any and all original material on the Free Law Founders and all OpenGov Foundation websites may be freely distributed at will under the Creative Commons Attribution License, unless otherwise noted. All material that is not original to the OpenGov Foundation may require permission from the copyright holder to redistribute.
 
 You do NOT have to ask permission to post original Free Law Founders OpenGov Foundation material on a mailing list or newsgroup, to use an OpenGov logo as a pointer to us on your web site, or to reprint an OpenGov Foundation statement in a newspaper article. Permission to do such things is explicitly granted. Please do not write to us asking for permission, as this wastes our time and yours.

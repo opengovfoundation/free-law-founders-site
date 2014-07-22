@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Who We Are"
+permalink: "who-we-are/"
 id: "who-we-are"
 
 sidebar: |

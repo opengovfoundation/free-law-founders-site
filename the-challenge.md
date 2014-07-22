@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "The Free Law Challenge"
+permalink: "the-challenge/"
 
 sidebar: |
   ### Sign up today!

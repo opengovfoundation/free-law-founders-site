@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Mailing List"
+permalink: "mailinglist/"
 ---
 {% include JB/setup %}
 

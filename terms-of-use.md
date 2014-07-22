@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Terms of Use"
+permalink: "terms-of-use/"
 ---
 {% include JB/setup %}
 
@@ -21,13 +22,13 @@ Also known as The Golden Rule of OpenGov.  We’re all in this open government w
 
 All remarks, suggestions, ideas, graphics, comments, or other information that you send to Madison through Madison becomes and remains public property.  You acknowledge that you are responsible for any submission you make to Madison.
 
-### Opt-In 
+### Opt-In
 
 By sharing your email address and contact information with the Free Law Founders, you are opting-in to receive communications regarding the OpenGov Foundation, Project Madison, the State Decoded, and other open government initiatives.
 
 ### Non-Profit Exemptions
 
-OpenGov is a fiercely non-partisan, non-profit foundation certified as such under section 501(c)3 of the U.S. Internal Revenue Code.  That means we must comply with certain U.S. Government policies helpfully explained here by the U.S. Internal Revenue Service and here by Wikipedians.  One policy is a prohibition on advocating for or against candidates for public office.  We will make a good faith effort to ensure content on OpenGov websites is compliant.  
+OpenGov is a fiercely non-partisan, non-profit foundation certified as such under section 501(c)3 of the U.S. Internal Revenue Code.  That means we must comply with certain U.S. Government policies helpfully explained here by the U.S. Internal Revenue Service and here by Wikipedians.  One policy is a prohibition on advocating for or against candidates for public office.  We will make a good faith effort to ensure content on OpenGov websites is compliant.
 
 Please email questions, comments or concerns about OpenGov compliance to sayhello@opengovfoundation.org
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About The Free Law Founders"
+permalink: "/about/"
 sidebar: |
   ### The Principles of Open Law & Open Legislation
 

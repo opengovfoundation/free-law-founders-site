@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Privacy Policy"
+permalink: "privacy-policy/"
 ---
 {% include JB/setup %}
 
@@ -12,7 +13,7 @@ In this policy, "OpenGov" refers to OpenGov staff, board members, cooperating at
 
 OpenGov does not sell or rent member, donor or website visitor information under any circumstances, and we do not share member, donor or visitor information without prior consent except as compelled by law. (See discussion below.)
 
-### Information Gathered by OpenGov 
+### Information Gathered by OpenGov
 
 Logging: For visitors to our main website (www.OpenGovFoundation.org) and to the Free Law Founders, we generally log requests.  Circumstances in which OpenGov may need to log and retain technical information for longer than seven days include when we believe it is reasonably necessary for OpenGov’s mission and functionality, including situations such as:
 
@@ -49,7 +50,7 @@ Other activities: We may run surveys, contests, or similar activities through th
 Portions of OpenGov sites may be operated by a third-party service provider or providers. These service providers may place session cookies on your computer. OpenGov’s service providers may also log standard technical information, such as the numerical Internet Protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site. Our service providers may also store and organize the personal information collected through this site on our behalf.
 
 OpenGov also may use a third-party credit card processor and hosting providers.
-For all of OpenGov's service providers, hosting providers and credit card processors and any other providers we may use in the future, the information collected from OpenGov supporters remains under our control, and our agreement with each will require the information to be kept confidential and disclosed only to employees who require such access in the course of their assigned duties. OpenGov also requires all of our third-party service providers to notify OpenGov if they receive legal process seeking information about visitors to OpenGov’s website or users of OpenGov products, software or services. 
+For all of OpenGov's service providers, hosting providers and credit card processors and any other providers we may use in the future, the information collected from OpenGov supporters remains under our control, and our agreement with each will require the information to be kept confidential and disclosed only to employees who require such access in the course of their assigned duties. OpenGov also requires all of our third-party service providers to notify OpenGov if they receive legal process seeking information about visitors to OpenGov’s website or users of OpenGov products, software or services.
 
 OpenGov may change the specific third-party providers from time to time, and will transfer stored information to any new provider subject to similar restrictions and agreements. From time to time, OpenGov may work with third-party consultants or other service providers who may have access to personally identifiable information. In such cases, we will restrict their use of personally identifiable information in accordance with their assigned tasks.
 
@@ -73,7 +74,7 @@ OpenGov's Privacy Policy may change from time to time. However, any revised priv
 
 ### Security
 
-OpenGov employs industry standard security measures to protect the loss, misuse, and alteration of the information under our control. 
+OpenGov employs industry standard security measures to protect the loss, misuse, and alteration of the information under our control.
 
 Although we make good faith efforts to store information collected by OpenGov in a secure operating environment, we cannot guarantee complete security. Information collected by OpenGov will be maintained for a length of time appropriate to our needs. However, we generally do not retain credit card information unless, when the option is available to supporters, you choose to have us make automatic monthly withdrawals from your account for your donation.
 
