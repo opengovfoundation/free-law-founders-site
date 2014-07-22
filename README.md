@@ -7,6 +7,27 @@ and then click the "Edit" button on the tabbed navigation for that
 file.  We're using [GitHub Markdown](https://help.github.com/articles/github-flavored-markdown)
 to render the site.
 
+## Creating a page
+
+To create a new page, simply add a new file by clicking the **+** next to
+` free-law-founders-site / ` at the top of the GitHub repo,
+name the file appropriately (`page-name.md`) and edit it to add to the repo.
+
+All pages need the following header, with a proper `title` set, and the
+`permalink` url the page should appear at.
+
+```
+---
+layout: page
+title: "Terms of Use"
+permalink: "terms-of-use/"
+---
+{% include JB/setup %}
+
+Your content goes here.
+```
+
+## Menu links
 To add a link to the main menu, simply add it to the `topbar` list in
 [_config.yml](./_config.yml)
 
