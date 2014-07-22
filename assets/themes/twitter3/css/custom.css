@@ -188,9 +188,6 @@ h1,h2,h3,h4,h5,h6,
   border-radius: 10px;
 }
 
-
-
-
 #tab-list li {float:right;}
 
 #navigation {
@@ -237,6 +234,25 @@ h1,h2,h3,h4,h5,h6,
 
 .navbar-toggle .icon-bar {
   background-color: rgba(255,255,255, 0.6);
+}
+
+.who-we-are .sidebar ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.who-we-are .sidebar ul ul {
+  padding-left: 50px;
+  text-indent: -25px;
+  margin-bottom: 0.25em;
+}
+
+.who-we-are .sidebar ul ul li {
+  margin-bottom: 0.5em;
+}
+
+.who-we-are .sidebar ul ul a {
+  font-weight: bold;
 }
 
 /* Sticky footer styles
