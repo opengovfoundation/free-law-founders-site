@@ -7,6 +7,8 @@ permalink: "resources/"
 
 ### Press
 
+* July 24, 2014 -- [Meet the Free Law Founders!](http://opengovfoundation.org/meet-the-free-law-founders-coalition/)
+
 * [July 16, 2014 - Announcing the Free Law Founders Movement to Overhaul American Lawmaking & Legal Data](http://opengovfoundation.org/nationwide-coalition-of-city-officials-and-civic-technologists-announce-free-law-founders-movement-to-reinvent-u-s-lawmaking/)
 
 * [Government Executive: "The Ultimate in Open Government: Unlocking the Law"](http://www.govexec.com/state-local/2014/07/ultimate-open-government-unlocking-laws/87997/)
