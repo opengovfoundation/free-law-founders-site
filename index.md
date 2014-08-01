@@ -13,6 +13,7 @@ sidebar : |
   * The OpenGov Foundation
   * Participatory Politics Foundation
   * San Francisco, CA
+  * Sunlight Foundation
   * Washington, DC
 
 
