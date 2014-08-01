@@ -23,6 +23,9 @@ sidebar: |
   	* <a href="#mit-dazza_greenwood">Dazza Greenwood</a>
   * <a href="#participatory_politics">Participatory Politics Foundation</a>
   	* <a href="$pp-david_moore">David Moore, Executive Director</a>
+  * <a href="#sunlight_foundation">Sunlight Foundation</a>
+    * <a href="#sunlight-james_turk">James Turk, Open States & Open Civic Data Project Lead</a>
+    * <a href="#sunlight-sean_vitka">Sean Vitka, Federal Policy Manager</a>
 
 ---
 {% include JB/setup %}
@@ -95,3 +98,18 @@ Dazza Greenwood, a lecturer and research scientist at the MIT Media Lab, conduct
 #### <a id="pp-david_moore"></a>[David Moore, Executive Director](http://www.participatorypolitics.org/about/our-staff/)
 
 David is the Executive Director of PPF and has served as Program Manager of OpenCongress since its public launch in Feburary 2007. He graduated from Brown University with degrees in English and Philosophy. Previously, he worked as the first Outreach Coordinator for the Participatory Culture Foundation and helped to launch the open-source Miro video player. David spends a decent amount of time following the Milwaukee Brewers. He lives in Brooklyn, NY.
+
+### <a id="sunlight_foundation"></a>Sunlight Foundation
+
+#### <a id="sunlight-james_turk"></a>[James Turk, Open States & Open Civic Data Project Lead](http://sunlightfoundation.com/team/)
+
+James Turk is a Developer and Open Source Coordinator for the [Sunlight Foundation](http://sunlightfoundation.com/), a nonpartisan nonprofit organization that advocates for open government globally and uses technology to make government more accountable to all.  He leads Sunlight's [Open States](http://openstates.org/) and [Open Civic Data](http://opencivicdata.org/) projects in efforts to collect and standardize US state and local legislative information. Open States is a collection of tools that make it possible for citizens to track what is happening in their state's capitol by aggregating information from all 50 states, Washington, D.C. and Puerto Rico. The Sunlight Foundation, too, has built off of its Open States work to create an Open Civic Data Schema for bills, events, and votes and adopted people and organization schemas that are compatible with the [Popolo format](http://popoloproject.com/). These formats are compatible with all levels of government and with identifiers that power [Google’s Civic Information API](https://developers.google.com/civic-information/docs/us_v1/representatives/representativeInfoQuery). 
+
+James earned his Bachelor of Science in computer science from the Rochester Institute of Technology in 2008. Before joining the Sunlight Foundation Labs team, he also spent time working at 
+Project Vote Smart.
+
+#### <a id="sunlight-sean_vitka"></a>[Sean Vitka, Federal Policy Manager](http://sunlightfoundation.com/team/)
+
+Sean Vitka is the Federal Policy Manager at the Sunlight Foundation advocating for policy that opens up more legal information to all. He’s been focused on public interest work since 2007, when he founded a charity that provides technological solutions to problems associated with disability and hospitalization. Since then, he’s earned a J.D. from Boston College law school, where he focused on technology policy and practiced housing law. Sean’s worked at the Open Technology Institute, the Institute for Public Representation at Georgetown Law, and was a 2013 Google Policy Fellow. His writing on economics, the law and technology has been published in a variety of places, including Ars Technica, The Chicago Tribune, Slate and The Washington Post. He has in turn been directly quoted or cited in articles published by The Guardian, Bloomberg, MSNBC, Mother Jones, Andrew Sullivan's The Dish, The Plum Line at The Washington Post, and many others.
+
+
