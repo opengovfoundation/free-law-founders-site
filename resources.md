@@ -7,7 +7,7 @@ permalink: "resources/"
 
 ### Press
 
-* [July 24, 2014 -- "NYC Open Data Advocates Focus on Quality Over Quantity" (Tech President)](http://techpresident.com/news/25201/nyc-open-data-advocates-focused-quality-over-quantity)
+* [July 24, 2014 -- "NYC Open Data Advocates Focus on Quality and Value Over Quantity" (Tech President)](http://techpresident.com/news/25201/nyc-open-data-advocates-focused-quality-over-quantity)
 
 * [July 24, 2014 -- Meet the Free Law Founders!](http://opengovfoundation.org/meet-the-free-law-founders-coalition/)
 
