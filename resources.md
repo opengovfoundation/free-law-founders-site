@@ -5,7 +5,9 @@ permalink: "resources/"
 ---
 {% include JB/setup %}
 
-### Press
+### Press and Announcements 
+
+* [August 6, 2014 -- Sunlight Foundation Joins the Free Law Founders](http://opengovfoundation.org/sunlight-foundation-joins-the-free-law-founders/)
 
 * [July 24, 2014 -- "NYC Open Data Advocates Focus on Quality and Value Over Quantity" (Tech President)](http://techpresident.com/news/25201/nyc-open-data-advocates-focused-quality-over-quantity)
 
