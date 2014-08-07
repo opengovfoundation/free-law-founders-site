@@ -5,7 +5,9 @@ permalink: "resources/"
 ---
 {% include JB/setup %}
 
-### Press and Announcements 
+### Press and Announcements
+
+* [July 24, 2014 -- "New York City Passes Free Law Founder Ben Kallos's Bill to Put Laws Online in Open Formats"](http://www.benkallos.com/press-release/government-upgrade-nyc-council-passes-legislation-put-law-online-and-expand-city-recor)
 
 * [August 6, 2014 -- Sunlight Foundation Joins the Free Law Founders](http://opengovfoundation.org/sunlight-foundation-joins-the-free-law-founders/)
 
