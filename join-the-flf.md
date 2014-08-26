@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Terms of Use"
-permalink: "terms-of-use/"
+title: "Join the Free Law Founders"
+permalink: "join-the-flf/"
 ---
 {% include JB/setup %}
 
