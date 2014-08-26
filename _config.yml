@@ -14,6 +14,11 @@ topbar:
     title : 'About'
 
   -
+  
+    url : '/join-the-flf/'
+    title : 'Join the FLF'
+
+  -
     url : '/resources/'
     title : 'Resources'
   
