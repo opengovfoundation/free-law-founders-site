@@ -5,7 +5,7 @@ permalink: "blog/"
 ---
 {% include JB/setup %}
 
-##Opening NYC's Laws  
+##Freeing NYC's Laws  
 **by NYC Council Member Ben Kallos**  
 9/2/2014
 
