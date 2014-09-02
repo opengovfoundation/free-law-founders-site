@@ -6,7 +6,7 @@ permalink: "blog/"
 {% include JB/setup %}
 
 ##Opening NYC's Laws  
-**NYC Council Member Ben Kallos**  
+**by NYC Council Member Ben Kallos**  
 9/2/2014
 
 New York City recently took exciting steps to free our laws and public information. Two bills, [Open Law](http://on.nyc.gov/1q70OBp) (prime sponsored by Council Member Brad Lander) and [City Record Online](http://on.nyc.gov/1q70YIZ), which I sponsored, were recently signed by Mayor Bill de Blasio into law. Now, the City's law, the best versions of which have been inaccessible on for-fee sites, and New York's City Record, a complete version of which has only been in print and distributed to a set group, will be open to the public and easily accessible.
