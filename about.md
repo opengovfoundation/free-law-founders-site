@@ -65,3 +65,14 @@ With so much open data being released often there is a question of what it means
 Our previous non-profit project, OpenCongress.org, received up to 27 million web visits to official information about bills in Congress. The popularity of OpenCongress demonstrated there is a massive public demand for authoritative information about legislation, to track and share it with peers. When legislative data is made fully open to the public, developers and government watchdogs can make user-friendly, powerful web tools that connect communities to what’s happening in local government. One example is the open-source ChicagoCouncilmatic, which enables users to subscribe to email alerts and RSS feeds for legislative actions and provides more-accessible bill summaries for wider understanding.
 
 --*Executive Director David Moore*
+
+#### Washington, DC: Bringing More Voices Into Policymaking
+
+“Promoting an open and transparent government is among my top priorities as a lawmaker. I am pleased to join the Free Law Founders and support this national movement to make the legislative process accessible and accountable to all. Along with ethics and electoral reforms that I am pursuing, I believe open government efforts are critical to enriching our democracy and engaging residents within the community.”
+
+--*Councilmember David Grosso*
+
+“Municipal governments are historically inefficient and paper-based; they exclude citizens from playing any meaningful role. Through innovative tools, like MadisonDC and DCdecoded, we can now educate District residents, collect feedback and engage citizens in the legislative process from the ideation stage through successful passage. As a Free Law Founder, I'm excited to connect with government leaders across the country and to share ideas. We can learn from one another's experiences rather than reinvent the wheel."
+
+--*Councilmember Tommy Wells*
+
