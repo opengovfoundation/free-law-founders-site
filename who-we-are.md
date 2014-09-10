@@ -14,6 +14,8 @@ sidebar: |
     * <a href="#chi-susana_mendoza">City Clerk Susana Mendoza</a>
   * <a href="#washington_dc">Washington, DC</a>
     * <a href="#dc-david_zvenyach">David Zvenyach, General Counsel, DC Council</a>
+    * <a href="#dc-david_grosso">Councilmember David Grosso</a>
+    * <a href="#dc-tommy_wells">Councilmember Tommy Wells</a>
   * <a href="#opengov_foundation">The OpenGov Foundation</a>
     * <a href="#ogf-seamus_kraft">Seamus Kraft, Co-Founder and Executive Director</a>
     * <a href="#ogf-bill_hunt">Bill Hunt, Senior Developer</a>
@@ -67,6 +69,21 @@ Susana Mendoza was elected as the youngest member of the 92nd General Assembly i
 ### <a id="washington_dc"></a>Washington, DC
 
 #### <a id="dc-david_zvenyach"></a>David Zvenyach, General Counsel, DC Council
+
+#### <a id="dc-david_grosso"></a>Councilmember David Grosso 
+
+A native Washingtonian, Grosso was elected to the Council of the District of Columbia as an at-large councilmember on November 6, 2012 to represent residents in all eight wards. David brings a wealth of experience having worked with Congresswoman Eleanor Holmes Norton as her chief Counsel and former D.C. Councilmember Sharon Ambrose, in addition to his experience in the private sector. David is committed to continuing school reform efforts, improving health outcomes throughout the city, addressing inequities within the criminal justice system, and enhancing job opportunities by supporting a robust successful workforce development and public higher education system. David has also pushed for good governance, including sweeping ethics reform, transparency and open government, and strengthening civic engagement. He helped pilot a collaborative legislation platform, the Madison Project, in D.C. and is very supportive of the Council’s efforts to engage residents in the legislative process, such as the new Decoded D.C. website and the new Legislative Information Management System.
+
+#### <a id="dc-tommy_wells"></a>Councilmember Tommy Wells
+
+In just six years since joining the D.C. Council in January 2006, Tommy Wells has won support throughout the District for his vision of a livable and walkable city for all. He is a passionate advocate for innovative solutions, and D.C.’s leading voice for progressive change.
+
+Tommy started his Washington career in 1983 as a social worker in the D.C. foster care system.  In 1991, he took the helm of the D.C. Consortium for Child Welfare, where he was a force for creating neighborhood based-family service collaboratives that coordinate the delivery of city and nonprofit resources. During his 15 years with the Consortium, Tommy also served as an ANC Commissioner from 1994 to 2000 and a member of the D.C. Board of Education, representing Wards 5 and 6, from 2000 to 2006.
+Since joining the DC Council in January 2007, Tommy has been a tireless advocate for smart growth and social justice. He spearheaded efforts to ensure that transit prioritized connecting neighborhoods to give DC residents access to jobs, instead of just moving commuters in and out of the city. He led the way in establishing the Housing First program, a proven way to get homeless people back on track by providing a stable place to live.
+
+Currently, Tommy chairs the Committee on the Judiciary and Public Safety. As Chair, he has championed landmark legislation to decriminalize marijuana possession and “ban the box” in private sector hiring, giving returning citizens equal opportunities for success.
+
+Tommy is the former chair of the board for Jan's Tutoring House and the previous chair of the Local Government Advisory Committee for the Chesapeake Bay. He graduated from the Columbus School of Law at Catholic University in 1991 and earned a master's degree in social work from the University of Minnesota in 1983. Since 1988 he has been married to Barbara Wells, a writer and arts enthusiast who is a tutor for Jan's Tutoring House and a judge for the Helen Hayes Awards.
 
 
 ### <a id="opengov_foundation"></a>The OpenGov Foundation
