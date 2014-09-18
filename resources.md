@@ -5,6 +5,11 @@ permalink: "resources/"
 ---
 {% include JB/setup %}
 
+### Helpful Videos
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/qiulQqIuBi8" frameborder="0" allowfullscreen></iframe>
+
+
 ### Press and Announcements
 
 * [September 11, 2014 -- "DC Councilmembers Grosso and Wells Join the Free Law Founders"](http://www.opengovfoundation.org/d-c-council-members-grosso-wells-join-the-free-law-founders/)
