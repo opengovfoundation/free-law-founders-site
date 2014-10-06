@@ -12,6 +12,8 @@ permalink: "resources/"
 
 ### Press and Announcements
 
+* [September 30, 2014 -- "Meet Councilmember Ben Kallos, The Agile Politician"](http://www.fastcolabs.com/3036094/meet-councilman-ben-kallos-the-agile-politician)
+
 * [September 11, 2014 -- "DC Councilmembers Grosso and Wells Join the Free Law Founders"](http://www.opengovfoundation.org/d-c-council-members-grosso-wells-join-the-free-law-founders/)
 
 * [July 24, 2014 -- "New York City Passes Free Law Founder Ben Kallos's Bill to Put Laws Online in Open Formats"](http://www.benkallos.com/press-release/government-upgrade-nyc-council-passes-legislation-put-law-online-and-expand-city-recor)
