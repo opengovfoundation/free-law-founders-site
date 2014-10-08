@@ -12,7 +12,7 @@ permalink: "resources/"
 
 ### Press and Announcements
 
-* [October 8, 2014 -- "Upgrading Our Laws", by Councilmember Ben Kallos](http://www.cityandstateny.com/2/politics/new-york-city/upgrading-our-laws.html#.VDVqiSldU7v) 
+* [October 8, 2014 -- "Upgrading Our Laws" by Councilmember Ben Kallos](http://www.cityandstateny.com/2/politics/new-york-city/upgrading-our-laws.html#.VDVqiSldU7v) 
 
 * [September 30, 2014 -- "Meet Councilmember Ben Kallos, The Agile Politician"](http://www.fastcolabs.com/3036094/meet-councilman-ben-kallos-the-agile-politician)
 
