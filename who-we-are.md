@@ -102,7 +102,7 @@ She is a member of the District of Columbia Bar Association and the Maryland Sta
 
 ### <a id="cambridge_ma"></a>Cambridge, Massachusetts 
 
-#### <a id="ma-nadeem_mazen")</a>[Councillor Nadeem Mazen](http://www.cambridgema.gov/ccouncil/citycouncilmembers.aspx)
+#### <a id="ma-nadeem_mazen"></a>[Councillor Nadeem Mazen](http://www.cambridgema.gov/ccouncil/citycouncilmembers.aspx)
 
 Nadeem Mazen is a Cambridge City Councillor, co-founder of makerspace danger!awesome and founder of creative agency Nimblebot in Central Square, Cambridge. Mazen has spent the last several years as an instructor at MIT and faculty member at School of the Museum of Fine Arts, teaching undergraduate and graduate students the principles of tech and art entrepreneurship.  Follow @nadeemtron on Twitter for observations and ruminations from his post in Cambridge, the world capital for research, innovation, and progressive ideals.
 
