@@ -16,6 +16,11 @@ sidebar: |
     * <a href="#dc-david_zvenyach">David Zvenyach, General Counsel, DC Council</a>
     * <a href="#dc-david_grosso">Councilmember David Grosso</a>
     * <a href="#dc-tommy_wells">Councilmember Tommy Wells</a>
+    * <a href="#dc-traci_hughes">Traci Hughes, Director of DC's Office of Open Government
+  * <a href="#cambridge_ma">Cambridge, massachusetts</a>
+    * <a href="#ma-nadeem_mazen">Councillour Nadeem Mazen</a>
+  * <a href="#montgomery_md">Montgomery County, Maryland</a>
+    * <a href="#md-hans_riemer">Council Member Hans Riemer</a> 
   * <a href="#opengov_foundation">The OpenGov Foundation</a>
     * <a href="#ogf-seamus_kraft">Seamus Kraft, Co-Founder and Executive Director</a>
     * <a href="#ogf-bill_hunt">Bill Hunt, Senior Developer</a>
@@ -85,6 +90,26 @@ Currently, Tommy chairs the Committee on the Judiciary and Public Safety. As Cha
 
 Tommy is the former chair of the board for Jan's Tutoring House and the previous chair of the Local Government Advisory Committee for the Chesapeake Bay. He graduated from the Columbus School of Law at Catholic University in 1991 and earned a master's degree in social work from the University of Minnesota in 1983. Since 1988 he has been married to Barbara Wells, a writer and arts enthusiast who is a tutor for Jan's Tutoring House and a judge for the Helen Hayes Awards.
 
+#### <a id="dc-traci_hughes"></a>Traci Hughes, Director of DC's Office of Open Government
+
+Traci L. Hughes is the inaugural director of the Office of Open Government. Hired in April 2013, she was tapped by the members of the Board of Ethics and Government Accountability to bring greater transparency to District government operations. In this role, Ms. Hughes oversees Freedom of Information Act compliance among nearly 60 District Government Agencies, including the Executive Office of the Mayor (EOM) and the Council of the District of Columbia (Council). She also ensures compliance with the District’s Open Meetings Act, training more than 170 boards and commissions, the EOM and the Council on the procedural requirements of the law.
+
+Prior to heading the Office of Open Government, Ms. Hughes served in both the private and public sectors as a highly sought after strategic communications professional, directing communications and marketing for the Congressional Black Caucus Foundation; the Chair of the Council of the District of Columbia; the District of Columbia Metropolitan Police Department; and the Office of the Attorney General for the District of Columbia.
+
+ Ms. Hughes began her career with CBS, and has worked in television, print and radio in New York, Philadelphia and Washington, DC. She has appeared on major national and local television networks, including ABC, NBC, CBS and Fox News networks.
+
+She is a member of the District of Columbia Bar Association and the Maryland State Bar Association.  Ms. Hughes is a graduate of Howard University and Temple University Beasley School of Law.
+
+### <a id="cambridge_ma"></a>Cambridge, Massachusetts 
+#### <a id="ma-nadeem_mazen)</a>Councillor Nadeem Mazen
+
+Nadeem Mazen is a Cambridge City Councillor, co-founder of makerspace danger!awesome and founder of creative agency Nimblebot in Central Square, Cambridge. Mazen has spent the last several years as an instructor at MIT and faculty member at School of the Museum of Fine Arts, teaching undergraduate and graduate students the principles of tech and art entrepreneurship.  Follow @nadeemtron on Twitter for observations and ruminations from his post in Cambridge, the world capital for research, innovation, and progressive ideals.
+
+### <a id="montgomery_md"></a>Montgomery County, MD
+#### <a id="md-hans_riemer"></a>Council Member Hans Riemer
+
+Hans Riemer was elected to the Montgomery County Council in 2010, where he represents more than one million Montgomery County residents as an At-large Member.  In addition to his committee roles, Hans serves as
+the Council’s Lead for Digital Government, where he is working to make county government smarter and services more efficient. He authored the county’s Open Data Act of 2012, which is one of the country’s most thorough open data policies and has lead to groundbreaking initiatives including the new open budget tool piloted by the county with Socrata, and a first-in-the-nation policy to publish all freedom of information requests as an open data set. Before serving on the County Council, Hans established a record as an innovator in political engagement.  He served as National Youth Vote Director for the historic Obama for America campaign in 2007, and previously as political director for Rock the Vote.
 
 ### <a id="opengov_foundation"></a>The OpenGov Foundation
 
