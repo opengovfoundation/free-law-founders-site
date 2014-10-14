@@ -17,8 +17,8 @@ sidebar: |
     * <a href="#dc-david_grosso">Councilmember David Grosso</a>
     * <a href="#dc-tommy_wells">Councilmember Tommy Wells</a>
     * <a href="#dc-traci_hughes">Traci Hughes, Director of DC's Office of Open Government
-  * <a href="#cambridge_ma">Cambridge, massachusetts</a>
-    * <a href="#ma-nadeem_mazen">Councillour Nadeem Mazen</a>
+  * <a href="#cambridge_ma">Cambridge, Massachusetts</a>
+    * <a href="#ma-nadeem_mazen">Councillor Nadeem Mazen</a>
   * <a href="#montgomery_md">Montgomery County, Maryland</a>
     * <a href="#md-hans_riemer">Council Member Hans Riemer</a> 
   * <a href="#opengov_foundation">The OpenGov Foundation</a>
@@ -96,7 +96,7 @@ Traci L. Hughes is the inaugural director of the Office of Open Government. Hire
 
 Prior to heading the Office of Open Government, Ms. Hughes served in both the private and public sectors as a highly sought after strategic communications professional, directing communications and marketing for the Congressional Black Caucus Foundation; the Chair of the Council of the District of Columbia; the District of Columbia Metropolitan Police Department; and the Office of the Attorney General for the District of Columbia.
 
- Ms. Hughes began her career with CBS, and has worked in television, print and radio in New York, Philadelphia and Washington, DC. She has appeared on major national and local television networks, including ABC, NBC, CBS and Fox News networks.
+Ms. Hughes began her career with CBS, and has worked in television, print and radio in New York, Philadelphia and Washington, DC. She has appeared on major national and local television networks, including ABC, NBC, CBS and Fox News networks.
 
 She is a member of the District of Columbia Bar Association and the Maryland State Bar Association.  Ms. Hughes is a graduate of Howard University and Temple University Beasley School of Law.
 
