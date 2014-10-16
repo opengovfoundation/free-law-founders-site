@@ -7,8 +7,10 @@ sidebar : |
   ### Current Members:
 
   * Boston, MA
+  * Cambridge, MA
   * Chicago, IL
   * MIT Media Lab, Human Dynamics Group
+  * Montgomery County, MD
   * New York, NY
   * The OpenGov Foundation
   * Participatory Politics Foundation
