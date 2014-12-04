@@ -7,7 +7,7 @@ permalink: "resources/"
 
 ### Sample Legislation
 
-[Click here](freelawfounders.org/sample-legislation) to access examples of open government legislation introduced in New York City and San Francisco. 
+[Click here](http://freelawfounders.org/sample-legislation/) to access examples of open government legislation passed in New York City and introduced in San Francisco. 
 
 
 ### Helpful Videos
