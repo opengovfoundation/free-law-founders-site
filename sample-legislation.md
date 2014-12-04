@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sample Legislation"
-permalink: "sample-legislation"
+permalink: "sample-legislation/"
 ---
 {% include JB/setup %}
 
