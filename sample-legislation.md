@@ -5,11 +5,11 @@ permalink: "sample-legislation/"
 ---
 {% include JB/setup %}
 
-# Case Study: Two Open Gov Laws that Passed in NYC
+## Case Study: Two Open Gov Laws that Passed in NYC
  
 Here are two examples of bills passed in New York City that you might consider bringing to your location. Though the particulars may be adjusted, the principles behind the legislation and some of the actions taken to promote them and make them law may be similar. To learn more about these bills or our action plan for moving the open government legislation forward, please email bkallos@benkallos.com.
  
-## Int. No. 363-A: CITY RECORD ONLINE 
+### Int. No. 363-A: CITY RECORD ONLINE 
 By Council Members Kallos, Chin, Constantinides, Cornegy, Gentile, Koo, Lancman, Rose, Vacca, Rodriguez, Mendez, Rosenthal, Koslowitz, Lander, Van Bramer, Barron and Mealy
  
 A Local Law to amend the New York city charter, in relation to publishing the city record online.
@@ -25,7 +25,7 @@ g. All information published in the City Record after the effective date of the 
 
 §2. This local law shall take effect one year after its enactment, provided, however, that the department of citywide administrative services shall take such actions prior to such time as are necessary for timely implementation of this local law.
  
-## Int. No. 149-A: LAW ONLINE 
+### Int. No. 149-A: LAW ONLINE 
 By Council Members Lander, Kallos, Chin, Cohen, Constantinides, Koo, Lancman, Rose, Van Bramer, Koslowitz, Vacca, Rosenthal, Rodriguez, Barron, Dromm and Mealy
   
 A Local Law to amend the administrative code of the city of New York, in relation to the online publication of city laws.
@@ -49,27 +49,27 @@ Section 1. Chapter 1 of title 7 of the administrative code of the city of New Yo
 § 2.  This local law shall take effect one year after its enactment.  
 Details and Press Coverage for Both
  
-## Press Releases:
-[http://www.benkallos.com/press-release/government-upgrade-nyc-council-passes-legislation-put-law-online-and-expand-city-recor](http://www.benkallos.com/press-release/government-upgrade-nyc-council-passes-legislation-put-law-online-and-expand-city-recor)
+### Press Releases:
+* [http://www.benkallos.com/press-release/government-upgrade-nyc-council-passes-legislation-put-law-online-and-expand-city-recor](http://www.benkallos.com/press-release/government-upgrade-nyc-council-passes-legislation-put-law-online-and-expand-city-recor)
  
-[http://www.benkallos.com/press-release/mayor-bill-de-blasio-signs-two-transparency-bills-law-announces-public-private-partner](http://www.benkallos.com/press-release/mayor-bill-de-blasio-signs-two-transparency-bills-law-announces-public-private-partner)
+* [http://www.benkallos.com/press-release/mayor-bill-de-blasio-signs-two-transparency-bills-law-announces-public-private-partner](http://www.benkallos.com/press-release/mayor-bill-de-blasio-signs-two-transparency-bills-law-announces-public-private-partner)
  
 ## Press Coverage:
-[http://www.gothamgazette.com/index.php/government/5211-de-blasio-embraces-civic-tech-bill-city-record-online](http://www.gothamgazette.com/index.php/government/5211-de-blasio-embraces-civic-tech-bill-city-record-online)
+* [http://www.gothamgazette.com/index.php/government/5211-de-blasio-embraces-civic-tech-bill-city-record-online](http://www.gothamgazette.com/index.php/government/5211-de-blasio-embraces-civic-tech-bill-city-record-online)
  
-[http://www.benkallos.com/press-clip/government-technology-nyc-improves-online-access-city-laws-procurement-notices-brian-heat](http://www.benkallos.com/press-clip/government-technology-nyc-improves-online-access-city-laws-procurement-notices-brian-heat)
+* [http://www.benkallos.com/press-clip/government-technology-nyc-improves-online-access-city-laws-procurement-notices-brian-heat](http://www.benkallos.com/press-clip/government-technology-nyc-improves-online-access-city-laws-procurement-notices-brian-heat)
  
-[http://m.govexec.com/state-local/2014/08/nyc-city-record-de-blasio-data/91076/](http://m.govexec.com/state-local/2014/08/nyc-city-record-de-blasio-data/91076/)
+* [http://m.govexec.com/state-local/2014/08/nyc-city-record-de-blasio-data/91076/](http://m.govexec.com/state-local/2014/08/nyc-city-record-de-blasio-data/91076/)
  
-[http://www.brooklyneagle.com/articles/2014/8/8/de-blasio-signs-bills-make-nyc-information-open-searchable-online](http://www.brooklyneagle.com/articles/2014/8/8/de-blasio-signs-bills-make-nyc-information-open-searchable-online)
+* [http://www.brooklyneagle.com/articles/2014/8/8/de-blasio-signs-bills-make-nyc-information-open-searchable-online](http://www.brooklyneagle.com/articles/2014/8/8/de-blasio-signs-bills-make-nyc-information-open-searchable-online)
  
-[http://benkallos.com/press-clip/statetech-new-york-city-releasing-more-15-years-worth-data-nicole-blake-johnson](http://benkallos.com/press-clip/statetech-new-york-city-releasing-more-15-years-worth-data-nicole-blake-johnson)
+* [http://benkallos.com/press-clip/statetech-new-york-city-releasing-more-15-years-worth-data-nicole-blake-johnson](http://benkallos.com/press-clip/statetech-new-york-city-releasing-more-15-years-worth-data-nicole-blake-johnson)
  
-[http://www.benkallos.com/press-clip/techpresident-new-york-city-and-silicon-valley-local-government-innovation-gets-outside-h](http://www.benkallos.com/press-clip/techpresident-new-york-city-and-silicon-valley-local-government-innovation-gets-outside-h)
+* [http://www.benkallos.com/press-clip/techpresident-new-york-city-and-silicon-valley-local-government-innovation-gets-outside-h](http://www.benkallos.com/press-clip/techpresident-new-york-city-and-silicon-valley-local-government-innovation-gets-outside-h)
  
-[http://www.benkallos.com/press-clip/epoch-times-council-committee-approves-bills-publish-city-laws-record-online-ivan-pentcho](http://www.benkallos.com/press-clip/epoch-times-council-committee-approves-bills-publish-city-laws-record-online-ivan-pentcho)
+* [http://www.benkallos.com/press-clip/epoch-times-council-committee-approves-bills-publish-city-laws-record-online-ivan-pentcho](http://www.benkallos.com/press-clip/epoch-times-council-committee-approves-bills-publish-city-laws-record-online-ivan-pentcho)
  
-[http://www.benkallos.com/press-clip/government-technology-nyc-council-members-want-better-access-city-laws-brian-heaton](http://www.benkallos.com/press-clip/government-technology-nyc-council-members-want-better-access-city-laws-brian-heaton)
+* [http://www.benkallos.com/press-clip/government-technology-nyc-council-members-want-better-access-city-laws-brian-heaton](http://www.benkallos.com/press-clip/government-technology-nyc-council-members-want-better-access-city-laws-brian-heaton)
  
 
 
