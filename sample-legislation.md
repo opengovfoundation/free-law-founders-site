@@ -1,6 +1,6 @@
 layout: page
-title: "Terms of Use"
-permalink: "terms-of-use/"
+title: "Sample Legislation"
+permalink: "sample-legislation"
 ---
 {% include JB/setup %}
 
