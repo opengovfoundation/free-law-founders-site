@@ -6,7 +6,7 @@ permalink: "sample-legislation"
 
 # Case Study: Two Open Gov Laws that Passed in NYC
  
-Here are two examples of bills we passed in New York City that you might consider bringing to your city. Though the particulars may be adjusted, the principles behind the legislation and some of the actions taken to promote them and make them law may be similar. To learn more about these bills or our action plan for moving the open government legislation forward, please email bkallos@benkallos.com.
+Here are two examples of bills passed in New York City that you might consider bringing to your location. Though the particulars may be adjusted, the principles behind the legislation and some of the actions taken to promote them and make them law may be similar. To learn more about these bills or our action plan for moving the open government legislation forward, please email bkallos@benkallos.com.
  
 ## Int. No. 363-A: CITY RECORD ONLINE 
 By Council Members Kallos, Chin, Constantinides, Cornegy, Gentile, Koo, Lancman, Rose, Vacca, Rodriguez, Mendez, Rosenthal, Koslowitz, Lander, Van Bramer, Barron and Mealy
