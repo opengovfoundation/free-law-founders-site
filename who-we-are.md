@@ -159,6 +159,7 @@ Project Vote Smart.
 Sean Vitka is the Federal Policy Manager at the Sunlight Foundation advocating for policy that opens up more legal information to all. He’s been focused on public interest work since 2007, when he founded a charity that provides technological solutions to problems associated with disability and hospitalization. Since then, he’s earned a J.D. from Boston College law school, where he focused on technology policy and practiced housing law. Sean’s worked at the Open Technology Institute, the Institute for Public Representation at Georgetown Law, and was a 2013 Google Policy Fellow. His writing on economics, the law and technology has been published in a variety of places, including Ars Technica, The Chicago Tribune, Slate and The Washington Post. He has in turn been directly quoted or cited in articles published by The Guardian, Bloomberg, MSNBC, Mother Jones, Andrew Sullivan's The Dish, The Plum Line at The Washington Post, and many others.
 
 ### <a id="oklahoma"></a>Oklahoma State Legislature
+
 #### <a id="jason_murphey"></a>[Representative Jason Murphey, District 31](http://www.okhouse.gov/District.aspx?District=31) 
 
 Oklahoma State Representative Jason Murphey has repeatedly championed the cause of using technology to open up the government to the people. In 2001, as a member of his local city council, he sponsored resolutions to place government proceedings on television and the Internet and to make the city code available online for all to read.
