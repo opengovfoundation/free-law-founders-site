@@ -17,6 +17,8 @@ permalink: "resources/"
 
 ### Press and Announcements
 
+* [December 10, 2014 -- "Pioneering Oklahoma Lawmaker and Leading Federal Open Government Coalition Join the Free Law Founders](http://www.opengovfoundation.org/pioneering-oklahoma-lawmaker-and-leading-federal-open-government-coalition-join-the-free-law-founders/)
+
 * [October 8, 2014 -- "Upgrading Our Laws" by Councilmember Ben Kallos](http://www.cityandstateny.com/2/politics/new-york-city/upgrading-our-laws.html#.VDVqiSldU7v) 
 
 * [September 30, 2014 -- "Meet Councilmember Ben Kallos, The Agile Politician"](http://www.fastcolabs.com/3036094/meet-councilman-ben-kallos-the-agile-politician)
