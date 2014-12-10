@@ -9,9 +9,11 @@ sidebar : |
   * Boston, MA
   * Cambridge, MA
   * Chicago, IL
+  * Congressional Data Coalition
   * MIT Media Lab, Human Dynamics Group
   * Montgomery County, MD
   * New York, NY
+  * Oklahoma
   * The OpenGov Foundation
   * Participatory Politics Foundation
   * San Francisco, CA
