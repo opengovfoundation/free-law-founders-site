@@ -29,10 +29,12 @@ sidebar: |
   * <a href="#mit">MIT Media Lab, Human Dynamics Group</a>
   	* <a href="#mit-dazza_greenwood">Dazza Greenwood</a>
   * <a href="#participatory_politics">Participatory Politics Foundation</a>
-  	* <a href="$pp-david_moore">David Moore, Executive Director</a>
+  	* <a href="#pp-david_moore">David Moore, Executive Director</a>
   * <a href="#sunlight_foundation">Sunlight Foundation</a>
     * <a href="#sunlight-james_turk">James Turk, Open States & Open Civic Data Project Lead</a>
     * <a href="#sunlight-sean_vitka">Sean Vitka, Federal Policy Manager</a>
+  * <a href="#jason_murphey">Representative Jason Murphey, Oklahoma State Legislature, District 31</a>
+  * <a href="#congressional_data">Congressional Data Coaltion</a>
 
 ---
 {% include JB/setup %}
@@ -155,5 +157,21 @@ Project Vote Smart.
 #### <a id="sunlight-sean_vitka"></a>[Sean Vitka, Federal Policy Manager](http://sunlightfoundation.com/team/)
 
 Sean Vitka is the Federal Policy Manager at the Sunlight Foundation advocating for policy that opens up more legal information to all. He’s been focused on public interest work since 2007, when he founded a charity that provides technological solutions to problems associated with disability and hospitalization. Since then, he’s earned a J.D. from Boston College law school, where he focused on technology policy and practiced housing law. Sean’s worked at the Open Technology Institute, the Institute for Public Representation at Georgetown Law, and was a 2013 Google Policy Fellow. His writing on economics, the law and technology has been published in a variety of places, including Ars Technica, The Chicago Tribune, Slate and The Washington Post. He has in turn been directly quoted or cited in articles published by The Guardian, Bloomberg, MSNBC, Mother Jones, Andrew Sullivan's The Dish, The Plum Line at The Washington Post, and many others.
+
+### <a id="jason_murphey"></a>Representative Jason Murphey, Oklahoma State Legislature, District 31 
+
+Oklahoma State Representative Jason Murphey has repeatedly championed the cause of using technology to open up the government to the people. In 2001, as a member of his local city council, he sponsored resolutions to place government proceedings on television and the Internet and to make the city code available online for all to read.
+
+Since 2006, as a state legislator, he has sponsored successful legislation to open up access to government spending and performance data, created the data.ok.gov and documents.ok.gov web portals and removed statutory barriers to government agency use of social media.
+
+In 2014, Murphey was designated as one of Government Technology magazine’s top 25 Doers, Dreamers and Drivers. Government Technology also named Murphey as one of the nation’s 13 most tech-savvy legislators.
+
+### <a id="congressional_data"></a>Congressional Data Coalition
+
+The Congressional Data Coalition (CDC) is comprised of citizens, public interest groups, trade associations, and businesses that champion greater governmental transparency through improved public access to and long-term preservation of congressional information.
+
+Members of the CDC include CREW, R Street Institute, Electronic Frontier Foundation, Sunlight Foundation, Engine Advocacy, Competitive Enterprise Institute, TechFreedom, GovTrack.us, Capitol Bells, WashingtonWatch.com, LegisWorks, LegCyte, Free Government Information, Fastcase, The Open Gov Foundation, OpenTheGovernment.org, and Participatory Politics Foundation.
+
+
 
 
