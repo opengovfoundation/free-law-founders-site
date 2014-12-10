@@ -132,7 +132,6 @@ Bill has been a web developer for seventeen years. In that time has worked for a
 
 #### <a id="bos-curt_savoie"></a>Curt Savoie, Principal Data Scientist, Department of Innovation & Technology
 
-
 ### <a id="mit"></a>MIT Media Lab, Human Dynamics Group
 
 #### <a id="mit-dazza_greenwood"></a>[Dazza Greenwood](http://civics.com/bio/)
