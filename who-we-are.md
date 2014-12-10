@@ -34,7 +34,7 @@ sidebar: |
     * <a href="#sunlight-james_turk">James Turk, Open States & Open Civic Data Project Lead</a>
     * <a href="#sunlight-sean_vitka">Sean Vitka, Federal Policy Manager</a>
   * <a href="#oklahoma>Oklahoma State Legislature</a>
-  *   <a href="#jason_murphey">Representative Jason Murphey, Oklahoma State Legislature, District 31</a>
+    * <a href="#jason_murphey">Representative Jason Murphey, Oklahoma State Legislature, District 31</a>
   * <a href="#congressional_data">Congressional Data Coaltion</a>
 
 ---
