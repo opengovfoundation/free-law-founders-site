@@ -5,9 +5,13 @@ permalink: "resources/"
 ---
 {% include JB/setup %}
 
-### Sample Legislation
+### Model Legislation
 
-[Click here](http://freelawfounders.org/sample-legislation/) to access examples of open government legislation passed in New York City. 
+Sharing the best open government ideas and proven approaches is the goal of the Free Law Founders. Even better, we connect you and your elected officials to the Free Law Founder who wrote the legislation, executed the plan, and discovered what works (and what doesn't) so you don't have to.
+
+These proven state and local policies to further digital democracy are yours to reuse, modify and improve -- just like open data and open source software.
+
+[Click here](http://freelawfounders.org/model-legislation/) to access examples of open gov legislation passed by members of the Free Law Founders.
 
 
 ### Helpful Videos
