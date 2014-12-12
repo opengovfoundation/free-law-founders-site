@@ -1,11 +1,15 @@
 ---
 layout: page
-title: "Sample Legislation"
-permalink: "sample-legislation/"
+title: "Model Legislation for your City & State"
+permalink: "model-legislation/"
 ---
 {% include JB/setup %}
 
-## Case Study: Two Open Gov Laws that Passed in NYC
+Sharing the best open government ideas and proven approaches is the goal of the Free Law Founders. Even better, we connect you and your elected officials to the Free Law Founder who wrote the legislation, executed the plan, and discovered what works (and what doesn't) so you don't have to.
+
+These proven state and local policies to further digital democracy are yours to reuse, modify and improve -- just like open data and open source software.
+
+## Case Study: Two Open Gov Laws that Passed in New York City
  
 Here are two examples of bills passed in New York City that you might consider bringing to your location. Though the particulars may be adjusted, the principles behind the legislation and some of the actions taken to promote them and make them law may be similar. To learn more about these bills or our action plan for moving the open government legislation forward, please email bkallos@benkallos.com.
 
