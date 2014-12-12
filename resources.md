@@ -5,21 +5,21 @@ permalink: "resources/"
 ---
 {% include JB/setup %}
 
-### Model Legislation
+## Model Legislation
 
 Sharing the best open government ideas and proven approaches is the goal of the Free Law Founders. Even better, we connect you and your elected officials to the Free Law Founder who wrote the legislation, executed the plan, and discovered what works (and what doesn't) so you don't have to.
 
 These proven state and local policies to further digital democracy are yours to reuse, modify and improve -- just like open data and open source software.
 
-[Click here](http://freelawfounders.org/model-legislation/) to access examples of open gov legislation passed by members of the Free Law Founders.
+#### [Click here](http://freelawfounders.org/model-legislation/) to access examples of open gov legislation passed by members of the Free Law Founders.
 
 
-### Helpful Videos
+## Helpful Videos
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/qiulQqIuBi8" frameborder="0" allowfullscreen></iframe>
 
 
-### Press and Announcements
+## Press and Announcements
 
 * [December 10, 2014 -- "Pioneering Oklahoma Lawmaker and Leading Federal Open Government Coalition Join the Free Law Founders](http://www.opengovfoundation.org/pioneering-oklahoma-lawmaker-and-leading-federal-open-government-coalition-join-the-free-law-founders/)
 
@@ -45,7 +45,7 @@ These proven state and local policies to further digital democracy are yours to 
 
 * [Press release: “East and West Coast Legislators Set National Free Law Founders Challenge: Free and Open Source Platform for Governing Civic Hackers Accept One Year Challenge to Build Democracy 2.0 Platform"](http://benkallos.com/press-release/east-and-west-coast-legislators-set-national-free-law-founders-challenge-free-and-open)
 
-### Information on Open Government
+## Information on Open Government
 
 * [The OpenGov Foundation's Bill Hunt on “Setting the Standards for Open Government Data”](http://www.opengovfoundation.org/setting-the-standards-for-open-government-data/)
 
