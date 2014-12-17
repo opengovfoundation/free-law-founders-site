@@ -17,6 +17,8 @@ In addition, you can find some excellent recommendations from the Sunlight Found
  
 ### Int. No. 363-A: CITY RECORD ONLINE 
 By Council Members Kallos, Chin, Constantinides, Cornegy, Gentile, Koo, Lancman, Rose, Vacca, Rodriguez, Mendez, Rosenthal, Koslowitz, Lander, Van Bramer, Barron and Mealy
+
+[Click here to view and comment on the text using Madison.](https://mymadison.io/docs/city-record-online-act-2014) 
  
 *A Local Law to amend the New York city charter, in relation to publishing the city record online.*
  
@@ -34,6 +36,8 @@ g. All information published in the City Record after the effective date of the 
 ### Int. No. 149-A: LAW ONLINE 
 By Council Members Lander, Kallos, Chin, Cohen, Constantinides, Koo, Lancman, Rose, Van Bramer, Koslowitz, Vacca, Rosenthal, Rodriguez, Barron, Dromm and Mealy
   
+ [Click here to view and comment on the text using Madison.](https://mymadison.io/docs/the-law-online-act-2014)
+
 *A Local Law to amend the administrative code of the city of New York, in relation to the online publication of city laws.*
  
 **SUMMARY:**
