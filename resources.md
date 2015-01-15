@@ -21,6 +21,8 @@ These proven state and local policies to further digital democracy are yours to 
 
 ## FLF Press and Announcements
 
+* [January 14, 2015 -- "Governments Making it Easier for Citiezns to Know the Law"](http://www.governing.com/columns/tech-talk/gov-legal-codes-open-data.html) 
+
 * [December 17, 2014 -- FLF member Dave Zvenyach wins the US Open Data Institute's 2014 Open Data Pioneer award](https://usodi.org/2014/12/17/zvenyach/)
 
 * [December 10, 2014 -- "Pioneering Oklahoma Lawmaker and Leading Federal Open Government Coalition Join the Free Law Founders](http://www.opengovfoundation.org/pioneering-oklahoma-lawmaker-and-leading-federal-open-government-coalition-join-the-free-law-founders/)
