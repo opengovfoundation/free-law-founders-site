@@ -31,6 +31,7 @@ sidebar: |
   * <a href="#participatory_politics">Participatory Politics Foundation</a>
   	* <a href="#pp-david_moore">David Moore, Executive Director</a>
   * <a href="#sunlight_foundation">Sunlight Foundation</a>
+    * <a href="sunlight-lavita_tuff">LaVita Tuff, Policy Analyst</a>
     * <a href="#sunlight-james_turk">James Turk, Open States & Open Civic Data Project Lead</a>
     * <a href="#sunlight-sean_vitka">Sean Vitka, Federal Policy Manager</a>
   * <a href="#oklahoma">Oklahoma State Legislature</a>
@@ -146,6 +147,12 @@ Dazza Greenwood, a lecturer and research scientist at the MIT Media Lab, conduct
 David is the Executive Director of PPF and has served as Program Manager of OpenCongress since its public launch in Feburary 2007. He graduated from Brown University with degrees in English and Philosophy. Previously, he worked as the first Outreach Coordinator for the Participatory Culture Foundation and helped to launch the open-source Miro video player. David spends a decent amount of time following the Milwaukee Brewers. He lives in Brooklyn, NY.
 
 ### <a id="sunlight_foundation"></a>Sunlight Foundation
+
+#### <a id="sunlight-lavita_Tuff"></a>[LaVita Tuff, Policy Analyst](http://sunlightfoundation.com/team/ltuff/)
+
+LaVita Tuff works with the local policy team to improve online access to government information. Her work focuses on analyzing and writing about government data disclosure in addition to providing feedback on adoption and implementation of open data, open meetings and open government policies at the state and municipal levels.
+
+Her passion for access to information comes from her community and economic development background. She previously worked as an Economic Development Specialist for the City of Baltimore. Prior to that she served as Mayoral Fellow to Mayor Stephanie Rawlings-Blake and worked on Capitol Hill. She is a graduate of Tennessee State University, the University of New Orleans Master of Urban and Regional Planning program, and the University of Baltimore School of Law.
 
 #### <a id="sunlight-james_turk"></a>[James Turk, Open States & Open Civic Data Project Lead](http://sunlightfoundation.com/team/)
 
