@@ -31,7 +31,7 @@ sidebar: |
   * <a href="#participatory_politics">Participatory Politics Foundation</a>
   	* <a href="#pp-david_moore">David Moore, Executive Director</a>
   * <a href="#sunlight_foundation">Sunlight Foundation</a>
-    * <a href="sunlight-lavita_tuff">LaVita Tuff, Policy Analyst</a>
+    * <a href="#sunlight-lavita_tuff">LaVita Tuff, Policy Analyst</a>
     * <a href="#sunlight-james_turk">James Turk, Open States & Open Civic Data Project Lead</a>
     * <a href="#sunlight-sean_vitka">Sean Vitka, Federal Policy Manager</a>
   * <a href="#oklahoma">Oklahoma State Legislature</a>
