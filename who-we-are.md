@@ -15,7 +15,7 @@ sidebar: |
   * <a href="#washington_dc">Washington, DC</a>
     * <a href="#dc-david_zvenyach">David Zvenyach, General Counsel, DC Council</a>
     * <a href="#dc-david_grosso">Councilmember David Grosso</a>
-    * <a href="#dc-tommy_wells">Councilmember Tommy Wells</a>
+    * <a href="#dc-tommy_wells">Former Councilmember Tommy Wells</a>
     * <a href="#dc-traci_hughes">Traci Hughes, Director of DC's Office of Open Government
   * <a href="#cambridge_ma">Cambridge, Massachusetts</a>
     * <a href="#ma-nadeem_mazen">Councillor Nadeem Mazen</a>
@@ -83,7 +83,7 @@ Susana Mendoza was elected as the youngest member of the 92nd General Assembly i
 
 A native Washingtonian, Grosso was elected to the Council of the District of Columbia as an at-large councilmember on November 6, 2012 to represent residents in all eight wards. David brings a wealth of experience having worked with Congresswoman Eleanor Holmes Norton as her chief Counsel and former D.C. Councilmember Sharon Ambrose, in addition to his experience in the private sector. David is committed to continuing school reform efforts, improving health outcomes throughout the city, addressing inequities within the criminal justice system, and enhancing job opportunities by supporting a robust successful workforce development and public higher education system. David has also pushed for good governance, including sweeping ethics reform, transparency and open government, and strengthening civic engagement. He helped pilot a collaborative legislation platform, the Madison Project, in D.C. and is very supportive of the Council’s efforts to engage residents in the legislative process, such as the new Decoded D.C. website and the new Legislative Information Management System.
 
-#### <a id="dc-tommy_wells"></a>[Former Councilmember Tommy Wells]
+#### <a id="dc-tommy_wells"></a>Former Councilmember Tommy Wells
 
 In his eight years in the D.C. Council, Tommy Wells won support throughout the District for his vision of a livable and walkable city for all. He was and remains a passionate advocate for innovative solutions, and D.C.’s leading voice for progressive change.
 
