@@ -192,7 +192,7 @@ In 2014, Murphey was designated as one of Government Technology magazine’s top
 
 ### <a id="congressional_data"></a>Congressional Data Coalition
 
-The Congressional Data Coalition (CDC) is comprised of citizens, public interest groups, trade associations, and businesses that champion greater governmental transparency through improved public access to and long-term preservation of congressional information.
+The [Congressional Data Coalition](http://congressionaldata.org/) (CDC) is comprised of citizens, public interest groups, trade associations, and businesses that champion greater governmental transparency through improved public access to and long-term preservation of congressional information.
 
 Members of the CDC include CREW, R Street Institute, Electronic Frontier Foundation, Sunlight Foundation, Engine Advocacy, Competitive Enterprise Institute, TechFreedom, GovTrack.us, Capitol Bells, WashingtonWatch.com, LegisWorks, LegCyte, Free Government Information, Fastcase, The Open Gov Foundation, OpenTheGovernment.org, and Participatory Politics Foundation.
 
