@@ -15,6 +15,7 @@ sidebar: |
   * <a href="#washington_dc">Washington, DC</a>
     * <a href="#dc-david_zvenyach">David Zvenyach, General Counsel, DC Council</a>
     * <a href="#dc-david_grosso">Councilmember David Grosso</a>
+    * <a href="#dc-charles_allen">Councilmember Charles Allen</a>
     * <a href="#dc-tommy_wells">Former Councilmember Tommy Wells</a>
     * <a href="#dc-traci_hughes">Traci Hughes, Director of DC's Office of Open Government
   * <a href="#cambridge_ma">Cambridge, Massachusetts</a>
@@ -82,6 +83,20 @@ Susana Mendoza was elected as the youngest member of the 92nd General Assembly i
 #### <a id="dc-david_grosso"></a>[Councilmember David Grosso](http://www.davidgrosso.org/) 
 
 A native Washingtonian, Grosso was elected to the Council of the District of Columbia as an at-large councilmember on November 6, 2012 to represent residents in all eight wards. David brings a wealth of experience having worked with Congresswoman Eleanor Holmes Norton as her chief Counsel and former D.C. Councilmember Sharon Ambrose, in addition to his experience in the private sector. David is committed to continuing school reform efforts, improving health outcomes throughout the city, addressing inequities within the criminal justice system, and enhancing job opportunities by supporting a robust successful workforce development and public higher education system. David has also pushed for good governance, including sweeping ethics reform, transparency and open government, and strengthening civic engagement. He helped pilot a collaborative legislation platform, the Madison Project, in D.C. and is very supportive of the Council’s efforts to engage residents in the legislative process, such as the new Decoded D.C. website and the new Legislative Information Management System.
+
+#### <a id="dc-charles_allen">[Councilmember Charles Allen](http://dccouncil.us/council/charles-allen)
+
+Charles Allen, his wife Jordi Hutchinson, and their daughter Cora Neal live at 15th and D Streets, NE with their dog Olive.
+
+For over a decade, Charles has worked in Ward 6 neighborhoods – helping bring about school reforms, working with small businesses, and improving our community. His years of public service to Ward 6 means he knows and understands neighborhood issues like no one else.
+
+Charles Allen began his career in the District as a graduate fellow with the federal Department of Health and Human Services to work on expanding community-based health options across the nation. Charles quickly understood that to make true change he needed to return to his roots working at the local and community level. So Charles began his service to the District as policy director for the DC Primary Care Association, where he helped bring about legislative, budget, and policy changes that expanded health care options for almost every DC resident. Two of his signature efforts – bringing physicians, dentists, nurses and other healthcare providers to medically underserved communities and creating a District-owned captive insurance company to provide free and low-cost medical malpractice insurance to non-profit providers – remain a vital part of the city’s health care safety net nearly a decade after he helped create them.
+
+At the same time, Charles helped found DC for Democracy and served as Chair of the organization to bring a needed voice for progressive priorities and social justice issues facing the city. Today, DC for Democracy is a leading voice in the city.
+
+These experiences led Charles to become an elected delegate for the District at the 2004 Democratic National Convention in Boston, and later serve as President of the Ward 6 Democrats. Ultimately, he served as chief of staff to Ward 6 Councilmember Tommy Wells, a position he held since Wells first took office in 2007.
+
+Charles graduated from Washington and Lee University and received a master’s degree from the University of Alabama at Birmingham. In addition to his local political activism managing Wells’ successful Ward 6 campaigns, he has been involved in progressive national campaigns.
 
 #### <a id="dc-tommy_wells"></a>Former Councilmember Tommy Wells
 
