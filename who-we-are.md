@@ -348,7 +348,7 @@ id: "who-we-are"
         Her passion for access to information comes from her community and economic development background. She previously worked as an Economic Development Specialist for the City of Baltimore. Prior to that she served as Mayoral Fellow to Mayor Stephanie Rawlings-Blake and worked on Capitol Hill. She is a graduate of Tennessee State University, the University of New Orleans Master of Urban and Regional Planning program, and the University of Baltimore School of Law.
       </p>
       <p>
-        <a href="http://sunlightfoundation.com/team/ltuff/">>Website</a>
+        <a href="http://sunlightfoundation.com/team/ltuff/">Website</a>
       </p>
     </section>
   </div>
