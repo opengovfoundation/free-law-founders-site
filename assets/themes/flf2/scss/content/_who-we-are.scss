@@ -78,6 +78,10 @@
 			display: inherit;
 		}
 
+		a {
+			display: inline;
+		}
+
 		@include breakpoint(0 $screen-md-min) {
 			max-height: 10000px;
 		}
