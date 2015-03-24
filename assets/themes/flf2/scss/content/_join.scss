@@ -1,0 +1,73 @@
+.member-group {
+	@extend .col-md-4;
+	margin-bottom: 2em;
+
+	.content {
+		height: 340px;
+		background-color: $white;
+		line-height: 1.5em;
+
+		@include breakpoint(0 $screen-md-min) {
+			height: auto;
+			padding-bottom: 10px;
+		}
+
+		ul {
+			margin: 20px;
+			margin-left: 40px;
+			padding: 0;
+		    list-style-type: none;
+
+		}
+		li {
+			margin-bottom: 0.25em;
+			&:before {
+				// The extra space helps fix lines starting with a link.
+				content: "✓ ";
+			}
+		}
+	}
+
+	h3 {
+		font-size: 1.2em;
+		color: $white;
+		background-color: $light-blue;
+		padding: 10px 15px;
+		margin: 0;
+	}
+}
+
+.everyone-group {
+	h3 {
+	}
+}
+
+.officials-group {
+	h3 {
+		// background-color: $green;
+	}
+}
+
+.coders-group {
+	h3 {
+		// background-color: $yellow;
+	}
+}
+
+.citizens-group {
+	h3 {
+		// background-color: $red;
+	}
+}
+
+.agencies-group {
+	h3 {
+		// background-color: $blue;
+	}
+}
+
+.orgs-group {
+	h3 {
+		// background-color: $orange;
+	}
+}

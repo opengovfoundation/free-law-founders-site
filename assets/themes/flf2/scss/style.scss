@@ -1,0 +1,348 @@
+/*
+ * !!! Note: To edit the stylesheet, please edit the scss files, not the finished CSS !!!
+ */
+@import "config/settings"; // This must come first.
+@import "helpers/bootstrap-override";
+@import "font-awesome";
+@import "compass/css3/transition";
+@import "compass/css3/text-shadow";
+@import "helpers/web-fonts";
+@import "breakpoint";
+
+// Get our fonts
+@include web-fonts("Patua One", ("Open Sans": ("300", "300 italic", "700")));
+
+
+// Global styles
+body {
+	background-color: $lighter-grey;
+	color: $dark-blue;
+	font-weight: 300;
+}
+
+h1, h2 {
+	font-family: $accent-font;
+}
+
+// Main page headings are h2s
+h2 {
+	width: 100%;
+	text-align: center;
+	margin-top: 2*$side-padding;
+	font-size: em(52px);
+
+	@include breakpoint(0 $screen-md-min) {
+		font-size: em(40px);
+		margin-top: $side-padding/2;
+		margin-bottom: $side-padding/2;
+	}
+}
+
+p {
+	margin-bottom: 1em;
+}
+
+blockquote {
+	font-size: 1em;
+}
+
+li {
+	margin-bottom: 0.5em;
+}
+
+// Mixins
+
+// An uppercased subheading or button.
+@mixin heading() {
+	text-transform: uppercase;
+	letter-spacing: 2.2px;
+}
+
+// A full-width block with large, prominent text.
+@mixin big-block() {
+	@extend .col-lg-12;
+
+	font-size: em(26px);
+	color: $dark-blue;
+
+	padding: 1.5*$side-padding $side-padding;
+
+	@include breakpoint(0 $screen-md-min) {
+		font-size: em(16px);
+		padding: 0px 10px 30px;
+	}
+}
+
+@mixin general-block() {
+	@extend .col-lg-12;
+
+	font-size: em(20px);
+	color: $dark-blue;
+
+	padding: $side-padding $side-padding;
+
+	@include breakpoint(0 $screen-md-min) {
+		font-size: em(14px);
+		padding: 0px $side-padding 30px;
+	}
+}
+
+// A full-width block where one side is an image.
+@mixin inset($content-cols: 6, $side: left) {
+	@extend .inset;
+
+	// Do the math.
+	$remaining-cols: 12 - $content-cols;
+	$content-amount: $content-cols / 12;
+	$remaining-amount: 1 - $content-amount;
+
+	// Since the background is on the container, we need to offset by half the $grid-gutter-width.
+	background-repeat: no-repeat;
+	@if($side == left) {
+		background-position: right $grid-gutter-width/2 center;
+	} @else {
+		background-position: left $grid-gutter-width/2 center;
+	}
+
+	background-size: $remaining-amount*100%;
+
+	.content {
+		@extend .col-md-#{$content-cols};
+		@if($side == right)
+		{
+			@extend .col-md-push-#{$remaining-cols};
+		}
+	}
+
+}
+
+// Nonvariable, reusable inset pieces.
+.inset {
+	@extend .col-md-12;
+	line-height: 2em;
+
+	h3, h4 {
+		display: block;
+		color: $white;
+
+		@include heading;
+		font-size: em(15px);
+
+		text-align: center;
+		padding: 12px 10px;
+		margin: 0;
+	}
+
+	h3 {
+		background-color: $medium-blue;
+	}
+	// Generally, the h3 is going to overflow before h4.
+	// If that's not the case, make the header match the h3 color.
+	h4, header {
+		background-color: $light-blue;
+	}
+
+	.content {
+		margin: 0;
+		background-color: $white;
+		padding: 0 0 $side-padding/2;
+
+
+		// If our heading is *inside* of our content, it should
+		// sit alongside the image.
+		h3 {
+			width: 100%;
+			margin-bottom: $side-padding/2;
+		}
+
+		p,
+		ul,
+		blockquote {
+			padding: 0 $side-padding 10px;
+			margin: 0;
+			border: none;
+		}
+	}
+
+	ul {
+		list-style: none;
+	}
+}
+
+@mixin flf-button($background-color, $color: $white) {
+	color: $color;
+
+	border: 2px solid lighten($background-color, 40%);
+	padding: 10px 13px;
+	border-radius: 12px;
+
+	background-color: darken($background-color, 18%);
+	@include single-transition(background-color, 0.2s);
+
+	&:hover {
+		background-color: darken($background-color, 13%);
+	}
+
+	&:active {
+		background-color: darken($background-color, 5%);
+	}
+}
+
+// Navbar
+.navbar {
+	background-color: $white;
+}
+
+.navbar-toggle {
+	background-color: $light-grey;
+	.icon-bar {
+		background-color: $white;
+	}
+}
+
+.navbar-brand {
+	padding: 15px;
+	height: auto;
+	margin-top: 13px;
+}
+
+.navbar-page-list {
+	@extend .navbar-collapse;
+	@extend .collapse;
+	@extend .navbar-right;
+	margin-top: 20px;
+
+	li {
+		a {
+			color: $grey;
+			padding: 10px 10px;
+		}
+		a:hover, a:active a.current {
+			color: $dark-blue;
+			text-decoration: underline;
+			background-color: transparent;
+		}
+	}
+
+	// Tablet
+	@include breakpoint(0 $screen-md-min) {
+		margin-top: 0px;
+	}
+
+	// Smartphone
+	@include breakpoint(0 $screen-sm-min) {
+		ul {
+			margin: 0;
+		}
+
+		li {
+			font-size: 1.2em;
+			padding: 0;
+			border-bottom: 1px solid $medium-blue;
+			&:last-child {
+				border-bottom: none;
+			}
+
+			a {
+				padding: 12px 15px;
+				color: $dark-blue;
+			}
+
+		}
+	}
+}
+
+// Footer
+.footer {
+	background-color: $dark-blue;
+	color: $white;
+	margin-top: 2*$side-padding;
+
+	.footer-links {
+		font-size: em(12px);
+		line-height: 1.5em;
+	}
+	ul {
+		@include heading();
+
+		margin: 0.5*$side-padding 0;
+		padding: 0;
+		list-style: none;
+	}
+	li {
+		display: inline-block;
+		margin-right: 30px;
+		&:last-child {
+			margin-right: 0;
+		}
+	}
+	a {
+		display: inline-block;
+		color: $white;
+		padding: 10px;
+	}
+
+	// Smartphone
+	@include breakpoint(0 $screen-sm-min) {
+		ul {
+			display: list;
+		}
+		li {
+			display: list-item;
+		}
+	}
+}
+
+.footer-credits {
+	margin: 1em;
+	font-size: em(12px);
+	color: $medium-blue;
+}
+
+// Content
+
+.main {
+	@extend .container;
+
+	a:link {
+		text-decoration: underline;
+
+		&:hover, &:active {
+			text-decoration: none;
+		}
+	}
+}
+
+.intro {
+	@include big-block();
+}
+
+.generic-block {
+	@include general-block();
+}
+
+.steps {
+	@extend .container;
+	@include inset(6, right);
+
+	.content {
+		//padding: 20px 50px
+		ul {
+			list-style: disc;
+			margin-left: 30px;
+		}
+		li {
+			margin-bottom: 0.5em;
+		}
+	}
+}
+
+// Page partials
+
+@import "content/home";
+@import "content/about";
+@import "content/contact-form";
+@import "content/join";
+@import "content/who-we-are";
+@import "content/resources";
+@import "content/press";

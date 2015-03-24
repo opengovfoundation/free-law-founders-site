@@ -1,0 +1,17 @@
+.press {
+
+	.generic-block {
+		@extend .col-md-10;
+		@extend .col-md-push-1;
+		@extend .col-md-pull-1;
+		ul {
+
+		}
+	}
+
+
+	li {
+		margin-bottom: 1em;
+	}
+
+}

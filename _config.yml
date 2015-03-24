@@ -14,32 +14,25 @@ topbar:
     title : 'About'
 
   -
-  
+    url : '/who-we-are/'
+    title : 'Who We Are'
+
+  -
     url : '/join-the-flf/'
     title : 'Join the FLF'
 
   -
     url : '/resources/'
     title : 'Resources'
-  
-  - 
-    url : '/who-we-are/'
-    title : 'Who We Are'
 
   -
-    url: '/the-challenge/'
-    title : 'The Free Law Challenge' 
-    
-  -
-  
     url: '/blog/'
     title : 'Blog'
-    
+
   -
-  
-    url : '/fellowship/'
-    title : 'Fellowship'
-    
+    url : '/press/'
+    title : 'Press'
+
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #

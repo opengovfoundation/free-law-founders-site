@@ -1,0 +1,9 @@
+<div class="main">
+  {% if page.header %}
+  	<h1 class="title">{{ page.header }}</h1>
+  {% endif %}
+  {{ page.description }}
+  {{ content }}
+</div>
+
+{% include mailinglist-form.html %}

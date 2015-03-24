@@ -1,0 +1,11 @@
+.sample {
+	& > blockquote {
+		border: none;
+		margin-left: 0;
+		margin-top: 3em;
+		background-color: $lightest-grey;
+		h3 {
+			margin-top: 0;
+		}
+	}
+}

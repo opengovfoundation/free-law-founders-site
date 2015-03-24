@@ -1,0 +1,181 @@
+// Homepage content, hero image & header.
+
+.home .header {
+	@extend .jumbotron;
+
+	padding: 0;
+	color: $white;
+	width: 100%;
+
+	.wrapper {
+		height: 100%;
+		background: url(../images/heroimage.jpg) no-repeat center center;
+		background-size:cover;
+	}
+	.inner-wrapper {
+		text-align: center;
+
+		background-color: rgba(7,7,7, 0.35);
+		min-height: 700px;
+	}
+
+	.tagline1 {
+		@extend .col-lg-8;
+		// We want this to be centered, not left-aligned
+		margin: auto;
+		float: none;
+
+		font-family: $accent-font;
+		font-size: em(52px);
+		line-height: 1.2em;
+
+		padding-top: 250px;
+
+		span {
+			margin: 0;
+			font-family: $main-font;
+			display: block;
+			font-size: em(20px, 52px);
+			line-height: 2em;
+		}
+	}
+
+	// Tablet, small desktop
+	@include breakpoint(0 $screen-md-min) {
+		.inner-wrapper {
+			min-height: 400px;
+		}
+
+		.tagline1 {
+			padding-top: 200px;
+		}
+	}
+
+	// Smartphone
+	@include breakpoint(0 $screen-sm-min) {
+		.inner-wrapper {
+			min-height: 200px;
+		}
+
+		.tagline1 {
+			padding-top: 20px;
+			font-size: em(32px);
+
+			span {
+				font-size: em(20px, 32px);
+			}
+
+		}
+	}
+}
+
+.tagline2 {
+	@extend .container-fluid;
+
+	min-height: 65px;
+
+	text-align: center;
+	background-color: $light-blue;
+
+	@include heading;
+	font-size: em(13px);
+
+	.tagline2-span, .tagline2-button {
+		@extend .col-lg-6;
+	}
+
+	.tagline2-span {
+		text-align: right;
+
+		@include breakpoint(0 $screen-lg-min) {
+			text-align: center;
+		}
+	}
+	.tagline2-button {
+		text-align: left;
+
+		@include breakpoint(0 $screen-lg-min) {
+			text-align: center;
+		}
+	}
+
+
+	span {
+		display: inline-block;
+		margin-top: 2em;
+	}
+	.button {
+		display: inline-block;
+		margin-top: 1em;
+		margin-bottom: 1em;
+		@include flf-button($light-blue);
+	}
+
+}
+
+// Homepage content
+
+.member-name-list {
+	@extend .col-lg-6;
+	@extend .col-lg-push-3;
+	@extend .col-lg-pull-3;
+	text-align: center;
+
+	margin-top: $side-padding / 2;
+
+	font-size: em(14px, 26px);
+	line-height: 2em;
+
+	li {
+		display: inline-block;
+		margin: 0 10px 0 0;
+		padding: 0;
+
+		&:after {
+			margin-left: 12px;
+			font-weight: bold;
+			content: "○";
+		}
+
+		&:last-child:after {
+			content: "";
+		}
+	}
+}
+
+@include breakpoint(0 $screen-md-min) {
+	.member-name-list {
+		font-size: em(14px, 18px);
+	}
+}
+
+.modernizing {
+	@include inset();
+	background-image: url('../images/discussion.jpg');
+}
+
+.closing {
+	@extend .col-md-12;
+
+	p {
+		background-color: $light-blue;
+		color: $white;
+		padding: $side-padding;
+		font-size: em(16px);
+		line-height: 2em;
+	}
+}
+
+.closing-quote {
+	@extend .col-md-12;
+	font-family: $accent-font;
+	font-size: em(26px);
+	line-height: 1.5em;
+	color: $black;
+	padding: 1.5*$side-padding $side-padding;
+
+	@include breakpoint(0 $screen-md-min) {
+		font-size: em(18px);
+		padding: 30px 50px;
+	}
+}

@@ -1,0 +1,115 @@
+// Challenge page content
+
+.about .steps {
+	background-image: url('../images/steps.jpg');
+
+	ul {
+		margin-bottom: 0.5em;
+	}
+}
+
+.upgrade {
+	@include big-block;
+	font-family: $accent-font;
+}
+
+.problem-solving {
+	@extend .col-md-12;
+	text-align: center;
+	margin-bottom: $side-padding;
+}
+
+.org-block {
+	margin-bottom: $side-padding/2;
+
+	header {
+		float: left;
+		width: 100%;
+
+		@include breakpoint(0 $screen-md-min) {
+			float: none;
+		}
+	}
+
+	h3 {
+		font-size: em(14px);
+		@extend .col-md-4;
+	}
+
+	h4 {
+		font-size: em(14px);
+		@extend .col-md-8;
+	}
+
+	ul {
+		list-style: disc;
+	}
+
+	blockquote{
+		&:before, &:after {
+			font-size: 1.6em;
+		}
+		&:before {
+			content:'\201C';
+		}
+
+		&:after {
+			content:'\201D';
+			position: relative;
+		}
+	}
+}
+
+.org-block:nth-child(odd) {
+	@include inset(8);
+
+	.content {
+		padding-top: $side-padding/2;
+	}
+
+	// Reverse our headings.
+	h3 {
+		float: right;
+	}
+	h4 {
+		float: left;
+	}
+
+	@include breakpoint(0 $screen-md-min) {
+		h3, h4 {
+			float: none;
+		}
+	}
+}
+
+.org-block:nth-child(even) {
+	@include inset(8, right);
+
+	.content {
+		padding-top: $side-padding/2;
+	}
+}
+
+.author {
+	font-style: italic;
+}
+
+.chicago-block {
+	background-image: url('../images/member-sidebars/chicago.jpg');
+}
+
+.boston-block {
+	background-image: url('../images/member-sidebars/boston.jpg');
+}
+
+.newyorkcity-block {
+	background-image: url('../images/member-sidebars/newyorkcity.jpg');
+}
+
+.ppf-block {
+	background-image: url('../images/member-sidebars/washingtondc2.jpg');
+}
+
+.washingtondc-block {
+	background-image: url('../images/member-sidebars/washingtondc.jpg');
+}

@@ -1,0 +1,128 @@
+/*
+ * We use Javascript on the Who We Are page to shuffle
+ * content blocks around.  This makes it easier to manage
+ * the content.
+ */
+
+.who-we-are .main {
+	position: relative;
+}
+
+.member {
+	@extend .col-md-3;
+	@extend .col-sm-6;
+	position: relative;
+	text-align: center;
+	height: 290px;
+	margin-top: $side-padding;
+
+	background-color: $lighter-grey;
+	@include single-transition( background-color, 0.25s );
+
+	padding: $side-padding/2 0;
+
+	.content {
+		position: relative;
+	}
+
+	&:hover {
+		background-color: mix($lighter-grey, $medium-blue, 60%);
+		cursor: pointer;
+	}
+
+	&.active {
+		background-color: $medium-blue;
+		color: $white;
+	}
+}
+
+.member.active, .member-list .content-box {
+	a {
+		color: $white;
+		text-decoration: underline;
+		&:hover {
+			text-decoration: none;
+		}
+	}
+}
+
+.member-list .content-box {
+	@extend .col-md-12;
+	@extend .col-sm-12;
+
+	border: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 0;
+	overflow: hidden;
+
+	background-color: $light-blue;
+	color: $white;
+
+	max-height: 0;
+	opacity: 0;
+
+	// We can't do a transition on height: auto, so we use
+	// max-height as a hack instead.
+	@include transition( (max-height 1s, opacity 0.25s) );
+
+	* {
+		display: none;
+	}
+
+	&.open {
+		max-height: 1000px;
+		opacity: 1;
+
+		* {
+			display: inherit;
+		}
+
+		@include breakpoint(0 $screen-md-min) {
+			max-height: 10000px;
+		}
+	}
+}
+
+
+.member-list .content-box,
+.member .content {
+	p {
+		padding: 0 $side-padding/2 1em;
+	}
+	p:first-child {
+		padding-top: $side-padding/2;
+	}
+	p:last-child {
+		padding-bottom: $side-padding/2;
+	}
+}
+
+.member-info:after {
+	position: absolute;
+	bottom: 10px;
+	left: 0;
+	width: 100%;
+	display: inline-block;
+	content: "● ● ●";
+	color: $grey;
+}
+
+.active .member-info:after {
+	color: $white;
+}
+
+.member-info > span {
+	display: block;
+}
+
+.member-photo {
+	// Make circles.
+	display: inline-block;
+	border-radius: 65px;
+	overflow: hidden;
+
+	height: 132px;
+	width: 132px;
+	margin-bottom: 25px;
+}
