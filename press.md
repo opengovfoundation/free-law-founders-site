@@ -8,6 +8,8 @@ id: "press"
 
 ## FLF Press and Announcements
 
+* May 27, 2015 - ["Free Law Founders Make Strides for Open Government"](http://www.govtech.com/data/Free-Law-Founders-Make-Strides-for-Open-Government.html)
+
 * [http://www.benkallos.com/press-release/government-upgrade-nyc-council-passes-legislation-put-law-online-and-expand-city-recor](http://www.benkallos.com/press-release/government-upgrade-nyc-council-passes-legislation-put-law-online-and-expand-city-recor)
 
 * [http://www.benkallos.com/press-release/mayor-bill-de-blasio-signs-two-transparency-bills-law-announces-public-private-partner](http://www.benkallos.com/press-release/mayor-bill-de-blasio-signs-two-transparency-bills-law-announces-public-private-partner)
