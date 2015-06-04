@@ -8,6 +8,10 @@ id: "press"
 
 ## FLF Press and Announcements
 
+* June 3, 2015 - ["Digital Legislatures, ahead of our #PDF15 Panel" by David More of the Participatory Politics Foundation](http://www.participatorypolitics.org/digital-legislatures-ahead-of-our-pdf15-panel/)
+
+* June 2, 2015 - ["Advisory: 6/5/15 Free Law Founders Coalition Panel at the 2015 Personal Democracy Forum in NYC"](http://opengovfoundation.org/advisory-free-law-founders-coalition-panel-at-the-2015-personal-democracy-forum/)
+
 * May 27, 2015 - ["Free Law Founders Make Strides for Open Government"](http://www.govtech.com/data/Free-Law-Founders-Make-Strides-for-Open-Government.html)
 
 * August 11, 2014 - [New York City Takes Giant Step to Unlock Its Published Data](http://m.govexec.com/state-local/2014/08/nyc-city-record-de-blasio-data/91076/)
