@@ -8,6 +8,8 @@ id: "press"
 
 ## FLF Press and Announcements
 
+* June 6, 2015 - [VIDEO: Free Law Founders Panel at the Personal Democracy Forum 2015 -- "We-Government: Designing the Digital Legislature"](https://www.youtube.com/watch?v=Rh9CdySY-3o/)
+
 * June 3, 2015 - ["Digital Legislatures, ahead of our #PDF15 Panel" by David More of the Participatory Politics Foundation](http://www.participatorypolitics.org/digital-legislatures-ahead-of-our-pdf15-panel/)
 
 * June 2, 2015 - ["Advisory: 6/5/15 Free Law Founders Coalition Panel at the 2015 Personal Democracy Forum in NYC"](http://opengovfoundation.org/advisory-free-law-founders-coalition-panel-at-the-2015-personal-democracy-forum/)
