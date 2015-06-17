@@ -8,6 +8,8 @@ id: "press"
 
 ## FLF Press and Announcements
 
+* June 17, 2015 - ["Food Truck Bill First for New County Online Legislation Tool"](http://www.mymcmedia.org/food-truck-bill-first-for-new-county-online-legislation-tool/)
+
 * June 6, 2015 - [VIDEO: Free Law Founders Panel at the Personal Democracy Forum 2015 -- "We-Government: Designing the Digital Legislature"](https://www.youtube.com/watch?v=Rh9CdySY-3o/)
 
 * June 3, 2015 - ["Digital Legislatures, ahead of our #PDF15 Panel" by David More of the Participatory Politics Foundation](http://www.participatorypolitics.org/digital-legislatures-ahead-of-our-pdf15-panel/)
