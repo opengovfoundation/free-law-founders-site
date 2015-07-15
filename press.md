@@ -8,6 +8,8 @@ id: "press"
 
 ## FLF Press and Announcements
 
+* July 15, 2015 - [5 Free Law Founders Elected Officials Urge Cambridge, MA Council to Publish City’s Laws Online as Open Data](http://opengovfoundation.org/free-law-founders-urge-cambridge-ma-council-to-open-their-laws-online/)
+
 * June 17, 2015 - ["Montgomery County Council Launches Madison to Engage Citizens in the Legislative Process"](http://opengovfoundation.org/montgomery-county-launches-madison-to-engage-citizens-in-the-legislative-process/)
 
 * June 17, 2015 - ["Food Truck Bill First for New County Online Legislation Tool"](http://www.mymcmedia.org/food-truck-bill-first-for-new-county-online-legislation-tool/)
