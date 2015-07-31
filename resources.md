@@ -16,7 +16,7 @@ id: "resources"
 		These proven state and local policies to further digital democracy are yours to reuse, modify and improve -- just like open data and open source software. You can find some <a href="http://sunlightfoundation.com/blog/2013/10/25/boilerplate-open-data-policy-and-why-its-a-problem/">excellent recommendations from the Sunlight Foundation regarding creating open data legislation</a>.
 	</p>
 </div>
-[<h3>Click Here for Model Legislation<h3>](http://freelawfounders.org/model-legislation/)
+<h3>[View Model Open Data & Open Government Legislation](http://freelawfounders.org/model-legislation/)<h3>
 
 <h2>Information on Open Government</h2>
 <div class="generic-block">
