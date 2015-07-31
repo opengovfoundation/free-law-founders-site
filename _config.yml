@@ -25,6 +25,10 @@ topbar:
     url : '/resources/'
     title : 'Resources'
 
+ -
+    url : '/model-legislation/'
+    title : 'Model Legislation'
+
   -
     url: '/blog/'
     title : 'Blog'
