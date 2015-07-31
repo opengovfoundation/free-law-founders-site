@@ -17,7 +17,6 @@ id: "resources"
 	</p>
 </div>
 [<h3>Click Here for Model Legislation<h3>](http://freelawfounders.org/model-legislation/)
-</div>
 
 <h2>Information on Open Government</h2>
 <div class="generic-block">
