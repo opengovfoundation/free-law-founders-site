@@ -81,5 +81,23 @@ Details and Press Coverage for Both
  
 * [http://www.benkallos.com/press-clip/government-technology-nyc-council-members-want-better-access-city-laws-brian-heaton](http://www.benkallos.com/press-clip/government-technology-nyc-council-members-want-better-access-city-laws-brian-heaton)
  
+## Case Study: Montgomery County (MD) Open Data Law
 
+Below you will find a summary of the Open Data Law, authored by [Councilmember Hans Riemer](http://www.montgomerycountymd.gov/riemer/), that Montgomery County, Maryland passed in 2012. The law required the County Executive to develop an Open Data Operations Manual, which is also included below. 
 
+**OPEN DATA LAW SUMMARY:**
+* require the County to make certain public data sets available on a single web portal
+on the internet;
+* require the County to develop a technical standards manual for publishing public data sets;
+* require the County to develop an Open Data Implementation Plan;
+* require the County to include on the single web portal, a website that includes certain information on requests submitted to the County under the Maryland Public Information Act and the County's response to that request;
+* require the Chief Administrative Officer to report to the Council on the Executive Branch's responses to the Maryland Public Information Act; and
+* generally amend County law regarding administration. 
+
+[Read the full legislative text](http://montgomerycountymd.gov/open/Resources/Files/SignedOpenDataBill_23-12.pdf), pdf
+
+**OPEN DATA OPERATIONS MANUAL SUMMARY:**
+The Operations Manual is intended to be a comprehensive inventory of the public datasets maintained by the Montgomery County
+Government as well as a commitment to make these datasets publicly available by the publication dates specified in this document. The Manual also sets forth the algorithm for prioritizing which datasets to publish when. 
+
+[Read the full Open Data Operations Manual](http://montgomerycountymd.gov/open/Resources/Files/OpenDataOperationsManual.pdf), pdf
