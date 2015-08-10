@@ -113,24 +113,6 @@ id: "who-we-are"
   </div>
 
   <div class="member">
-    <a id="dc-david_zvenyach"></a>
-    <img class="member-photo" src="/assets/images/members/Dave-Zvenyach.jpg" />
-    <header class="member-info">
-      <span class="member-name">David Zvenyach</span>
-      <span class="member-role">Former General Counsel</span>
-      <span class="member-location">Washington, DC Council</span>
-    </header>
-    <section class="content">
-      <p>
-        Dave Zvenyach is currently part of the team at <a href="https://18f.gsa.gov">18F</a>, working primarily with the <a href="https://18f.github.io/consulting">18F Consulting team</a>. Before joining 18F, Dave served as the General Counsel to the Council of the District of Columbia. He is a graduate of the George Washington University Law School and the University of Wisconsin. He lives in Washington, DC, with his spouse and two children.
-      </p>
-      <p>
-        <a href="https://esq.io/">Website</a>
-      </p>
-    </section>
-  </div>
-
-  <div class="member">
     <a id="dc-david_grosso"></a>
     <img class="member-photo" src="/assets/images/members/David-Grosso.jpg" />
     <header class="member-info">
@@ -327,6 +309,24 @@ id: "who-we-are"
       </p>
       <p>
         <a href="http://abhinemani.com/">Website</a>
+      </p>
+    </section>
+  </div>
+
+  <div class="member">
+    <a id="dc-david_zvenyach"></a>
+    <img class="member-photo" src="/assets/images/members/Dave-Zvenyach.jpg" />
+    <header class="member-info">
+      <span class="member-name">David Zvenyach</span>
+      <span class="member-role">Former General Counsel</span>
+      <span class="member-location">Washington, DC Council</span>
+    </header>
+    <section class="content">
+      <p>
+        Dave Zvenyach is currently part of the team at <a href="https://18f.gsa.gov">18F</a>, working primarily with the <a href="https://18f.github.io/consulting">18F Consulting team</a>. Before joining 18F, Dave served as the General Counsel to the Council of the District of Columbia. He is a graduate of the George Washington University Law School and the University of Wisconsin. He lives in Washington, DC, with his spouse and two children.
+      </p>
+      <p>
+        <a href="https://esq.io/">Website</a>
       </p>
     </section>
   </div>
