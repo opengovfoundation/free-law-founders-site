@@ -55,22 +55,15 @@ In this Article, the following words and phrases have the following meanings:
 
 * "Agency" means any department or office of the County government. 
 * "Data" means the final version of digital information: 
-** (a) (i) in a structured, statistical, or alphanumeric form (i.e., list, table, graph, chart, or other non-narrative form) that can be digitally transmitted or processed; or  
-** (ii) in  an  unstructured, factual,  or  content  form (i.e., fact sheet, memorandum, press release, compliance guidance,  manual,  or  other narrative form) that  can  be digitally transmitted or processed; and  
-** (b) regularly created or maintained by or on behalf of and owned by an agency that records a file, measurement, transaction, or final decision related to the mission of an agency. 
+* > (a) (i) in a structured, statistical, or alphanumeric form (i.e., list, table, graph, chart, or other non-narrative form) that can be digitally transmitted or processed; or  
+* > (ii) in  an  unstructured, factual,  or  content  form (i.e., fact sheet, memorandum, press release, compliance guidance,  manual,  or  other narrative form) that  can  be digitally transmitted or processed; and  
+* > (b) regularly created or maintained by or on behalf of and owned by an agency that records a file, measurement, transaction, or final decision related to the mission of an agency. 
 
 Data does not include any information provided to an agency by another government entity; or any image file, such as a design, drawing, map, photo, or scanned copy of an original document. 
-28  [[Department means the Department of Technology Services.]]  
-29  [[Determination means any agency's final decision about a person,  
-30  including:  
-31  ill eligibility for services or benefits;  
-32  (hl issuing ~ permit;  
-33  (£} registration, certification and licensing; and  
-34  @ liability for civil and criminal penalties.]]  
-35  Maryland Public Information Act or Act means the Maryland Public  
-36  Information Act, codified at Sections 10-611 through 10-630 of the State  
-37  Government Article ofthe Maryland Code.  
-38  Measurement means to guantify any characteristic of an observable event,  
+
+Maryland Public Information Act or Act means the Maryland Public Information Act, codified at Sections 10-611 through 10-630 of the State Government Article ofthe Maryland Code.  
+
+Measurement means to guantify any characteristic of an observable event,  
 39  occurrence, or object .Qy comparison to ~ reference standard.  
 40  Qpen Data Implementation Plan means a plan developed by the Chief  
 41  Administrative Officer to implement this Article and as further described in  
