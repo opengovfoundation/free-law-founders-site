@@ -22,6 +22,7 @@ id: "who-we-are"
       <span class="member-name">Ben Kallos</span>
       <span class="member-role">Council Member</span>
       <span class="member-location">New York City, New York</span>
+      <span class="member-founder">Coalition Co-Founder</span>
     </header>
     <section class="content">
       <p>
@@ -43,6 +44,7 @@ id: "who-we-are"
       <span class="member-name">Mark Farrell</span>
       <span class="member-role">Supervisor</span>
       <span class="member-location">San Francisco, California</span>
+      <span class="member-founder">Coalition Co-Founder</span>
     </header>
     <section class="content">
       <p>
@@ -70,6 +72,7 @@ id: "who-we-are"
       <span class="member-name">Susana Mendoza</span>
       <span class="member-role">City Clerk</span>
       <span class="member-location">Chicago, Illinois</span>
+      <span class="member-founder">Coalition Co-Founder</span>
     </header>
     <section class="content">
       <p>
@@ -83,6 +86,28 @@ id: "who-we-are"
       </p>
       <p>
         <a href="http://www.susanamendoza.com/">Website</a>
+      </p>
+    </section>
+  </div>
+
+  <div class="member">
+    <a id="ogf-seamus_kraft"></a>
+    <img class="member-photo" src="/assets/images/members/Seamus-Kraft.jpg" />
+    <header class="member-info">
+      <span class="member-name">Seamus Kraft</span>
+      <span class="member-role">Co-Founder and Executive Director</span>
+      <span class="member-location">The OpenGov Foundation</span>
+      <span class="member-founder">Coalition Co-Founder</span>
+    </header>
+    <section class="content">
+      <p>
+        Seamus Kraft is the Executive Director of [The OpenGov Foundation](www.OpenGovFoundation.org), a fiercely non-partisan, non-profit transforming the process and policy of our democracy for the Internet Age.  He steers two pathbreaking software projects reinventing local, state and federal government: Madison - the leading digital policy-making platform in the United States - and AmericaDecoded.org - the first-ever free, modern online law library built for everyday Americans.
+      </p>
+      <p>
+        Combining his passions for technology, education and public service, Seamus co-founded OpenGov with U.S. Rep. Darrell Issa to help citizens be heard by their elected officials and government workers fulfil their responsibilities with the most user-friendly tools possible.  From 2009 to 2012, he served as Director of Digital Strategy and Press Secretary for the House Oversight and Government Reform Committee, where he was named one of the “20 Most Innovative People in Democracy” by TechCrunch.
+      </p>
+      <p>
+        <a href="http://www.opengovfoundation.org/about-us/">Website</a>
       </p>
     </section>
   </div>
@@ -181,31 +206,6 @@ id: "who-we-are"
   </div>
 
   <div class="member">
-    <a id="dc-traci_hughes"></a>
-    <img class="member-photo" src="/assets/images/members/Traci-Hughes.jpg" />
-    <header class="member-info">
-      <span class="member-name">Traci Hughes, </span>
-      <span class="member-role">Director</span>
-      <span class="member-role">Office of Open Government</span>
-      <span class="member-location">Washington, DC</span>
-    </header>
-    <section class="content">
-      <p>
-        Traci L. Hughes is the inaugural director of the Office of Open Government. Hired in April 2013, she was tapped by the members of the Board of Ethics and Government Accountability to bring greater transparency to District government operations. In this role, Ms. Hughes oversees Freedom of Information Act compliance among nearly 60 District Government Agencies, including the Executive Office of the Mayor (EOM) and the Council of the District of Columbia (Council). She also ensures compliance with the District’s Open Meetings Act, training more than 170 boards and commissions, the EOM and the Council on the procedural requirements of the law.
-      </p>
-      <p>
-        Prior to heading the Office of Open Government, Ms. Hughes served in both the private and public sectors as a highly sought after strategic communications professional, directing communications and marketing for the Congressional Black Caucus Foundation; the Chair of the Council of the District of Columbia; the District of Columbia Metropolitan Police Department; and the Office of the Attorney General for the District of Columbia.
-      </p>
-      <p>
-        Ms. Hughes began her career with CBS, and has worked in television, print and radio in New York, Philadelphia and Washington, DC. She has appeared on major national and local television networks, including ABC, NBC, CBS and Fox News networks.
-      </p>
-      <p>
-        She is a member of the District of Columbia Bar Association and the Maryland State Bar Association.  Ms. Hughes is a graduate of Howard University and Temple University Beasley School of Law.  <a href="http://www.bega-dc.gov/office-open-government">Website</a>
-      </p>
-    </section>
-  </div>
-
-  <div class="member">
     <a id="ma-nadeem_mazen"></a>
     <img class="member-photo" src="/assets/images/members/Nadeem-Mazen.jpg" />
     <header class="member-info">
@@ -219,6 +219,31 @@ id: "who-we-are"
       </p>
       <p>
         <a href="http://www.cambridgema.gov/ccouncil/citycouncilmembers.aspx">Website</a>
+      </p>
+    </section>
+  </div>
+
+  <div class="member">
+    <a id="jason_murphey"></a>
+    <img class="member-photo" src="/assets/images/members/Jason-Murphey.jpg" />
+    <header class="member-info">
+      <span class="member-name">Jason Murphey</a></span>
+      <span class="member-role">Representative</span>
+      <span class="member-role">District 31</span>
+      <span class="member-location">Oklahoma State Legislature</span>
+    </header>
+    <section class="content">
+      <p>
+        Oklahoma State Representative Jason Murphey has repeatedly championed the cause of using technology to open up the government to the people. In 2001, as a member of his local city council, he sponsored resolutions to place government proceedings on television and the Internet and to make the city code available online for all to read.
+      </p>
+      <p>
+        Since 2006, as a state legislator, he has sponsored successful legislation to open up access to government spending and performance data, created the data.ok.gov and documents.ok.gov web portals and removed statutory barriers to government agency use of social media.
+      </p>
+      <p>
+        In 2014, Murphey was designated as one of Government Technology magazine’s top 25 Doers, Dreamers and Drivers. Government Technology also named Murphey as one of the nation’s 13 most tech-savvy legislators.
+      </p>
+      <p>
+        <a href="http://www.okhouse.gov/District.aspx?District=31">Website</a>
       </p>
     </section>
   </div>
@@ -242,40 +267,26 @@ id: "who-we-are"
   </div>
 
   <div class="member">
-    <a id="ogf-seamus_kraft"></a>
-    <img class="member-photo" src="/assets/images/members/Seamus-Kraft.jpg" />
+    <a id="dc-traci_hughes"></a>
+    <img class="member-photo" src="/assets/images/members/Traci-Hughes.jpg" />
     <header class="member-info">
-      <span class="member-name">Seamus Kraft</span>
-      <span class="member-role">Co-Founder and Executive Director</span>
-      <span class="member-location">The OpenGov Foundation</span>
+      <span class="member-name">Traci Hughes</span>
+      <span class="member-role">Director</span>
+      <span class="member-role">Office of Open Government</span>
+      <span class="member-location">Washington, DC</span>
     </header>
     <section class="content">
       <p>
-        Seamus Kraft is the Executive Director of [The OpenGov Foundation](www.OpenGovFoundation.org), a fiercely non-partisan, non-profit transforming the process and policy of our democracy for the Internet Age.  He steers two pathbreaking software projects reinventing local, state and federal government: Madison - the leading digital policy-making platform in the United States - and AmericaDecoded.org - the first-ever free, modern online law library built for everyday Americans.
+        Traci L. Hughes is the inaugural director of the Office of Open Government. Hired in April 2013, she was tapped by the members of the Board of Ethics and Government Accountability to bring greater transparency to District government operations. In this role, Ms. Hughes oversees Freedom of Information Act compliance among nearly 60 District Government Agencies, including the Executive Office of the Mayor (EOM) and the Council of the District of Columbia (Council). She also ensures compliance with the District’s Open Meetings Act, training more than 170 boards and commissions, the EOM and the Council on the procedural requirements of the law.
       </p>
       <p>
-        Combining his passions for technology, education and public service, Seamus co-founded OpenGov with U.S. Rep. Darrell Issa to help citizens be heard by their elected officials and government workers fulfil their responsibilities with the most user-friendly tools possible.  From 2009 to 2012, he served as Director of Digital Strategy and Press Secretary for the House Oversight and Government Reform Committee, where he was named one of the “20 Most Innovative People in Democracy” by TechCrunch.
+        Prior to heading the Office of Open Government, Ms. Hughes served in both the private and public sectors as a highly sought after strategic communications professional, directing communications and marketing for the Congressional Black Caucus Foundation; the Chair of the Council of the District of Columbia; the District of Columbia Metropolitan Police Department; and the Office of the Attorney General for the District of Columbia.
       </p>
       <p>
-        <a href="http://www.opengovfoundation.org/about-us/">Website</a>
-      </p>
-    </section>
-  </div>
-
-  <div class="member">
-    <a id="ogf-bill_hunt"></a>
-    <img class="member-photo" src="/assets/images/members/Bill-Hunt.jpg" />
-    <header class="member-info">
-      <span class="member-name">Bill Hunt</span>
-      <span class="member-role">Senior Developer</span>
-      <span class="member-location">The OpenGov Foundation</span>
-    </header>
-    <section class="content">
-      <p>
-        Bill has worked for a variety of start-ups, client service firms and government agencies, including as the technical lead for several award-winning teams.  As an “oldschool” web geek, he likes to work with the whole stack, from servers to css and everything in between.  Before joining OpenGov, he was a major contributor to The State Decoded project, an open source tool that puts the law online the right way.  Bill can often be found hiking, enjoying the local restaurant scene, or philosophizing about the intricacies of tea.
+        Ms. Hughes began her career with CBS, and has worked in television, print and radio in New York, Philadelphia and Washington, DC. She has appeared on major national and local television networks, including ABC, NBC, CBS and Fox News networks.
       </p>
       <p>
-        <a href="http://www.opengovfoundation.org/about-us/">Website</a>
+        She is a member of the District of Columbia Bar Association and the Maryland State Bar Association.  Ms. Hughes is a graduate of Howard University and Temple University Beasley School of Law.  <a href="http://www.bega-dc.gov/office-open-government">Website</a>
       </p>
     </section>
   </div>
@@ -297,6 +308,30 @@ id: "who-we-are"
   </div>
 
   <div class="member">
+    <a id="ca-abhi_nemani"></a>
+    <img class="member-photo" src="/assets/images/members/Abhi-Nemani.jpg" />
+    <header class="member-info">
+      <span class="member-name">Abhi Nemani</a></span>
+      <span class="member-role">Chief Data Officer</span>
+      <span class="member-location">Los Angeles, CA</span>
+    </header>
+    <section class="content">
+      <p>
+        Abhi Nemani is a writer, speaker, organizer, and technologist. He is currently serving as the first Chief Data Officer for the City of Los Angeles, where he leads the city's efforts to build an open and data-driven LA.
+      </p>
+      <p>
+        Before joining the city, he helped build, launch, and run the national non-profit, Code for America, a technology organization dedicated to reinventing government for the 21st century. Abhi led CfA’s product strategy as its teams tackled local government challenges ranging from transparency and business licensing to food stamps and public safety. He also led the organization's efforts to scale through building multiple new programs: a first-of-its-kind civic startup accelerator, an international volunteer corps, and a collaborative network for hundreds of government innovators. Additionally, Abhi developed the organization’s policy portfolio — working hand-in-hand with area experts and local leaders — to enact over 30 municipal policy reforms on topics including open data, healthcare, and procurement.
+      </p>
+      <p>
+        Abhi is a Member of the Board of Directors for the OpenGov Foundation, a member of the Board of Advisors of Significance Labs, and has served as Innovator-in-Residence at GovDelivery.
+      </p>
+      <p>
+        <a href="http://abhinemani.com/">Website</a>
+      </p>
+    </section>
+  </div>
+
+  <div class="member">
     <a id="mit-dazza_greenwood"></a>
     <img class="member-photo" src="/assets/images/members/Dazza-Greenwood.jpg" />
     <header class="member-info">
@@ -310,6 +345,24 @@ id: "who-we-are"
       </p>
       <p>
         <a href="http://civics.com/">Website</a>
+      </p>
+    </section>
+  </div>
+
+  <div class="member">
+    <a id="ogf-bill_hunt"></a>
+    <img class="member-photo" src="/assets/images/members/Bill-Hunt.jpg" />
+    <header class="member-info">
+      <span class="member-name">Bill Hunt</span>
+      <span class="member-role">Senior Developer</span>
+      <span class="member-location">The OpenGov Foundation</span>
+    </header>
+    <section class="content">
+      <p>
+        Bill has worked for a variety of start-ups, client service firms and government agencies, including as the technical lead for several award-winning teams.  As an “oldschool” web geek, he likes to work with the whole stack, from servers to css and everything in between.  Before joining OpenGov, he was a major contributor to The State Decoded project, an open source tool that puts the law online the right way.  Bill can often be found hiking, enjoying the local restaurant scene, or philosophizing about the intricacies of tea.
+      </p>
+      <p>
+        <a href="http://www.opengovfoundation.org/about-us/">Website</a>
       </p>
     </section>
   </div>
@@ -385,31 +438,6 @@ id: "who-we-are"
       </p>
       <p>
         <a href="http://sunlightfoundation.com/team/">Website</a>
-      </p>
-    </section>
-  </div>
-
-  <div class="member">
-    <a id="jason_murphey"></a>
-    <img class="member-photo" src="/assets/images/members/Jason-Murphey.jpg" />
-    <header class="member-info">
-      <span class="member-name">Jason Murphey</a></span>
-      <span class="member-role">Representative</span>
-      <span class="member-role">District 31</span>
-      <span class="member-location">Oklahoma State Legislature</span>
-    </header>
-    <section class="content">
-      <p>
-        Oklahoma State Representative Jason Murphey has repeatedly championed the cause of using technology to open up the government to the people. In 2001, as a member of his local city council, he sponsored resolutions to place government proceedings on television and the Internet and to make the city code available online for all to read.
-      </p>
-      <p>
-        Since 2006, as a state legislator, he has sponsored successful legislation to open up access to government spending and performance data, created the data.ok.gov and documents.ok.gov web portals and removed statutory barriers to government agency use of social media.
-      </p>
-      <p>
-        In 2014, Murphey was designated as one of Government Technology magazine’s top 25 Doers, Dreamers and Drivers. Government Technology also named Murphey as one of the nation’s 13 most tech-savvy legislators.
-      </p>
-      <p>
-        <a href="http://www.okhouse.gov/District.aspx?District=31">Website</a>
       </p>
     </section>
   </div>

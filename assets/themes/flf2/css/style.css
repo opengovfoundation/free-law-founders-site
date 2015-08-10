@@ -10717,18 +10717,22 @@ li {
   background-color: #2991A7;
   color: #ffffff;
 }
+/* line 36, ../scss/content/_who-we-are.scss */
+.member.active span {
+  color: #ffffff;
+}
 
-/* line 40, ../scss/content/_who-we-are.scss */
+/* line 43, ../scss/content/_who-we-are.scss */
 .member.active a, .member-list .content-box a {
   color: #ffffff;
   text-decoration: underline;
 }
-/* line 43, ../scss/content/_who-we-are.scss */
+/* line 46, ../scss/content/_who-we-are.scss */
 .member.active a:hover, .member-list .content-box a:hover {
   text-decoration: none;
 }
 
-/* line 49, ../scss/content/_who-we-are.scss */
+/* line 52, ../scss/content/_who-we-are.scss */
 .member-list .content-box {
   border: 0;
   margin-top: 0;
@@ -10744,47 +10748,47 @@ li {
   -webkit-transition: max-height 1s, opacity 0.25s;
   transition: max-height 1s, opacity 0.25s;
 }
-/* line 69, ../scss/content/_who-we-are.scss */
+/* line 72, ../scss/content/_who-we-are.scss */
 .member-list .content-box * {
   display: none;
 }
-/* line 73, ../scss/content/_who-we-are.scss */
+/* line 76, ../scss/content/_who-we-are.scss */
 .member-list .content-box.open {
   max-height: 1000px;
   opacity: 1;
 }
-/* line 77, ../scss/content/_who-we-are.scss */
+/* line 80, ../scss/content/_who-we-are.scss */
 .member-list .content-box.open * {
   display: inherit;
 }
-/* line 81, ../scss/content/_who-we-are.scss */
+/* line 84, ../scss/content/_who-we-are.scss */
 .member-list .content-box.open a {
   display: inline;
 }
 @media (min-width: 0) and (max-width: 992px) {
-  /* line 73, ../scss/content/_who-we-are.scss */
+  /* line 76, ../scss/content/_who-we-are.scss */
   .member-list .content-box.open {
     max-height: 10000px;
   }
 }
 
-/* line 94, ../scss/content/_who-we-are.scss */
+/* line 97, ../scss/content/_who-we-are.scss */
 .member-list .content-box p,
 .member .content p {
   padding: 0 25px 1em;
 }
-/* line 97, ../scss/content/_who-we-are.scss */
+/* line 100, ../scss/content/_who-we-are.scss */
 .member-list .content-box p:first-child,
 .member .content p:first-child {
   padding-top: 25px;
 }
-/* line 100, ../scss/content/_who-we-are.scss */
+/* line 103, ../scss/content/_who-we-are.scss */
 .member-list .content-box p:last-child,
 .member .content p:last-child {
   padding-bottom: 25px;
 }
 
-/* line 105, ../scss/content/_who-we-are.scss */
+/* line 108, ../scss/content/_who-we-are.scss */
 .member-info:after {
   position: absolute;
   bottom: 10px;
@@ -10795,17 +10799,23 @@ li {
   color: #676767;
 }
 
-/* line 115, ../scss/content/_who-we-are.scss */
+/* line 118, ../scss/content/_who-we-are.scss */
 .active .member-info:after {
   color: #ffffff;
 }
 
-/* line 119, ../scss/content/_who-we-are.scss */
+/* line 122, ../scss/content/_who-we-are.scss */
 .member-info > span {
   display: block;
 }
 
-/* line 123, ../scss/content/_who-we-are.scss */
+/* line 126, ../scss/content/_who-we-are.scss */
+.member-founder {
+  font-style: italic;
+  color: #36A2B6;
+}
+
+/* line 131, ../scss/content/_who-we-are.scss */
 .member-photo {
   display: inline-block;
   border-radius: 65px;

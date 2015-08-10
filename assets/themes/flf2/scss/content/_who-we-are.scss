@@ -33,6 +33,9 @@
 	&.active {
 		background-color: $medium-blue;
 		color: $white;
+		span {
+			color: $white;
+		}
 	}
 }
 
@@ -118,6 +121,11 @@
 
 .member-info > span {
 	display: block;
+}
+
+.member-founder {
+	font-style: italic;
+	color: $light-blue;
 }
 
 .member-photo {
