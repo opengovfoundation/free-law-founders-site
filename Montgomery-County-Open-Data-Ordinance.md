@@ -7,6 +7,8 @@ permalink: "Montgomery-County-Open-Data-Ordinance/"
 
 <h3>Montgomery County, Maryland Open Data Act of 2012</h3>
 
+[View a scanned copy of the official ordinance](http://montgomerycountymd.gov/open/Resources/Files/SignedOpenDataBill_23-12.pdf)
+
 Bill No. 23-12 
 Concerning: Administration Open Government Data
 Revised: 12/4/2012 Draft NO.6 
