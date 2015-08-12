@@ -22,7 +22,8 @@ COUNTY COUNCIL FOR MONTGOMERY COUNTY, MARYLAND
 By: Councilmembers Riemer and Andrews, Council President Berliner, and Councilmembers 
 Leventhal, Floreen, Navarro, and Ervin 
 
-AN ACT to:  
+AN ACT to:
+
 (1)  require the County to make certain public data sets available on a single web portal  
 on the internet;  
 (2)  require the County to develop a technical  
@@ -108,9 +109,7 @@ Voluntary  consensus  standards  body  means  a  domestic  or  international org
 (f) A published public data set must be made available without any registration or license requirement or restriction on use. However, the County may require a third party providing to the public any public data set, or application utilizing that data set, to explicitly identify the source and version of the public data set and describe any modification made to that data set. In this Section, registration or license requirement or restriction does not include any measure required to: 
 
 * (1) assure access to a public data set;
-
 * (2) protect the single web site housing a public data set from unlawful abuse or an attempt to damage or impair use of the web site; or
-
 * (3) analyze the type of data being used to improve service delivery.
 
 (g) A published public data set must be accessible to external search capabilities.
@@ -141,37 +140,56 @@ Voluntary  consensus  standards  body  means  a  domestic  or  international org
 
 2-157. Internet data set policy and technical standards. 
 
-ill} Within 180 days after this Article takes effect, the [[Department]] 
-County must prepare and publish ~ technical standards manual for the 
-publishing of ~ public data set in raw or unprocessed form through ~ 
-single web portal Qy an agency to make public data available to the 
-greatest number of users and for the greatest number of applications. 
-The manual: 
-ill must use open standards for web publishing and e-govemment, 
-whenever practicable; 
-ill must identify the reason why each technical standard was 
-selected and to which ~of data it applies; 
-ill may recommend or require that data be published in more than 
-one technical standard; and 
-programmmg interface that permits application programs to 
+(a) Within 180 days after this Article takes effect, the County must prepare and publish a technical standards manual for the  publishing of a public data set in raw or unprocessed form through a single web portal by an agency to make public data available to the greatest number of users and for the greatest number of applications. The manual: 
 
-request and receive public data sets directly from the web ortal. (Q) The [[Department]] County must update the manual as necessary. fl The [[Department]] County must consult with appropriate voluntary consensus standards bodies and, when participation is feasible, in the public interest, and is compatible with agency and departmental missions, authorities, and priorities, participate with such bodies in the development of technical and open standards. 
+* (1) must use open standards for web publishing and e-govemment, whenever practicable; 
+* (2) must identify the reason why each technical standard was selected and to which types data it applies; 
+* (3) may recommend or require that data be published in more than one technical standard; and 
+* (4) must include a plan to adopt or use an application programmmg interface that permits application programs to request and receive public data sets directly from the web portal. 
 
-2-158. [[Agency]] Open Data [[Compliance]] Implementation Plan. ill.} Within .lli months after this Article takes effect, the [[Department]] hief Administrative Officer must [[submit]] issue. via Method (2) ] regulation. an Open Data [[~ Compliance]] Implementation Plan [[to the Executive and Council and must make the Plan available to the public on the web portal. Each agency must cooperate with the Department in its preparation ofthe Plan]]!. The Plan must: ill include ~ summary description of ~ public data set under the control of each agency on or after this Article takes effect; ill prioritize the public data sets for inclusion on the single web portal on or before December lL 2018, under the standards adopted Qy the [[Department]] County under Section 2-157; and ll create ~ timeline for their inclusion on the single web portal (Q) If ~ public data set cannot be made available on the single web portal on or before December lL , the Open Data Implementation Plan ust state the reason why the set cannot be made available, and, to the extent practicable, the date Qy which the agency in possession of the 
-public data set believes that it will be available on the single web portal. ill [[To prioritize public data sets, an agency must consider whether nformation embodied in the public data set: ill can be used to increase agency accountability and responsIveness; ll improves public knowledge of the agency and its operations; ll furthers the mission ofthe agency; ll creates economic opportunity; or ll responds to f! need or demand identified Qy public consultation. @]] No later than July li,. [[2014]] 2015, and every July lithereafter, the [[Department]] Chief A<iministrative Officer must submit to the Executive and Council, and post on the web portal, [[an update ofl] f!  report on the Open Data [[Compliance]] Implementation Plan [[to the Executive and Council]] until all public data sets to be published have een made available through f! single web portal as required Qy this Article. The [[update]] report must [[include]] explain: ill the specific measures taken to make f! public data set available on the single web portal since the previous [[update]] report; ill any specific measure that will be taken before the next [[update]] report; ill [[an update to]] the list of public data sets, [[if necessruyl1 outlined In the Open Data [[Compliancel1 Implementation Plan should be updated; ill [[any change to]] whether the prioritization of public data sets in the Open Data [[Compliance]] Implementation Plan should be changed; and 
-ll [[an update to]] whether the timeline outlined in the Open Data [[Compliance]] Implementation Plan for the inclusion of ~ public data set on the single web portal, [[if necessaryl] should be changed. [[W]] £ill If ~ previously unidentified public data set cannot be made available on the single web portal on or before December lL. 2018, the [[update]] report must explain why it cannot and, to the extent practicable, specify the date hy which the agency in possession of the public data set believes that the public data set will be available on the single web portal.
+(b) The County must update the manual as necessary.
 
-2-15[0012: Public Information Act Responses. tru Definitions. In this Section, the following words and phrases have the following meanings: County means Montgomery County and includes any Executive Branch department or office and any Legislative Branch [[department or)) office. Legislative Bra.nch office means any office identified in Section lA-203 (b), the Board ofAppeals. and the Merit System Protection Board. InfOrmation request means ~ request for documents submitted to the County under the Maryland Public Information Act. !.hl The Chief Administrative Officer must identifY in the Open Data Implementation Plan what data elements and a schedule to make available on the web portal for [[each]] information [[request submitted to the County under]] relating to the implementation of the Maryland Public Information Act ~ [[and]] the County [[County's response to that request]]:. 
+(c) The County must consult with appropriate voluntary consensus standards bodies and, when participation is feasible, in the public interest, and is compatible with agency and departmental missions, authorities, and priorities, participate with such bodies in the development of technical and open standards. 
 
-{£} The Legislative Branch must post alldaULelements. as identified by the pen Data Implementation Plan. on the same single web portal used by he Executive Branch. [[Except as provided in subsection @1 the web portal must include: ill each information request submitted to the County; ill the date when the County received the information request; ill the status ofthe information request; ll if the information request was not answered within 30 days after he County received.ih the reason for the delay; and ll the final response to the information request.]] [[@ The Chief Administrative Officer must not include on the web portal any electronic mail address, home address, or telephone number ofany individual who submitted ~ responsive document.]] [[W]] @ The Chief Administrative [[Officer]] Officer's report required by ection 2:-158 must [[report quarterly to the Council on the Executive Branch's compliance with the Maryland Public Information Act The report must cite the statutory exception that supports each denial or partial denial of an information request]] include an update on implementation of this Section. 
+2-158. Open Data Implementation Plan.
 
-Approved: 
+(a) Within 18 months after this Article takes effect, the Chief Administrative Officer must issue via method (2) regulation an Open Data Implementation Plan. The Plan must: 
 
-Approved: 
+* (1) include a summary description of a public data set under the control of each agency on or after this Article takes effect; 
+* (2) prioritize the public data sets for inclusion on the single web portal on or before December 31 2018, under the standards adopted by the County under Section 2-157; and 
+* (3) create a timeline for their inclusion on the single web portal 
 
+(b) If a public data set cannot be made available on the single web portal on or before December 31, 2018 the Open Data Implementation Plan must state the reason why the set cannot be made available, and, to the extent practicable, the date by which the agency in possession of the public data set believes that it will be available on the single web portal.
 
-J--.
-290 This is a correct copy o/Council action. 291 
-~1n, ~ ;2/7,/re-
-Linda M. Lauer, Clerk ofthe Council Date 
+(c) No later than July 15, 2015, and every July 15 thereafter, the Chief Adiministrative Officer must submit to the Executive and Council, and post on the web portal, a report on the Open Data Implementation Plan until all public data sets to be published have been made available through a single web portal as required by this Article. The report must explain: 
+
+* (1) the specific measures taken to make a public data set available on the single web portal since the previous  report;
+* (2) any specific measure that will be taken before the next report; 
+* (3) whether the list of public data sets, outlined in the Open Data Implementation Plan, should be updated; 
+* (4) whether the prioritization of public data sets in the Open Data Implementation Plan should be changed; and 
+* (5) whether the timeline outlined in the Open Data Implementation Plan for the inclusion of a public data set on the single web portal, should be changed.
+
+(d) If a previously unidentified public data set cannot be made available on the single web portal on or before December 31, 2018, the report must explain why it cannot and, to the extent practicable, specify the date by which the agency in possession of the public data set believes that the public data set will be available on the single web portal.
+
+2-159: Public Information Act Responses
+
+(a) Definitions. In this Section, the following words and phrases have the following meanings: 
+
+- County means Montgomery County and includes any Executive Branch department or office and any Legislative Branch office. 
+- Legislative Branch office means any office identified in Section lA-203 (b), the Board of Appeals and the Merit System Protection Board.
+- Information request means a request for documents submitted to the County under the Maryland Public Information Act. 
+
+(b) The Chief Administrative Officer must identify in the Open Data Implementation Plan what data elements and a schedule to make available on the web portal for information relating to the implementation of the Maryland Public Information Act by the County.
+
+(c) The Legislative Branch must post all data elements, as identified by the Open Data Implementation Plan, on the same single web portal used by he Executive Branch.
+
+(d) The Chief Administrative Officer's report required by Section 2-158 must include an update on implementation of this Section. 
+
+Approved: Nancy Navarro, President, County Council, on December 6, 2012.
+
+Approved: Isiah Leggett, County Executive, on December 17, 2012.
+
+This is a correct copy of Council action. 
+
+Linda M. Lauer, Clerk ofthe Council, on December 17, 2012.
 
