@@ -94,7 +94,7 @@ on the internet;
 * require the Chief Administrative Officer to report to the Council on the Executive Branch's responses to the Maryland Public Information Act; and
 * generally amend County law regarding administration. 
 
-[Read the full legislative text](http://montgomerycountymd.gov/open/Resources/Files/SignedOpenDataBill_23-12.pdf), pdf
+[Read the full legislative text](http://freelawfounders.org/Montgomery-County-Open-Data-Ordinance/)
 
 **OPEN DATA OPERATIONS MANUAL SUMMARY:**
 The Operations Manual is intended to be a comprehensive inventory of the public datasets maintained by the Montgomery County
