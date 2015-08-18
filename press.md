@@ -8,6 +8,8 @@ id: "press"
 
 ## FLF Press and Announcements
 
+* August 18, 2015 - [Los Angeles Chief Data Officer Abhi Nemani Joins Free Law Founders] (http://opengovfoundation.org/release-los-angeles-chief-data-officer-abhi-nemani-joins-free-law-founders/)
+
 * July 15, 2015 - [5 Free Law Founders Elected Officials Urge Cambridge, MA Council to Publish City’s Laws Online as Open Data](http://opengovfoundation.org/free-law-founders-urge-cambridge-ma-council-to-open-their-laws-online/)
 
 * June 17, 2015 - ["Montgomery County Council Launches Madison to Engage Citizens in the Legislative Process"](http://opengovfoundation.org/montgomery-county-launches-madison-to-engage-citizens-in-the-legislative-process/)
