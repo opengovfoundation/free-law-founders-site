@@ -407,24 +407,6 @@ id: "who-we-are"
   </div>
 
   <div class="member">
-    <a id="sunlight-james_turk"></a>
-    <img class="member-photo" src="/assets/images/members/James-Turk.jpg" />
-    <header class="member-info">
-      <span class="member-name">James Turk</span>
-      <span class="member-role">Open States & Open Civic Data Project Lead</span>
-      <span class="member-location">Sunlight Foundation</span>
-    </header>
-    <section class="content">
-      <p>
-        James Turk is a Developer and Open Source Coordinator for the [Sunlight Foundation](http://sunlightfoundation.com/), a nonpartisan nonprofit organization that advocates for open government globally and uses technology to make government more accountable to all.  He leads Sunlight's [Open States](http://openstates.org/) and [Open Civic Data](http://opencivicdata.org/) projects in efforts to collect and standardize US state and local legislative information. Open States is a collection of tools that make it possible for citizens to track what is happening in their state's capitol by aggregating information from all 50 states, Washington, D.C. and Puerto Rico. The Sunlight Foundation, too, has built off of its Open States work to create an Open Civic Data Schema for bills, events, and votes and adopted people and organization schemas that are compatible with the [Popolo format](http://popoloproject.com/). These formats are compatible with all levels of government and with identifiers that power [Google’s Civic Information API](https://developers.google.com/civic-information/docs/us_v1/representatives/representativeInfoQuery).
-      </p>
-      <p>
-        James earned his Bachelor of Science in computer science from the Rochester Institute of Technology in 2008. Before joining the Sunlight Foundation Labs team, he also spent time working at Project Vote Smart.  <a href="http://sunlightfoundation.com/team/">Website</a>
-      </p>
-    </section>
-  </div>
-
-  <div class="member">
     <a id="sunlight-sean_vitka"></a>
     <img class="member-photo" src="/assets/images/members/Sean-Vitka.jpg" />
     <header class="member-info">
