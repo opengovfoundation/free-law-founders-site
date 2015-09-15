@@ -386,6 +386,24 @@ id: "who-we-are"
   </div>
 
   <div class="member">
+    <a id="dp-daniel-schuman"></a>
+    <img class="member-photo" src="/assets/images/members/Daniel-Schuman.jpg" />
+    <header class="member-info">
+      <span class="member-name">Daniel Schuman</span>
+      <span class="member-role">Policy Director</span>
+      <span class="member-location">Demand Progress</span>
+    </header>
+    <section class="content">
+      <p>
+        Daniel Schuman has long worked at the intersection of law, policy, and technology. He most recently served as policy director for Citizens for Responsibility and Ethics in Washington (CREW), and prior to that as policy counsel with the Sunlight Foundation. In a prior life he was a legislative attorney with the Congressional Research Service. Daniel chairs the Congressional Data Coalition's steering committee and founded the Advisory Committee on Transparency. In 2013, Daniel was named among the 'top 25 most influential people under 40 in gov and tech' by FedScoop. He is a nationally recognized expert on federal transparency and has testified before Congress and appeared on NPR, C-SPAN. Daniel graduated cum laude from Emory University School of Law.
+      </p>
+      <p>
+        <a href="https://demandprogress.org/about/">Website</a>
+      </p>
+    </section>
+  </div>
+
+  <div class="member">
     <a id="sunlight-lavita_tuff"></a>
     <img class="member-photo" src="/assets/images/members/LaVita-Tuff.jpg" />
     <header class="member-info">
