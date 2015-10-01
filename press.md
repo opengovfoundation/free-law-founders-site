@@ -8,7 +8,9 @@ id: "press"
 
 ## FLF Press and Announcements
 
-* August 18, 2015 - [Los Angeles Chief Data Officer Abhi Nemani Joins Free Law Founders] (http://opengovfoundation.org/release-los-angeles-chief-data-officer-abhi-nemani-joins-free-law-founders/)
+* October 1, 2015 - [Route Fifty: How D.C.’s Office of Open Government Is Transforming Government One Day at a Time](http://www.routefifty.com/2015/10/dc-office-open-government/122451/)
+
+* August 18, 2015 - [Los Angeles Chief Data Officer Abhi Nemani Joins Free Law Founders](http://opengovfoundation.org/release-los-angeles-chief-data-officer-abhi-nemani-joins-free-law-founders/)
 
 * July 15, 2015 - [5 Free Law Founders Elected Officials Urge Cambridge, MA Council to Publish City’s Laws Online as Open Data](http://opengovfoundation.org/free-law-founders-urge-cambridge-ma-council-to-open-their-laws-online/)
 
@@ -71,4 +73,3 @@ id: "press"
 * July 8, 2014 - [Government Executive: The Ultimate in Open Government: Unlocking the Law](http://www.govexec.com/state-local/2014/07/ultimate-open-government-unlocking-laws/87997/)
 
 * July 4, 2014 - [East and West Coast Legislators Set National Free Law Founders Challenge: Free and Open Source Platform for Governing Civic Hackers Accept One Year Challenge to Build Democracy 2.0 Platform](http://benkallos.com/press-release/east-and-west-coast-legislators-set-national-free-law-founders-challenge-free-and-open)
-
