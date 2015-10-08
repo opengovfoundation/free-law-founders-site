@@ -338,6 +338,7 @@ id: "who-we-are"
       <span class="member-name">Dazza Greenwood</span>
       <span class="member-role">Human Dynamics Group</span>
       <span class="member-location">MIT Media Lab</span>
+      <span class="member-founder">Coalition Co-Founder</span>
     </header>
     <section class="content">
       <p>
