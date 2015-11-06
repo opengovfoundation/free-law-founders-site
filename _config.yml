@@ -109,7 +109,7 @@ JB :
   analytics :
     provider : custom
     google :
-        tracking_id : 'UA-XXXXXX-XX'
+        tracking_id : 'UA-42400665-15'
     getclicky :
       site_id :
 
