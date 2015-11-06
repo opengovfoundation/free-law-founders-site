@@ -12,8 +12,8 @@ clicky_site_ids.push(66527697);
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-635329-12']);
-  _gaq.push(['_setDomainName', 'jekyllbootstrap.com']);
+  _gaq.push(['_setAccount', 'UA-42400665-15']);
+  _gaq.push(['_setDomainName', 'freelawfounders.org']);
   _gaq.push(['_trackPageview']);
 
   (function() {
