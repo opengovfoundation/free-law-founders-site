@@ -443,6 +443,24 @@ id: "who-we-are"
     </section>
   </div>
 
+    <div class="member">
+    <a id="matt_bailey"></a>
+    <img class="member-photo" src="/assets/images/members/Matt-Bailey.jpg" />
+    <header class="member-info">
+      <span class="member-name">Matt Bailey</span>
+      <span class="member-role">Director of Technology Innovation</span>
+      <span class="member-location">Washington, DC</span>
+    </header>
+    <section class="content">
+      <p>
+        Matt Bailey is D.C.’s first Director of Technology Innovation. In that capacity he helps connect DC government with the innovation economy and the civic technology community. His focus areas include closing the innovation gap, using technology to stimulate job creation, and improving access to innovative solutions to serve the District’s most overlooked communities. Matt is also working to reinvigorate the District’s Open Government and Open Data programs.
+      </p>
+      <p>
+        Previously, he served the Consumer Financial Protection Bureau as a technology strategist and user experience manager. Matt is also a co-founder of Code for DC, an all-volunteer organization that builds technology to help to improve the lives of District residents. Prior to that, Matt was CTO for Citizen Effect, a non-profit that paired a Kickstarter-like fundraising platform with community organizing and skill-building domestically and abroad. He has worked in civil sector technology consulting, web development, and information security and he’s an unapologetic English Major.
+      </p>
+    </section>
+  </div>
+
   <div class="member">
     <a id="congressional_data"></a>
     <img class="member-photo" src="/assets/images/members/Congressional-Data-Coalition.png" />
