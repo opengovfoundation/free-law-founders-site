@@ -21,7 +21,8 @@ function setupMembersContent() {
   var ratio = Math.ceil(
     $('.member-list').width() / $('.member').first().outerWidth()
   );
-  $('.member').each(function(i, elm) {
+  var members = $('.member')
+  members.each(function(i, elm) {
     elm = $(elm);
     // Add classes to tell us where the end of each row is.
     var position = i % ratio;
@@ -31,7 +32,7 @@ function setupMembersContent() {
     elm.data('count', i);
 
     // If our offset is 1, then we're at the end of a row.
-    if(ratio - position === 1) {
+    if(ratio - position === 1 || i === members.length - 1) {
       elm.after('<div class="content-box"></div>');
     }
   });
