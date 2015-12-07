@@ -8,6 +8,10 @@ id: "press"
 
 ## FLF Press and Announcements
 
+* December 2, 2015 - [Route Fifty: The Movement to Make Legal Codes More Accessible Expands in Miami](http://www.routefifty.com/2015/12/miami-dade-county-decoded/124149/)
+
+* December 2, 2015 - [Code for Miami & The OpenGov Foundation Launch MiamiDadeCode.org](http://opengovfoundation.org/release-code-for-miami-the-opengov-foundation-launch-miamidadecode-org/)
+
 * October 1, 2015 - [Route Fifty: How D.C.’s Office of Open Government Is Transforming Government One Day at a Time](http://www.routefifty.com/2015/10/dc-office-open-government/122451/)
 
 * August 18, 2015 - [Los Angeles Chief Data Officer Abhi Nemani Joins Free Law Founders](http://opengovfoundation.org/release-los-angeles-chief-data-officer-abhi-nemani-joins-free-law-founders/)
