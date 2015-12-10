@@ -212,7 +212,7 @@ id: "who-we-are"
     <header class="member-info">
       <span class="member-name">Nadeem Mazen</span>
       <span class="member-role">Councillor</span>
-      <span class="member-location">Cambridge, Massachusetts</span>
+      <span class="member-location">Cambridge, MA</span>
     </header>
     <section class="content">
       <p>
@@ -466,8 +466,8 @@ id: "who-we-are"
     <img class="member-photo" src="/assets/images/members/Waldo-Jaquith.jpg" />
     <header class="member-info">
       <span class="member-name">Waldo Jaquith</span>
-      <span class="member-role">Director of U.S. Open Data</span>
-      <span class="member-location">Charlottesville, VA</span>
+      <span class="member-role">Director</span>
+      <span class="member-location">U.S. Open Data</span>
     </header>
     <section class="content">
       <p>
@@ -484,8 +484,8 @@ id: "who-we-are"
     <img class="member-photo" src="/assets/images/members/Dan-Whaley.jpg" />
     <header class="member-info">
       <span class="member-name">Dan Whaley</span>
-      <span class="member-role">Founder and CEO of Hypothes.is</span>
-      <span class="member-location">San Francisco, CA</span>
+      <span class="member-role">Founder and CEO</span>
+      <span class="member-location">Hypothes.is</span>
     </header>
     <section class="content">
       <p>
