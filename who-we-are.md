@@ -10,7 +10,7 @@ id: "who-we-are"
 <h2>Who We Are</h2>
 
 <div class="intro">
-  The Free Law Founders is a nation-wide effort of people seeking to improve how we access, produce, and maintain the most important public information in America &mdash; our laws, legislation, and legal codes.  From San Francisco to New York City, we're coming together to tackle <a href="/the-challenge/">this challenge</a> with technology: creating the modern tools and democratic data standards our city and state governments need to serve citizens efficiently, effectively, and accountably.  Here are some of the Free Law Founders who have accepted this challenge.
+  The Free Law Founders is a nation-wide effort of people seeking to improve how we access, produce and maintain the most important public information in America &mdash; our laws, legislation and legal codes.  From San Francisco to New York City, we're coming together to tackle <a href="/the-challenge/">this challenge</a> with technology: creating the modern tools and democratic data standards our city and state governments need to serve citizens efficiently, effectively and accountably.  Here are some of the Free Law Founders who have accepted this challenge.
 </div>
 
 <div class="member-list">
@@ -29,7 +29,7 @@ id: "who-we-are"
         At the beginning of his career in public service, Ben Kallos put Albany voting records online so New Yorkers could hold politicians accountable. Since then, he has run a government reform organization that helped defeat a corrupt politician and has served as Policy Director for former Public Advocate Mark Green. Council Member Kallos serves as Chair of the Committee on Governmental Operations of the City Council, where he has fought to bring reform and transparency to government agencies. Praised by the New York Times for his "fresh ideas," Council Member Kallos has advocated for improving our schools, senior services and transportation.
       </p>
       <p>
-        Council Member Kallos graduated from Bronx Science, SUNY Albany and SUNY Buffalo Law School. He has a background in law, working as a union-side labor attorney, as well as technology and government, and has served as a member of Community Board 8 and Statewide Committee Chair for the New York Democratic Lawyers Council. He and his wife reside on the East Side, where he has lived his entire life.
+        Council Member Kallos graduated from Bronx Science, SUNY Albany and SUNY Buffalo Law School. He has a background in law, working as a union-side labor attorney, as well as technology and government and has served as a member of Community Board 8 and Statewide Committee Chair for the New York Democratic Lawyers Council. He and his wife reside on the East Side, where he has lived his entire life.
       </p>
       <p>
         <a href="http://council.nyc.gov/d5/html/members/home.shtml">Website</a>
@@ -51,13 +51,13 @@ id: "who-we-are"
         Supervisor Mark Farrell represents District 2, which includes the Presidio, Marina, Cow Hollow, Pacific Heights, Presidio Heights, Anza Vista, Laurel Heights, Jordan Park, the Lake Street corridor, Sea Cliff and parts of Russian Hill.
       </p>
       <p>
-        Supervisor Farrell currently serves as: Chair of the Budget and Finance Committee, as a Member of the City and School District Committee, as a Member of the Transportation Authority, as a Member of the Transportation Authority’s Finance Committee, as a Member of the State Legislation Committee, as a Member of the Health Service System Board, on the Department of Emergency Management Disaster Council, on the San Francisco America's Cup Organizing Committee, and on the 2016-17 Super Bowl Bid Committee.
+        Supervisor Farrell currently serves as: Chair of the Budget and Finance Committee, as a Member of the City and School District Committee, as a Member of the Transportation Authority, as a Member of the Transportation Authority’s Finance Committee, as a Member of the State Legislation Committee, as a Member of the Health Service System Board, on the Department of Emergency Management Disaster Council, on the San Francisco America's Cup Organizing Committee and on the 2016-17 Super Bowl Bid Committee.
       </p>
       <p>
-        Supervisor Farrell is a born and raised San Franciscan, and grew up in the neighborhoods of District 2. He attended both Stuart Hall and Saint Ignatius, and subsequently received his B.A. from Loyola Marymount University in Los Angeles, his M.A. from University College Dublin in Ireland, and J.D. from the University of Pennsylvania Law School in Philadelphia.
+        Supervisor Farrell is a born and raised San Franciscan and grew up in the neighborhoods of District 2. He attended both Stuart Hall and Saint Ignatius, and subsequently received his B.A. from Loyola Marymount University in Los Angeles, his M.A. from University College Dublin in Ireland, and J.D. from the University of Pennsylvania Law School in Philadelphia.
       </p>
       <p>
-        Prior to being elected to the Board of Supervisors, Supervisor Farrell practiced law as a corporate and securities attorney at Wilson Sonsini Goodrich & Rosati in Silicon Valley for 3 years, joined Thomas Weisel Partners as an investment banker where he was an integral part of the Internet & Digital Media team for over 5 years, and subsequently co-founded Quest Hospitality Ventures, a San Francisco-based venture capital firm focused on the hospitality and travel sector. Supervisor Farrell is focused on creating long-term, sustainable policies for District 2 and San Francisco. His legislative priorities include economic development, neighborhood vitality, public safety, and quality of life issues which affect all San Franciscans.
+        Prior to being elected to the Board of Supervisors, Supervisor Farrell practiced law as a corporate and securities attorney at Wilson Sonsini Goodrich & Rosati in Silicon Valley for 3 years, joined Thomas Weisel Partners as an investment banker where he was an integral part of the Internet & Digital Media team for over 5 years and subsequently co-founded Quest Hospitality Ventures, a San Francisco-based venture capital firm focused on the hospitality and travel sector. Supervisor Farrell is focused on creating long-term, sustainable policies for District 2 and San Francisco. His legislative priorities include economic development, neighborhood vitality, public safety and quality of life issues which affect all San Franciscans.
       </p>
       <p>
         Supervisor Farrell currently resides in the Jordan Park neighborhood with his wife and three children.  <a href="http://www.sfbos.org/index.aspx?page=11323">Website</a>
@@ -76,7 +76,7 @@ id: "who-we-are"
     </header>
     <section class="content">
       <p>
-        Susana Mendoza was sworn in as City Clerk of Chicago on May 16, 2011 and is the first woman ever elected to the Office of the City Clerk. Before City Clerk, she proudly served six terms as a Democratic member of the Illinois House of Representatives from 2001 to 2011, representing the 1st District of Illinois - which includes the Chicago communities of Brighton Park, Little Village, Gage Park, and Back of the Yards. As an Illinois State Representative, she has been publicly recognized for her leadership and legislation on social services, education, law enforcement and job creation.
+        Susana Mendoza was sworn in as City Clerk of Chicago on May 16, 2011 and is the first woman ever elected to the Office of the City Clerk. Before City Clerk, she proudly served six terms as a Democratic member of the Illinois House of Representatives from 2001 to 2011, representing the 1st District of Illinois - which includes the Chicago communities of Brighton Park, Little Village, Gage Park and Back of the Yards. As an Illinois State Representative, she has been publicly recognized for her leadership and legislation on social services, education, law enforcement and job creation.
       </p>
       <p>
         Susana Mendoza graduated from Bolingbrook High School where she earned All-State and All-Midwest honors in varsity soccer. She attended Northeast Missouri State University, (now Truman State University) on a soccer and academic scholarship, earning All-Midwest honors in soccer and a B.A. in Business Administration.
@@ -141,7 +141,7 @@ id: "who-we-are"
     </header>
     <section class="content">
       <p>
-        A native Washingtonian, Grosso was elected to the Council of the District of Columbia as an at-large councilmember on November 6, 2012 to represent residents in all eight wards. David brings a wealth of experience having worked with Congresswoman Eleanor Holmes Norton as her chief Counsel and former D.C. Councilmember Sharon Ambrose, in addition to his experience in the private sector. David is committed to continuing school reform efforts, improving health outcomes throughout the city, addressing inequities within the criminal justice system, and enhancing job opportunities by supporting a robust successful workforce development and public higher education system. David has also pushed for good governance, including sweeping ethics reform, transparency and open government, and strengthening civic engagement. He helped pilot a collaborative legislation platform, the Madison Project, in D.C. and is very supportive of the Council’s efforts to engage residents in the legislative process, such as the new Decoded D.C. website and the new Legislative Information Management System.
+        A native Washingtonian, Grosso was elected to the Council of the District of Columbia as an at-large councilmember on November 6, 2012 to represent residents in all eight wards. David brings a wealth of experience having worked with Congresswoman Eleanor Holmes Norton as her chief Counsel and former D.C. Councilmember Sharon Ambrose, in addition to his experience in the private sector. David is committed to continuing school reform efforts, improving health outcomes throughout the city, addressing inequities within the criminal justice system and enhancing job opportunities by supporting a robust successful workforce development and public higher education system. David has also pushed for good governance, including sweeping ethics reform, transparency and open government and strengthening civic engagement. He helped pilot a collaborative legislation platform, the Madison Project, in D.C. and is very supportive of the Council’s efforts to engage residents in the legislative process, such as the new Decoded D.C. website and the new Legislative Information Management System.
       </p>
       <p>
         <a href="http://www.davidgrosso.org/">Website</a>
@@ -159,22 +159,22 @@ id: "who-we-are"
     </header>
     <section class="content">
       <p>
-        For over a decade, Charles has worked in Ward 6 neighborhoods – helping bring about school reforms, working with small businesses, and improving our community. His years of public service to Ward 6 means he knows and understands neighborhood issues like no one else.
+        For over a decade, Charles has worked in Ward 6 neighborhoods – helping bring about school reforms, working with small businesses and improving our community. His years of public service to Ward 6 means he knows and understands neighborhood issues like no one else.
       </p>
       <p>
-        Charles Allen began his career in the District as a graduate fellow with the federal Department of Health and Human Services to work on expanding community-based health options across the nation. Charles quickly understood that to make true change he needed to return to his roots working at the local and community level. So Charles began his service to the District as policy director for the DC Primary Care Association, where he helped bring about legislative, budget, and policy changes that expanded health care options for almost every DC resident. Two of his signature efforts – bringing physicians, dentists, nurses and other healthcare providers to medically underserved communities and creating a District-owned captive insurance company to provide free and low-cost medical malpractice insurance to non-profit providers – remain a vital part of the city’s health care safety net nearly a decade after he helped create them.
+        Charles Allen began his career in the District as a graduate fellow with the federal Department of Health and Human Services to work on expanding community-based health options across the nation. Charles quickly understood that to make true change he needed to return to his roots working at the local and community level. So Charles began his service to the District as policy director for the DC Primary Care Association, where he helped bring about legislative, budget and policy changes that expanded health care options for almost every DC resident. Two of his signature efforts – bringing physicians, dentists, nurses and other healthcare providers to medically underserved communities and creating a District-owned captive insurance company to provide free and low-cost medical malpractice insurance to non-profit providers – remain a vital part of the city’s health care safety net nearly a decade after he helped create them.
       </p>
       <p>
         At the same time, Charles helped found DC for Democracy and served as Chair of the organization to bring a needed voice for progressive priorities and social justice issues facing the city. Today, DC for Democracy is a leading voice in the city.
       </p>
       <p>
-        These experiences led Charles to become an elected delegate for the District at the 2004 Democratic National Convention in Boston, and later serve as President of the Ward 6 Democrats. Ultimately, he served as chief of staff to Ward 6 Councilmember Tommy Wells, a position he held since Wells first took office in 2007.
+        These experiences led Charles to become an elected delegate for the District at the 2004 Democratic National Convention in Boston and later serve as President of the Ward 6 Democrats. Ultimately, he served as chief of staff to Ward 6 Councilmember Tommy Wells, a position he held since Wells first took office in 2007.
       </p>
       <p>
         Charles graduated from Washington and Lee University and received a master’s degree from the University of Alabama at Birmingham. In addition to his local political activism managing Wells’ successful Ward 6 campaigns, he has been involved in progressive national campaigns.
       </p>
       <p>
-        Charles Allen, his wife Jordi Hutchinson, and their daughter Cora Neal live at 15th and D Streets, NE with their dog Olive. <a href="http://dccouncil.us/council/charles-allen">Website</a>
+        Charles Allen, his wife Jordi Hutchinson and their daughter Cora Neal live at 15th and D Streets, NE with their dog Olive. <a href="http://dccouncil.us/council/charles-allen">Website</a>
       </p>
     </section>
   </div>
@@ -189,7 +189,7 @@ id: "who-we-are"
     </header>
     <section class="content">
       <p>
-        In his eight years in the D.C. Council, Tommy Wells won support throughout the District for his vision of a livable and walkable city for all. He was and remains a passionate advocate for innovative solutions, and D.C.’s leading voice for progressive change.
+        In his eight years in the D.C. Council, Tommy Wells won support throughout the District for his vision of a livable and walkable city for all. He was and remains a passionate advocate for innovative solutions and D.C.’s leading voice for progressive change.
       </p>
       <p>
         Tommy started his Washington career in 1983 as a social worker in the D.C. foster care system.  In 1991, he took the helm of the D.C. Consortium for Child Welfare, where he was a force for creating neighborhood based-family service collaboratives that coordinate the delivery of city and nonprofit resources. During his 15 years with the Consortium, Tommy also served as an ANC Commissioner from 1994 to 2000 and a member of the D.C. Board of Education, representing Wards 5 and 6, from 2000 to 2006.
@@ -216,7 +216,7 @@ id: "who-we-are"
     </header>
     <section class="content">
       <p>
-        Nadeem Mazen is a Cambridge City Councillor, co-founder of makerspace danger!awesome and founder of creative agency Nimblebot in Central Square, Cambridge. Mazen has spent the last several years as an instructor at MIT and faculty member at School of the Museum of Fine Arts, teaching undergraduate and graduate students the principles of tech and art entrepreneurship.  Follow @nadeemtron on Twitter for observations and ruminations from his post in Cambridge, the world capital for research, innovation, and progressive ideals.
+        Nadeem Mazen is a Cambridge City Councillor, co-founder of makerspace danger!awesome and founder of creative agency Nimblebot in Central Square, Cambridge. Mazen has spent the last several years as an instructor at MIT and faculty member at School of the Museum of Fine Arts, teaching undergraduate and graduate students the principles of tech and art entrepreneurship.  Follow @nadeemtron on Twitter for observations and ruminations from his post in Cambridge, the world capital for research, innovation and progressive ideals.
       </p>
       <p>
         <a href="http://www.cambridgema.gov/ccouncil/citycouncilmembers.aspx">Website</a>
@@ -259,7 +259,7 @@ id: "who-we-are"
     </header>
     <section class="content">
       <p>
-        Hans Riemer was elected to the Montgomery County Council in 2010, where he represents more than one million Montgomery County residents as an At-large Member.  In addition to his committee roles, Hans serves as the Council’s Lead for Digital Government, where he is working to make county government smarter and services more efficient. He authored the county’s Open Data Act of 2012, which is one of the country’s most thorough open data policies and has lead to groundbreaking initiatives including the new open budget tool piloted by the county with Socrata, and a first-in-the-nation policy to publish all freedom of information requests as an open data set. Before serving on the County Council, Hans established a record as an innovator in political engagement.  He served as National Youth Vote Director for the historic Obama for America campaign in 2007, and previously as political director for Rock the Vote.
+        Hans Riemer was elected to the Montgomery County Council in 2010, where he represents more than one million Montgomery County residents as an At-large Member.  In addition to his committee roles, Hans serves as the Council’s Lead for Digital Government, where he is working to make county government smarter and services more efficient. He authored the county’s Open Data Act of 2012, which is one of the country’s most thorough open data policies and has lead to groundbreaking initiatives including the new open budget tool piloted by the county with Socrata and a first-in-the-nation policy to publish all freedom of information requests as an open data set. Before serving on the County Council, Hans established a record as an innovator in political engagement.  He served as National Youth Vote Director for the historic Obama for America campaign in 2007 and previously as political director for Rock the Vote.
       </p>
       <p>
         <a href="http://www.montgomerycountymd.gov/riemer/">Website</a>
@@ -284,7 +284,7 @@ id: "who-we-are"
         Prior to heading the Office of Open Government, Ms. Hughes served in both the private and public sectors as a highly sought after strategic communications professional, directing communications and marketing for the Congressional Black Caucus Foundation; the Chair of the Council of the District of Columbia; the District of Columbia Metropolitan Police Department; and the Office of the Attorney General for the District of Columbia.
       </p>
       <p>
-        Ms. Hughes began her career with CBS, and has worked in television, print and radio in New York, Philadelphia and Washington, DC. She has appeared on major national and local television networks, including ABC, NBC, CBS and Fox News networks.
+        Ms. Hughes began her career with CBS and has worked in television, print and radio in New York, Philadelphia and Washington, DC. She has appeared on major national and local television networks, including ABC, NBC, CBS and Fox News networks.
       </p>
       <p>
         She is a member of the District of Columbia Bar Association and the Maryland State Bar Association.  Ms. Hughes is a graduate of Howard University and Temple University Beasley School of Law.  <a href="http://www.bega-dc.gov/office-open-government">Website</a>
@@ -303,7 +303,7 @@ id: "who-we-are"
     </header>
     <section class="content">
       <p>
-        Having a passion for using cutting edge data science techniques to derive valuable insights and turn data into information. A Boston University computer science graduate with an academic emphasis on data, logic, and mathematics applied to 15 years of real world analytics and R&amp;D experience in manufacturing, healthcare, finance, and government.  Currently leading the City of Boston’s effort around technical innovation and policy development with data, analytics, and research as well as advising other government officials on a local and national level on the use of data to further civic engagement and increase operational efficiency.
+        Having a passion for using cutting edge data science techniques to derive valuable insights and turn data into information. A Boston University computer science graduate with an academic emphasis on data, logic and mathematics applied to 15 years of real world analytics and R&amp;D experience in manufacturing, healthcare, finance and government.  Currently leading the City of Boston’s effort around technical innovation and policy development with data, analytics and research as well as advising other government officials on a local and national level on the use of data to further civic engagement and increase operational efficiency.
       </p>
     </section>
   </div>
@@ -318,13 +318,13 @@ id: "who-we-are"
     </header>
     <section class="content">
       <p>
-        Abhi Nemani is a writer, speaker, organizer, and technologist. He is currently serving as the first Chief Data Officer for the City of Los Angeles, where he leads the city's efforts to build an open and data-driven LA.
+        Abhi Nemani is a writer, speaker, organizer and technologist. He is currently serving as the first Chief Data Officer for the City of Los Angeles, where he leads the city's efforts to build an open and data-driven LA.
       </p>
       <p>
-        Before joining the city, he helped build, launch, and run the national non-profit, Code for America, a technology organization dedicated to reinventing government for the 21st century. Abhi led CfA’s product strategy as its teams tackled local government challenges ranging from transparency and business licensing to food stamps and public safety. He also led the organization's efforts to scale through building multiple new programs: a first-of-its-kind civic startup accelerator, an international volunteer corps, and a collaborative network for hundreds of government innovators. Additionally, Abhi developed the organization’s policy portfolio — working hand-in-hand with area experts and local leaders — to enact over 30 municipal policy reforms on topics including open data, healthcare, and procurement.
+        Before joining the city, he helped build, launch and run the national non-profit, Code for America, a technology organization dedicated to reinventing government for the 21st century. Abhi led CfA’s product strategy as its teams tackled local government challenges ranging from transparency and business licensing to food stamps and public safety. He also led the organization's efforts to scale through building multiple new programs: a first-of-its-kind civic startup accelerator, an international volunteer corps and a collaborative network for hundreds of government innovators. Additionally, Abhi developed the organization’s policy portfolio — working hand-in-hand with area experts and local leaders — to enact over 30 municipal policy reforms on topics including open data, healthcare and procurement.
       </p>
       <p>
-        Abhi is a Member of the Board of Directors for the OpenGov Foundation, a member of the Board of Advisors of Significance Labs, and has served as Innovator-in-Residence at GovDelivery.
+        Abhi is a Member of the Board of Directors for the OpenGov Foundation, a member of the Board of Advisors of Significance Labs and has served as Innovator-in-Residence at GovDelivery.
       </p>
       <p>
         <a href="http://abhinemani.com/">Website</a>
@@ -396,7 +396,7 @@ id: "who-we-are"
     </header>
     <section class="content">
       <p>
-        Daniel Schuman has long worked at the intersection of law, policy, and technology. He most recently served as policy director for Citizens for Responsibility and Ethics in Washington (CREW), and prior to that as policy counsel with the Sunlight Foundation. In a prior life he was a legislative attorney with the Congressional Research Service. Daniel chairs the Congressional Data Coalition's steering committee and founded the Advisory Committee on Transparency. In 2013, Daniel was named among the 'top 25 most influential people under 40 in gov and tech' by FedScoop. He is a nationally recognized expert on federal transparency and has testified before Congress and appeared on NPR, C-SPAN. Daniel graduated cum laude from Emory University School of Law.
+        Daniel Schuman has long worked at the intersection of law, policy and technology. He most recently served as policy director for Citizens for Responsibility and Ethics in Washington (CREW), and prior to that as policy counsel with the Sunlight Foundation. In a prior life he was a legislative attorney with the Congressional Research Service. Daniel chairs the Congressional Data Coalition's steering committee and founded the Advisory Committee on Transparency. In 2013, Daniel was named among the 'top 25 most influential people under 40 in gov and tech' by FedScoop. He is a nationally recognized expert on federal transparency and has testified before Congress and appeared on NPR, C-SPAN. Daniel graduated cum laude from Emory University School of Law.
       </p>
       <p>
         <a href="https://demandprogress.org/about/">Website</a>
@@ -417,7 +417,7 @@ id: "who-we-are"
         LaVita Tuff works with the local policy team to improve online access to government information. Her work focuses on analyzing and writing about government data disclosure in addition to providing feedback on adoption and implementation of open data, open meetings and open government policies at the state and municipal levels.
       </p>
       <p>
-        Her passion for access to information comes from her community and economic development background. She previously worked as an Economic Development Specialist for the City of Baltimore. Prior to that she served as Mayoral Fellow to Mayor Stephanie Rawlings-Blake and worked on Capitol Hill. She is a graduate of Tennessee State University, the University of New Orleans Master of Urban and Regional Planning program, and the University of Baltimore School of Law.
+        Her passion for access to information comes from her community and economic development background. She previously worked as an Economic Development Specialist for the City of Baltimore. Prior to that she served as Mayoral Fellow to Mayor Stephanie Rawlings-Blake and worked on Capitol Hill. She is a graduate of Tennessee State University, the University of New Orleans Master of Urban and Regional Planning program and the University of Baltimore School of Law.
       </p>
       <p>
         <a href="http://sunlightfoundation.com/team/ltuff/">Website</a>
@@ -435,7 +435,7 @@ id: "who-we-are"
     </header>
     <section class="content">
       <p>
-        Sean Vitka is the Federal Policy Manager at the Sunlight Foundation advocating for policy that opens up more legal information to all. He’s been focused on public interest work since 2007, when he founded a charity that provides technological solutions to problems associated with disability and hospitalization. Since then, he’s earned a J.D. from Boston College law school, where he focused on technology policy and practiced housing law. Sean’s worked at the Open Technology Institute, the Institute for Public Representation at Georgetown Law, and was a 2013 Google Policy Fellow. His writing on economics, the law and technology has been published in a variety of places, including Ars Technica, The Chicago Tribune, Slate and The Washington Post. He has in turn been directly quoted or cited in articles published by The Guardian, Bloomberg, MSNBC, Mother Jones, Andrew Sullivan's The Dish, The Plum Line at The Washington Post, and many others.
+        Sean Vitka is the Federal Policy Manager at the Sunlight Foundation advocating for policy that opens up more legal information to all. He’s been focused on public interest work since 2007, when he founded a charity that provides technological solutions to problems associated with disability and hospitalization. Since then, he’s earned a J.D. from Boston College law school, where he focused on technology policy and practiced housing law. Sean’s worked at the Open Technology Institute, the Institute for Public Representation at Georgetown Law and was a 2013 Google Policy Fellow. His writing on economics, the law and technology has been published in a variety of places, including Ars Technica, The Chicago Tribune, Slate and The Washington Post. He has in turn been directly quoted or cited in articles published by The Guardian, Bloomberg, MSNBC, Mother Jones, Andrew Sullivan's The Dish, The Plum Line at The Washington Post and many others.
       </p>
       <p>
         <a href="http://sunlightfoundation.com/team/">Website</a>
@@ -453,10 +453,46 @@ id: "who-we-are"
     </header>
     <section class="content">
       <p>
-        Matt Bailey is D.C.’s first Director of Technology Innovation. In that capacity he helps connect DC government with the innovation economy and the civic technology community. His focus areas include closing the innovation gap, using technology to stimulate job creation, and improving access to innovative solutions to serve the District’s most overlooked communities. Matt is also working to reinvigorate the District’s Open Government and Open Data programs.
+        Matt Bailey is D.C.’s first Director of Technology Innovation. In that capacity he helps connect DC government with the innovation economy and the civic technology community. His focus areas include closing the innovation gap, using technology to stimulate job creation and improving access to innovative solutions to serve the District’s most overlooked communities. Matt is also working to reinvigorate the District’s Open Government and Open Data programs.
       </p>
       <p>
-        Previously, he served the Consumer Financial Protection Bureau as a technology strategist and user experience manager. Matt is also a co-founder of Code for DC, an all-volunteer organization that builds technology to help to improve the lives of District residents. Prior to that, Matt was CTO for Citizen Effect, a non-profit that paired a Kickstarter-like fundraising platform with community organizing and skill-building domestically and abroad. He has worked in civil sector technology consulting, web development, and information security and he’s an unapologetic English Major.
+        Previously, he served the Consumer Financial Protection Bureau as a technology strategist and user experience manager. Matt is also a co-founder of Code for DC, an all-volunteer organization that builds technology to help to improve the lives of District residents. Prior to that, Matt was CTO for Citizen Effect, a non-profit that paired a Kickstarter-like fundraising platform with community organizing and skill-building domestically and abroad. He has worked in civil sector technology consulting, web development and information security and he’s an unapologetic English Major.
+      </p>
+    </section>
+  </div>
+
+    <div class="member">
+    <a id="waldo_jaquith"></a>
+    <img class="member-photo" src="/assets/images/members/Waldo-Jaquith.jpg" />
+    <header class="member-info">
+      <span class="member-name">Waldo Jaquith</span>
+      <span class="member-role">Director of U.S. Open Data</span>
+      <span class="member-location">Charlottesville, VA</span>
+    </header>
+    <section class="content">
+      <p>
+        Waldo Jaquith has an enthusiastic supporter of legal technology for twenty years, beginning with an effort as a teenager to put his city’s laws online. He created The State Decoded, runs Virginia Decoded and worked in open ethics data at the White House. He serves as the Senior Technical Advisor to the Sunlight Foundation and the Director of U.S. Open Data, where his work is made possible by a fellowship with the Shuttleworth Foundation.
+      </p>
+      <p>
+        <a href="https://usopendata.org/">Website</a>
+      </p>
+    </section>
+  </div>
+
+    <div class="member">
+    <a id="dan_whaley"></a>
+    <img class="member-photo" src="/assets/images/members/Dan-Whaley.jpg" />
+    <header class="member-info">
+      <span class="member-name">Dan Whaley</span>
+      <span class="member-role">Founder and CEO of Hypothes.is</span>
+      <span class="member-location">San Francisco, CA</span>
+    </header>
+    <section class="content">
+      <p>
+        Dan Whaley is the Founder and CEO of the non-profit Hypothes.is. Their mission is to bring an open, interoperable conversation layer to the world’s knowledge. Many years ago, Dan founded the first travel reservation company on the web, GetThere, which went public in 1999 and was purchased by Sabre in 2000. Today, it is the dominant player in its industry and processes $10B in travel services on behalf of airlines, corporations and consumers.
+      </p>
+      <p>
+        <a href="https://hypothes.is/">Website</a>
       </p>
     </section>
   </div>
@@ -471,10 +507,10 @@ id: "who-we-are"
     </header>
     <section class="content">
       <p>
-        The Congressional Data Coalition (CDC) is comprised of citizens, public interest groups, trade associations, and businesses that champion greater governmental transparency through improved public access to and long-term preservation of congressional information.
+        The Congressional Data Coalition (CDC) is comprised of citizens, public interest groups, trade associations and businesses that champion greater governmental transparency through improved public access to and long-term preservation of congressional information.
       </p>
       <p>
-        Members of the CDC include CREW, R Street Institute, Electronic Frontier Foundation, Sunlight Foundation, Engine Advocacy, Competitive Enterprise Institute, TechFreedom, GovTrack.us, Capitol Bells, WashingtonWatch.com, LegisWorks, LegCyte, Free Government Information, Fastcase, The Open Gov Foundation, OpenTheGovernment.org, and Participatory Politics Foundation.
+        Members of the CDC include CREW, R Street Institute, Electronic Frontier Foundation, Sunlight Foundation, Engine Advocacy, Competitive Enterprise Institute, TechFreedom, GovTrack.us, Capitol Bells, WashingtonWatch.com, LegisWorks, LegCyte, Free Government Information, Fastcase, The Open Gov Foundation, OpenTheGovernment.org and Participatory Politics Foundation.
       </p>
       <p>
         <a href="http://congressionaldata.org/">Website</a>
