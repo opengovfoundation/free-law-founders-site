@@ -26,10 +26,6 @@ topbar:
     title : 'Resources'
 
   -
-    url: '/blog/'
-    title : 'Blog'
-
-  -
     url : '/press/'
     title : 'Press'
 
