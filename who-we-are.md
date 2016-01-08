@@ -497,6 +497,46 @@ id: "who-we-are"
     </section>
   </div>
 
+    <div class="member">
+    <a id="jonathan_askin"></a>
+    <img class="member-photo" src="/assets/images/members/Jonathan-Askin.jpg" />
+    <header class="member-info">
+      <span class="member-name">Jonathan Askin</span>
+      <span class="member-role">Professor</span>
+      <span class="member-location">Brooklyn Law School</span>
+    </header>
+    <section class="content">
+      <p>
+        Jonathan Askin is a professor at Brooklyn Law School, teaching technology, telecommunications, and entrepreneurial law and policy. He is the Founder of the <a href="http://www.brooklaw.edu/blip">Brooklyn Law Incubator &amp; Policy Clinic</a>, which represents Internet, new media, communications and other tech entrepreneurs, startups, innovators and organizations on business development, policy advocacy and law reform. He is also the Faculty Chair and Innovation Catalyst for the Brooklyn Law Center for Urban Business Entrepreneurship. Jonathan is also a Visiting Professorial Fellow at the Centre for Commercial Law Studies, Queen Mary University of London, a Fellow at the Columbia Institute for Tele-Information, an Adjunct Professor at Columbia Law School, and Advisor to iLINC, a network of legal support clinics for the European startup community. Jonathan will spend Spring 2016 as a Visiting Professor at the MIT Media Lab. Jonathan chaired the Internet Governance Working Group for the Obama ’08 Presidential Campaign. He has served on the boards of many communications and Internet industry and consumer groups. Jonathan is an honors grad of both Harvard College and Rutgers Law School.
+      </p>
+      <p>
+        <a href="https://www.brooklaw.edu/faculty/directory/facultymember/biography.aspx?id=jonathan.askin">Website</a>
+      </p>
+    </section>
+  </div>
+
+    <div class="member">
+    <a id="anthony_luppino"></a>
+    <img class="member-photo" src="/assets/images/members/Anthony-Luppino.jpg" />
+    <header class="member-info">
+      <span class="member-name">Anthony (Tony) Luppino</span>
+      <span class="member-role">Professor</span>
+      <span class="member-location">University of Missouri-Kansas City School of Law</span>
+    </header>
+    <section class="content">
+      <p>
+        Tony Luppino is a Rubey M. Hulen Professor of Law and the Director of Entrepreneurship Programs at the University of Missouri-Kansas City (UMKC) School of Law, and a Senior Fellow with the cross-campus Regnier Institute for Entrepreneurship &amp; Innovation at UMKC.  He teaches or co-teachers a variety of business planning, entrepreneurship and tax classes, including projects-based interdisciplinary courses on Entrepreneurship and New Venture Creation, and on Law, Technology &amp; Public Policy.
+      </p>
+      <p>Tony was the principal organizer and initial chair (2011) of the Law &amp; Entrepreneurship Special Interest Group of the United States Association for Small Business &amp; Entrepreneurship, and 2014 co-chair of that group. He recently connected with Free Law Founders in his work as a principal organizer of a new Cities &amp; Law Schools Consortium to facilitate collaborations on civic entrepreneurship and civic tech designed to promote more efficient regulatory processes and access to law and justice, and to create fertile environments for innovation.
+      </p>
+      <p>Prof. Luppino has authored or co-authored writings on various subjects involving law and entrepreneurship, including tax and regulatory policies, interactions of entrepreneurs with law and lawyers, ownership issues regarding university-generated innovation, proposed reforms to U.S. immigration law to assist foreign student entrepreneurs, and hybrid business organization forms for social enterprises. He holds an A.B. from Dartmouth College, J.D. from Stanford Law School, and LL.M in Taxation from the Boston University School of Law.
+      </p>
+      <p>
+        <a href="http://law.umkc.edu/specialty-areas/law-entrepreneurship/law-entrepreneurship-faculty/">Website</a>
+      </p>
+    </section>
+  </div>
+
   <div class="member">
     <a id="congressional_data"></a>
     <img class="member-photo" src="/assets/images/members/Congressional-Data-Coalition.png" />

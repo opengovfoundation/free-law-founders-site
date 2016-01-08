@@ -8,6 +8,8 @@ id: "press"
 
 ## FLF Press and Announcements
 
+* January 8, 2016 - [Two Top Legal Data Scholars Join the Free Law Founders](http://opengovfoundation.org/release-two-top-legal-data-scholars-join-the-free-law-founders/)
+
 * December 10, 2015 - [Free Law Founders Expands with New Members from U.S. Open Data and Hypothes.is](http://opengovfoundation.org/release-free-law-founders-expands-with-new-members-from-u-s-open-data-and-hypothes-is/)
 
 * December 2, 2015 - [Route Fifty: The Movement to Make Legal Codes More Accessible Expands in Miami](http://www.routefifty.com/2015/12/miami-dade-county-decoded/124149/)
