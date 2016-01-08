@@ -11,7 +11,7 @@ id: "about"
 
 <div class="intro">
   <p>
-    The Free Law Founders (FLF) is a nation-wide partnership of local elected officials, non-profit software developers, educators, and city attorneys dedicated to upgrading how citizens can access America’s laws, legislation, and the lawmaking process itself on the Internet. The Founders have accepted the challenge of creating the modern tools, data standards and processes our state and local governments need to meet the growing challenges of democracy in the Internet Age.
+    The Free Law Founders (FLF) is a nationwide partnership of local elected officials, non-profit software developers, educators, and city attorneys dedicated to upgrading how citizens can access America’s laws, legislation, and the lawmaking process itself on the Internet. The Founders have accepted the challenge of creating the modern tools, data standards and processes our state and local governments need to meet the growing challenges of democracy in the Internet Age.
   </p>
   <p>
     The FLF is open to anyone willing to help accomplish these goals across the country. <a href="http://bit.ly/1mM1ZVe">Sign up today!</a>
