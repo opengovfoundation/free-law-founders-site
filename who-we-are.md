@@ -10,7 +10,7 @@ id: "who-we-are"
 <h2>Who We Are</h2>
 
 <div class="intro">
-  The Free Law Founders is a nation-wide effort of people seeking to improve how we access, produce and maintain the most important public information in America &mdash; our laws, legislation and legal codes.  From San Francisco to New York City, we're coming together to tackle <a href="/the-challenge/">this challenge</a> with technology: creating the modern tools and democratic data standards our city and state governments need to serve citizens efficiently, effectively and accountably.  Here are some of the Free Law Founders who have accepted this challenge.
+  The Free Law Founders is a nationwide effort of people seeking to improve how we access, produce and maintain the most important public information in America &mdash; our laws, legislation and legal codes.  From San Francisco to New York City, we're coming together to tackle <a href="/the-challenge/">this challenge</a> with technology: creating the modern tools and democratic data standards our city and state governments need to serve citizens efficiently, effectively and accountably.  Here are some of the Free Law Founders who have accepted this challenge.
 </div>
 
 <div class="member-list">
