@@ -10,7 +10,7 @@ tagline2: Let's upgrade democracy, together
 
 <div class="intro">
   <p>
-    The Free Law Founders is a nation-wide, collaborative effort <em>open to all people</em> who want to improve how laws and legislation are produced and presented to citizens of American states and cities.
+    The Free Law Founders is a nationwide, collaborative effort <em>open to all people</em> who want to improve how laws and legislation are produced and presented to citizens of American states and cities.
   </p>
 
   <ul class="member-name-list">
