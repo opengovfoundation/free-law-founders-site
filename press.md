@@ -8,6 +8,8 @@ id: "press"
 
 ## FLF Press and Announcements
 
+* June 2, 2016 - [Micah Sifry and Andrew Rasiej Join the Free Law Founders](http://opengovfoundation.org/release-micah-sifry-and-andrew-rasiej-join-the-free-law-founders/)
+
 * January 8, 2016 - [Two Top Legal Data Scholars Join the Free Law Founders](http://opengovfoundation.org/release-two-top-legal-data-scholars-join-the-free-law-founders/)
 
 * December 10, 2015 - [Free Law Founders Expands with New Members from U.S. Open Data and Hypothes.is](http://opengovfoundation.org/release-free-law-founders-expands-with-new-members-from-u-s-open-data-and-hypothes-is/)

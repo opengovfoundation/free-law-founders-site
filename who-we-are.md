@@ -558,4 +558,49 @@ id: "who-we-are"
     </section>
   </div>
 
+  <div class="member">
+    <a id="micah_sifry"></a>
+    <img class="member-photo" src="/assets/images/members/Micah-Sifry.jpg" />
+    <header class="member-info">
+      <span class="member-name">Micah Sifry</span>
+      <span class="member-role">Co-Founder</span>
+      <span class="member-location">Civic Hall and Personal Democracy Media</span>
+    </header>
+    <section class="content">
+      <p>
+        Micah L. Sifry is Co-Founder of the Personal Democracy Forum. He is also Co-Founder and the Executive Director of Civic Hall, a one-of-a-kind community center for the world’s civic innovators located in the heart of New York City. Additionally, he consults on how political organizations, campaigns, non-profits and media entities can adapt to and thrive in a networked world. He is a senior technology adviser to the Sunlight Foundation, which he helped found in 2006, and also serves on the board of Consumer Reports and the Public Laboratory for Open Technology and Science. 
+      </p>
+      <p>
+        He is the author and editor of eight books, most recently, A Lever and a Place to Stand: How Civic Tech Can Move the World (PDM Press, 2015), The Big Disconnect: Why the Internet Hasn’t Transformed Politics (Yet) (OR Books, 2014) and Wikileaks and the Age of the Transparency (OR Books, 2011). In 2012 he taught “The Politics of the Internet” as a visiting lecturer at Harvard’s Kennedy School. 
+      </p>
+      <p>
+        <a href="https://twitter.com/Mlsif">Twitter</a>
+      </p>
+    </section>
+  </div>
+
+  <div class="member">
+    <a id="andrew_rasiej"></a>
+    <img class="member-photo" src="/assets/images/members/Andrew-Rasiej.jpg" />
+    <header class="member-info">
+      <span class="member-name">Andrew Rasiej</span>
+      <span class="member-role">Co-Founder</span>
+      <span class="member-location">Civic Hall and Personal Democracy Media</span>
+    </header>
+    <section class="content">
+      <p>
+        Andrew Rasiej is the Founder and CEO of Civic Hall, a one-of-a-kind community center for the world’s civic innovators located in the heart of New York City. He is also a civic and social entrepreneur, technology strategist, and Founder of the Personal Democracy Forum.
+      </p>
+      <p>
+        Additionally, Andrew is the Founder of MOUSE.org, which focuses on 21st century public education; Co-Founder of Mideastwire.com, which translates Arabic and Farsi news and opinion pieces into English; Senior Technology Advisor to the Sunlight Foundation, a D.C.-based organization, using technology to make government more transparent; and the Chairman of the NY Tech Meetup, a 50,000-member organization of technologists, venture funders, marketers, representing start-up and mature companies using technology to transform themselves, New York City, and the world.
+      </p>
+      <p>
+        In 2005, Andrew ran a highly visible campaign for NYC Public Advocate on a technology and innovation driven platform to redesign the office as a network, bring low-cost broadband to underserved communities, and open up access to city-controlled public data. He is a graduate of the Cooper Union for the Advancement of Science and Art. 
+      </p>
+      <p>
+        <a href="https://twitter.com/Rasiej">Twitter</a>
+      </p>
+    </section>
+  </div>
+
 </div>
