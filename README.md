@@ -7,7 +7,7 @@ and then click the "Edit" button on the tabbed navigation for that
 file.  We're using [GitHub Markdown](https://help.github.com/articles/github-flavored-markdown)
 to render the site.
 
-## Creating a page
+## How to create a new page
 
 To create a new page, simply add a new file by clicking the **+** next to
 ` free-law-founders-site / ` at the top of the GitHub repo,
